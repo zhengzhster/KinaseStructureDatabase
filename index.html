@@ -115,10 +115,10 @@
       .then(function(response){
         return response.json();
       })
-      .then(function(ckidata){
+      .then(function(ckidatas){
         $("#data-output").DataTable({
           scrollX: true,
-	  data: ckidata,
+	  data: ckidatas,
           "columns":[
 	        {data: "Index"},
             {data: "UniProt"},
