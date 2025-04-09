@@ -110,32 +110,33 @@
       </div>
   </div>
 
+
   <script>
-    fetch("./data/ckidata.json")
-      .then(function(response){
-        return response.json();
-      })
-      .then(function(ckidatas){
-        $("#data-output").DataTable({
-          scrollX: true,
-	  data: ckidatas,
-          "columns":[
-	        {data: "Index"},
-            {data: "UniProt"},
-            {data: "PDB"},
-            {data: "Ligand_Chain"},
-            {data: "Ligand_Index"},
-            {data: "Ligand"},
-            {data: "Nucleophile_Chain"},
-            {data: "Nucleophile_Index"},
-            {data: "Nucleophile"},
-            {data: "Kinase"},
-            {data: "Organism"},
-            {data: "Warhead Type"},
-            {data: "Nucleophile_Location"}
-          ]
+      fetch("mkidata.json")
+        .then(function(response){
+          return response.json();
+        })
+        .then(function(mkidatas){
+          $("#data-output").DataTable({
+            scrollX: true,
+  	  data: mkidatas,
+            "columns":[
+              {data: "Index"},
+                {data: "UniProt"},
+                {data: "PDB"},
+                {data: "Ligand_Chain"},
+                {data: "Ligand_Index"},
+                {data: "Ligand"},
+                {data: "Nucleophile_Chain"},
+                {data: "Nucleophile_Index"},
+                {data: "Nucleophile"},
+                {data: "Kinase"},
+                {data: "Organism"},
+                {data: "Warhead Type"},
+                {data: "Nucleophile_Location"}
+            ]
+          });
         });
-      });
   </script>
 </body>
 </html>
