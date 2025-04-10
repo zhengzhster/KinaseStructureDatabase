@@ -10,6 +10,9 @@
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css"/>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
 
   <style>
     div.dataTables_wrapper {
@@ -110,32 +113,31 @@
       </div>
   </div>
 
-  <script>
-    fetch("ckidata.json")
-      .then(function(response){
-        return response.json();
-      })
-      .then(function(ckidatas){
-        $("#data-output").DataTable({
-          scrollX: true,
-	  data: ckidatas,
-          "columns":[
-	        {data: "Index"},
-            {data: "UniProt"},
-            {data: "PDB"},
-            {data: "Ligand_Chain"},
-            {data: "Ligand_Index"},
-            {data: "Ligand"},
-            {data: "Nucleophile_Chain"},
-            {data: "Nucleophile_Index"},
-            {data: "Nucleophile"},
-            {data: "Kinase"},
-            {data: "Organism"},
-            {data: "Warhead Type"},
-            {data: "Nucleophile_Location"}
-          ]
-        });
+  $(document).ready(function() {
+  fetch("ckidata.json")
+    .then(response => response.json())
+    .then(ckidatas => {
+      $("#data-output").DataTable({
+        scrollX: true,
+        data: ckidatas,
+        columns: [
+          {data: "Index"},
+          {data: "UniProt"},
+          {data: "PDB"},
+          {data: "Ligand_Chain"},
+          {data: "Ligand_Index"},
+          {data: "Ligand"},
+          {data: "Nucleophile_Chain"},
+          {data: "Nucleophile_Index"},
+          {data: "Nucleophile"},
+          {data: "Kinase"},
+          {data: "Organism"},
+          {data: "Warhead Type"},
+          {data: "Nucleophile_Location"}
+        ]
       });
-  </script>
+    });
+});
+
 </body>
 </html>
