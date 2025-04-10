@@ -111,28 +111,24 @@
   </div>
 
   <script>
-    fetch("ckidata.json")
+    fetch("mkidata.json")
       .then(function(response){
         return response.json();
       })
-      .then(function(ckidatas){
+      .then(function(mkidatas){
         $("#data-output").DataTable({
           scrollX: true,
-	  data: ckidatas,
+	  data: mkidatas,
           "columns":[
-            {data: "Index"},
-              {data: "UniProt"},
-              {data: "PDB"},
-              {data: "Ligand_Chain"},
-              {data: "Ligand_Index"},
-              {data: "Ligand"},
-              {data: "Nucleophile_Chain"},
-              {data: "Nucleophile_Index"},
-              {data: "Nucleophile"},
-              {data: "Kinase"},
-              {data: "Organism"},
-              {data: "Warhead Type"},
-              {data: "Nucleophile_Location"}
+	        {data: "Index"},
+            {data: "Kinase Target"},
+            {data: "Binding Affinity"},
+            {data: "Type"},
+            {data: "Names in literature"},
+            {data: "Reference"},
+            {data: "SMILES"},
+            {data: "Scaffold"},
+            {data: "SMILES withous Bridge Linker"}
           ]
         });
       });
