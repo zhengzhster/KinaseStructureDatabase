@@ -29,6 +29,22 @@
       padding-left: 100px;
     }
   </style>
+  <style>
+  .custom-row {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+  }
+
+  .column-left {
+    width: 605px;
+  }
+
+  .column-right {
+    flex: 1; /* take remaining space */
+  }
+</style>
+
   <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
 	<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.13.2/js/jquery.dataTables.min.js"></script>
 </head>
@@ -39,31 +55,25 @@
   <h1 style="font-size: 35px; ">Structure-based Kinases Resources: <u>KPDB</u>, <u>KLPDB</u>, <u>AKPDB</u>, and <u>CIKPDB</u> </h1>
 </div>
 </div>
-<div class="container">
-   <div class="row justify-content-center" style="display:flex; padding-left: 120px; padding-bottom: 50px;">
-      <div class="col-md-6">
-        <img src="./picture/cki2.png" class="img-fluid" width="400">
-      </div>
-      <div class="col-md-6">
-        <p style="font-size: 18; "> The Structure-based Kinase Resources is a comprehensive collection of all published kinase domain structures from the UniProt and the Protein Data Bank (PDB). It consists of four curated components: the Kinase Domain PDB database (<b>KPDB</b>), Kinase Ligand-binding PDB database (<b>KLPDB</b>), Apo Kinase PDB database (<b>AKPDB</b>), and Covalent Inhibitor-binding Kinase PDB database (<b>CIKPDB</b>).</p>
-        <p style="line-height: 1.0;">Latest update: <b>2025-April-09</b></p>
-        <p style="line-height: 1.0;">Number of <u>KPDB</u> (PDB IDs): <b>6878</b></p>
-        <p style="line-height: 1.0;">  Number of Covered Kinases: <b>353 (Human:311; Mouse: 42)</b></p>
-        <p style="line-height: 1.0;">Number of <u>KLPDB</u> (PDB IDs): <b>6042</b></p>
-        <p style="line-height: 1.0;">Number of <u>AKPDB</u> (PDB IDs): <b>836</b></p>
-        <p style="line-height: 0.8;">Number of <u>CIKPDB</u> (PDB IDs): <b>307</b></p>
-        <p style="line-height: 0.3;">Download the databases (csv format):
-          <a href='./data/Kinase_PDBs_20250101.txt' download><u>KPDB database<u></a>;</p>
-        <p style="line-height: 0.3;">
-          <a href='./data/Kinasewithligand_PDBs_20250101.txt' download><u>KLPDB database<u></a>;
-          <a href='./data/Kinasewithoutligand_PDBs_20250101.txt' download><u>AKPDB database<u></a>;
-          <a href='./data/CKI_PDBs_20250101.csv' download><u>CKIPDB database<u></a>
-        </p>
-        <p style="line-height: 1.2;">Reference: <a href="xx"> We will update once published </a></p>
-      </div>
+<div class="container" style="max-width: 1400px;">
+  <div class="custom-row">
+    <!-- Column 1: fixed width with image -->
+    <div class="column-left">
+      <img src="./picture/cki.png" class="img-fluid" style="max-width: 100%; height: auto;">
+    </div>
+
+    <!-- Column 2: flexible width for text -->
+    <div class="column-right">
+      <p style="font-size: 18px;">The Structure-based Kinase Resources is a comprehensive collection of all published kinase domain structures from UniProt and PDB. It includes:</p>
+      <ul style="line-height: 1.2;">
+        <li><b>KPDB</b>: Kinase Domain PDB database</li>
+        <li><b>KLPDB</b>: Kinase Ligand-binding PDB database</li>
+        <li><b>AKPDB</b>: Apo Kinase PDB database</li>
+        <li><b>CIKPDB</b>: Covalent Inhibitor-binding Kinase PDB database</li>
+      </ul>
     </div>
   </div>
-
+</div>
 
   <div class="container">
 
