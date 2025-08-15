@@ -1,1 +1,1 @@
-# KinaseStructueDatabase
+# KinaseStructureDatabase
