@@ -12,7 +12,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "2",
     "UniProt": "O14733",
@@ -27,7 +27,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "3",
     "UniProt": "O14733",
@@ -42,7 +42,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "4",
     "UniProt": "O14733",
@@ -57,7 +57,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "5",
     "UniProt": "O14733",
@@ -72,7 +72,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "6",
     "UniProt": "O14733",
@@ -87,7 +87,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "7",
     "UniProt": "O14733",
@@ -102,7 +102,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "8",
     "UniProt": "O14733",
@@ -117,7 +117,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "9",
     "UniProt": "O14733",
@@ -132,7 +132,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "10",
     "UniProt": "O14733",
@@ -147,7 +147,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "11",
     "UniProt": "O14733",
@@ -162,7 +162,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "12",
     "UniProt": "O14733",
@@ -177,7 +177,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "13",
     "UniProt": "O14733",
@@ -192,7 +192,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "14",
     "UniProt": "O14733",
@@ -207,7 +207,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "15",
     "UniProt": "O14733",
@@ -222,7 +222,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "16",
     "UniProt": "O14733",
@@ -237,7 +237,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "17",
     "UniProt": "O14733",
@@ -252,7 +252,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "18",
     "UniProt": "O14733",
@@ -267,7 +267,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "19",
     "UniProt": "O14965",
@@ -282,7 +282,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "4",
     "Nucleophile_Location": "Catalytic-loop"
-  }",
+  },
   {
     "Index": "20",
     "UniProt": "O14965",
@@ -297,7 +297,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "4",
     "Nucleophile_Location": "G-helix"
-  }",
+  },
   {
     "Index": "21",
     "UniProt": "O14965",
@@ -312,7 +312,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "4",
     "Nucleophile_Location": "G-helix"
-  }",
+  },
   {
     "Index": "22",
     "UniProt": "O14965",
@@ -327,7 +327,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "19",
     "Nucleophile_Location": "beta3"
-  }",
+  },
   {
     "Index": "23",
     "UniProt": "O15530",
@@ -342,7 +342,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "4",
     "Nucleophile_Location": "beta4"
-  }",
+  },
   {
     "Index": "24",
     "UniProt": "O15530",
@@ -357,7 +357,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "4",
     "Nucleophile_Location": "beta4"
-  }",
+  },
   {
     "Index": "25",
     "UniProt": "O15530",
@@ -372,7 +372,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "4",
     "Nucleophile_Location": "beta4"
-  }",
+  },
   {
     "Index": "26",
     "UniProt": "O15530",
@@ -387,7 +387,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "27",
     "UniProt": "O43318",
@@ -402,7 +402,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "6",
     "Nucleophile_Location": "dfg-1"
-  }",
+  },
   {
     "Index": "28",
     "UniProt": "O43318",
@@ -417,7 +417,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "11",
     "Nucleophile_Location": "dfg-1"
-  }",
+  },
   {
     "Index": "29",
     "UniProt": "O43318",
@@ -432,7 +432,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "dfg-1"
-  }",
+  },
   {
     "Index": "30",
     "UniProt": "O43318",
@@ -447,7 +447,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "dfg-1"
-  }",
+  },
   {
     "Index": "31",
     "UniProt": "O43318",
@@ -462,7 +462,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "6",
     "Nucleophile_Location": "dfg-1"
-  }",
+  },
   {
     "Index": "32",
     "UniProt": "O43318",
@@ -477,7 +477,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "dfg-1"
-  }",
+  },
   {
     "Index": "33",
     "UniProt": "O75582",
@@ -492,7 +492,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "15",
     "Nucleophile_Location": "beta2"
-  }",
+  },
   {
     "Index": "34",
     "UniProt": "O75582",
@@ -507,7 +507,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "15",
     "Nucleophile_Location": "beta2"
-  }",
+  },
   {
     "Index": "35",
     "UniProt": "O75582",
@@ -522,7 +522,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "5",
     "Nucleophile_Location": "beta2"
-  }",
+  },
   {
     "Index": "36",
     "UniProt": "O75582",
@@ -537,7 +537,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "5",
     "Nucleophile_Location": "beta2"
-  }",
+  },
   {
     "Index": "37",
     "UniProt": "O75582",
@@ -552,7 +552,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "15",
     "Nucleophile_Location": "beta2"
-  }",
+  },
   {
     "Index": "38",
     "UniProt": "P00519",
@@ -567,7 +567,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "16",
     "Nucleophile_Location": "beta3"
-  }",
+  },
   {
     "Index": "39",
     "UniProt": "P00519",
@@ -582,7 +582,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "16",
     "Nucleophile_Location": "beta3"
-  }",
+  },
   {
     "Index": "40",
     "UniProt": "P00519",
@@ -597,7 +597,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "17",
     "Nucleophile_Location": "beta3"
-  }",
+  },
   {
     "Index": "41",
     "UniProt": "P00519",
@@ -612,7 +612,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "17",
     "Nucleophile_Location": "beta3"
-  }",
+  },
   {
     "Index": "42",
     "UniProt": "P00533",
@@ -627,7 +627,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "43",
     "UniProt": "P00533",
@@ -642,7 +642,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "2",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "44",
     "UniProt": "P00533",
@@ -657,7 +657,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "45",
     "UniProt": "P00533",
@@ -672,7 +672,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "2",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "46",
     "UniProt": "P00533",
@@ -687,7 +687,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "2",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "47",
     "UniProt": "P00533",
@@ -702,7 +702,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "2",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "48",
     "UniProt": "P00533",
@@ -717,7 +717,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "2",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "49",
     "UniProt": "P00533",
@@ -732,7 +732,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "2",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "50",
     "UniProt": "P00533",
@@ -747,7 +747,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "51",
     "UniProt": "P00533",
@@ -762,7 +762,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "52",
     "UniProt": "P00533",
@@ -777,7 +777,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "53",
     "UniProt": "P00533",
@@ -792,7 +792,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "54",
     "UniProt": "P00533",
@@ -807,7 +807,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "55",
     "UniProt": "P00533",
@@ -822,7 +822,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "56",
     "UniProt": "P00533",
@@ -837,7 +837,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "2",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "57",
     "UniProt": "P00533",
@@ -852,7 +852,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "58",
     "UniProt": "P00533",
@@ -867,7 +867,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "2",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "59",
     "UniProt": "P00533",
@@ -882,7 +882,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "60",
     "UniProt": "P00533",
@@ -897,7 +897,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "61",
     "UniProt": "P00533",
@@ -912,7 +912,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "62",
     "UniProt": "P00533",
@@ -927,7 +927,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "63",
     "UniProt": "P00533",
@@ -942,7 +942,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "64",
     "UniProt": "P00533",
@@ -957,7 +957,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "65",
     "UniProt": "P00533",
@@ -972,7 +972,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "66",
     "UniProt": "P00533",
@@ -987,7 +987,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "67",
     "UniProt": "P00533",
@@ -1002,7 +1002,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "68",
     "UniProt": "P00533",
@@ -1017,7 +1017,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "69",
     "UniProt": "P00533",
@@ -1032,7 +1032,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "70",
     "UniProt": "P00533",
@@ -1047,7 +1047,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "71",
     "UniProt": "P00533",
@@ -1062,7 +1062,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "72",
     "UniProt": "P00533",
@@ -1077,7 +1077,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "73",
     "UniProt": "P00533",
@@ -1092,7 +1092,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "74",
     "UniProt": "P00533",
@@ -1107,7 +1107,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "75",
     "UniProt": "P00533",
@@ -1122,7 +1122,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "11",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "76",
     "UniProt": "P00533",
@@ -1137,7 +1137,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "77",
     "UniProt": "P00533",
@@ -1152,7 +1152,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "78",
     "UniProt": "P00533",
@@ -1167,7 +1167,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "79",
     "UniProt": "P00533",
@@ -1182,7 +1182,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "80",
     "UniProt": "P00533",
@@ -1197,7 +1197,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "81",
     "UniProt": "P00533",
@@ -1212,7 +1212,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "82",
     "UniProt": "P00533",
@@ -1227,7 +1227,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "83",
     "UniProt": "P00533",
@@ -1242,7 +1242,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "2",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "84",
     "UniProt": "P00533",
@@ -1257,7 +1257,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "85",
     "UniProt": "P00533",
@@ -1272,7 +1272,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "86",
     "UniProt": "P00533",
@@ -1287,7 +1287,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "87",
     "UniProt": "P00533",
@@ -1302,7 +1302,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "88",
     "UniProt": "P00533",
@@ -1317,7 +1317,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "89",
     "UniProt": "P00533",
@@ -1332,7 +1332,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "90",
     "UniProt": "P00533",
@@ -1347,7 +1347,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "91",
     "UniProt": "P00533",
@@ -1362,7 +1362,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "92",
     "UniProt": "P00533",
@@ -1377,7 +1377,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "93",
     "UniProt": "P00533",
@@ -1392,7 +1392,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "94",
     "UniProt": "P00533",
@@ -1407,7 +1407,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "95",
     "UniProt": "P00533",
@@ -1422,7 +1422,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "96",
     "UniProt": "P00533",
@@ -1437,7 +1437,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "97",
     "UniProt": "P00533",
@@ -1452,7 +1452,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "98",
     "UniProt": "P00533",
@@ -1467,7 +1467,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "99",
     "UniProt": "P00533",
@@ -1482,7 +1482,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "100",
     "UniProt": "P00533",
@@ -1497,7 +1497,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "101",
     "UniProt": "P00533",
@@ -1512,7 +1512,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "102",
     "UniProt": "P00533",
@@ -1527,7 +1527,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "103",
     "UniProt": "P00533",
@@ -1542,7 +1542,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "104",
     "UniProt": "P00533",
@@ -1557,7 +1557,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "105",
     "UniProt": "P00533",
@@ -1572,7 +1572,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "106",
     "UniProt": "P00533",
@@ -1587,7 +1587,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "107",
     "UniProt": "P00533",
@@ -1602,7 +1602,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "beta4"
-  }",
+  },
   {
     "Index": "108",
     "UniProt": "P00533",
@@ -1617,7 +1617,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "109",
     "UniProt": "P00533",
@@ -1632,7 +1632,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "110",
     "UniProt": "P00533",
@@ -1647,7 +1647,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "18",
     "Nucleophile_Location": "beta4"
-  }",
+  },
   {
     "Index": "111",
     "UniProt": "P00533",
@@ -1662,7 +1662,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "beta4"
-  }",
+  },
   {
     "Index": "112",
     "UniProt": "P00533",
@@ -1677,7 +1677,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "beta4"
-  }",
+  },
   {
     "Index": "113",
     "UniProt": "P00533",
@@ -1692,7 +1692,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "beta4"
-  }",
+  },
   {
     "Index": "114",
     "UniProt": "P00533",
@@ -1707,7 +1707,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "beta4"
-  }",
+  },
   {
     "Index": "115",
     "UniProt": "P00533",
@@ -1722,7 +1722,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "beta4"
-  }",
+  },
   {
     "Index": "116",
     "UniProt": "P00533",
@@ -1737,7 +1737,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "beta4"
-  }",
+  },
   {
     "Index": "117",
     "UniProt": "P00533",
@@ -1752,7 +1752,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "beta4"
-  }",
+  },
   {
     "Index": "118",
     "UniProt": "P00533",
@@ -1767,7 +1767,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "beta4"
-  }",
+  },
   {
     "Index": "119",
     "UniProt": "P00533",
@@ -1782,7 +1782,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "120",
     "UniProt": "P00533",
@@ -1797,7 +1797,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "121",
     "UniProt": "P04626",
@@ -1812,7 +1812,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "2",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "122",
     "UniProt": "P04626",
@@ -1827,7 +1827,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "123",
     "UniProt": "P10721",
@@ -1842,7 +1842,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "14",
     "Nucleophile_Location": "Catalytic-loop"
-  }",
+  },
   {
     "Index": "124",
     "UniProt": "P11362",
@@ -1857,7 +1857,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "10",
     "Nucleophile_Location": "beta3"
-  }",
+  },
   {
     "Index": "125",
     "UniProt": "P11362",
@@ -1872,7 +1872,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "10",
     "Nucleophile_Location": "beta3"
-  }",
+  },
   {
     "Index": "126",
     "UniProt": "P11362",
@@ -1887,7 +1887,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "10",
     "Nucleophile_Location": "beta3"
-  }",
+  },
   {
     "Index": "127",
     "UniProt": "P11362",
@@ -1902,7 +1902,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "gk+2"
-  }",
+  },
   {
     "Index": "128",
     "UniProt": "P11362",
@@ -1917,7 +1917,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "p-loop"
-  }",
+  },
   {
     "Index": "129",
     "UniProt": "P11362",
@@ -1932,7 +1932,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "p-loop"
-  }",
+  },
   {
     "Index": "130",
     "UniProt": "P11362",
@@ -1947,7 +1947,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "gk+2"
-  }",
+  },
   {
     "Index": "131",
     "UniProt": "P11362",
@@ -1962,7 +1962,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "p-loop"
-  }",
+  },
   {
     "Index": "132",
     "UniProt": "P11362",
@@ -1977,7 +1977,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "p-loop"
-  }",
+  },
   {
     "Index": "133",
     "UniProt": "P11362",
@@ -1992,7 +1992,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "p-loop"
-  }",
+  },
   {
     "Index": "134",
     "UniProt": "P12931",
@@ -2007,7 +2007,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "p-loop"
-  }",
+  },
   {
     "Index": "135",
     "UniProt": "P12931",
@@ -2022,7 +2022,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "p-loop"
-  }",
+  },
   {
     "Index": "136",
     "UniProt": "P12931",
@@ -2037,7 +2037,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "p-loop"
-  }",
+  },
   {
     "Index": "137",
     "UniProt": "P18654",
@@ -2052,7 +2052,7 @@
     "Organism": "MOUSE",
     "Warhead_Type": "5",
     "Nucleophile_Location": "beta2"
-  }",
+  },
   {
     "Index": "138",
     "UniProt": "P18654",
@@ -2067,7 +2067,7 @@
     "Organism": "MOUSE",
     "Warhead_Type": "5",
     "Nucleophile_Location": "beta2"
-  }",
+  },
   {
     "Index": "139",
     "UniProt": "P21802",
@@ -2082,7 +2082,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "p-loop"
-  }",
+  },
   {
     "Index": "140",
     "UniProt": "P21802",
@@ -2097,7 +2097,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "p-loop"
-  }",
+  },
   {
     "Index": "141",
     "UniProt": "P21802",
@@ -2112,7 +2112,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "2",
     "Nucleophile_Location": "p-loop"
-  }",
+  },
   {
     "Index": "142",
     "UniProt": "P21802",
@@ -2127,7 +2127,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "p-loop"
-  }",
+  },
   {
     "Index": "143",
     "UniProt": "P21802",
@@ -2142,7 +2142,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "p-loop"
-  }",
+  },
   {
     "Index": "144",
     "UniProt": "P21802",
@@ -2157,7 +2157,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "p-loop"
-  }",
+  },
   {
     "Index": "145",
     "UniProt": "P22455",
@@ -2172,7 +2172,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "p-loop"
-  }",
+  },
   {
     "Index": "146",
     "UniProt": "P22455",
@@ -2187,7 +2187,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "p-loop"
-  }",
+  },
   {
     "Index": "147",
     "UniProt": "P22455",
@@ -2202,7 +2202,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "p-loop"
-  }",
+  },
   {
     "Index": "148",
     "UniProt": "P22455",
@@ -2217,7 +2217,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "gk+2"
-  }",
+  },
   {
     "Index": "149",
     "UniProt": "P22455",
@@ -2232,7 +2232,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "9",
     "Nucleophile_Location": "gk+2"
-  }",
+  },
   {
     "Index": "150",
     "UniProt": "P22455",
@@ -2247,7 +2247,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "p-loop"
-  }",
+  },
   {
     "Index": "151",
     "UniProt": "P22455",
@@ -2262,7 +2262,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "p-loop"
-  }",
+  },
   {
     "Index": "152",
     "UniProt": "P22455",
@@ -2277,7 +2277,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "p-loop"
-  }",
+  },
   {
     "Index": "153",
     "UniProt": "P22455",
@@ -2292,7 +2292,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "gk+2"
-  }",
+  },
   {
     "Index": "154",
     "UniProt": "P22455",
@@ -2307,7 +2307,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "8",
     "Nucleophile_Location": "gk+2"
-  }",
+  },
   {
     "Index": "155",
     "UniProt": "P22455",
@@ -2322,7 +2322,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "gk+2"
-  }",
+  },
   {
     "Index": "156",
     "UniProt": "P22455",
@@ -2337,7 +2337,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "gk+2"
-  }",
+  },
   {
     "Index": "157",
     "UniProt": "P22455",
@@ -2352,7 +2352,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "gk+2"
-  }",
+  },
   {
     "Index": "158",
     "UniProt": "P22455",
@@ -2367,7 +2367,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "gk+2"
-  }",
+  },
   {
     "Index": "159",
     "UniProt": "P22455",
@@ -2382,7 +2382,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "gk+2"
-  }",
+  },
   {
     "Index": "160",
     "UniProt": "P22455",
@@ -2397,7 +2397,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "gk+2"
-  }",
+  },
   {
     "Index": "161",
     "UniProt": "P22455",
@@ -2412,7 +2412,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "8",
     "Nucleophile_Location": "gk+2"
-  }",
+  },
   {
     "Index": "162",
     "UniProt": "P22455",
@@ -2427,7 +2427,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "2",
     "Nucleophile_Location": "gk+2"
-  }",
+  },
   {
     "Index": "163",
     "UniProt": "P22455",
@@ -2442,7 +2442,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "p-loop"
-  }",
+  },
   {
     "Index": "164",
     "UniProt": "P22455",
@@ -2457,7 +2457,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "p-loop"
-  }",
+  },
   {
     "Index": "165",
     "UniProt": "P22455",
@@ -2472,7 +2472,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "gk+2"
-  }",
+  },
   {
     "Index": "166",
     "UniProt": "P22455",
@@ -2487,7 +2487,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "gk+2"
-  }",
+  },
   {
     "Index": "167",
     "UniProt": "P22455",
@@ -2502,7 +2502,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "gk+2"
-  }",
+  },
   {
     "Index": "168",
     "UniProt": "P22455",
@@ -2517,7 +2517,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "gk+2"
-  }",
+  },
   {
     "Index": "169",
     "UniProt": "P22455",
@@ -2532,7 +2532,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "8",
     "Nucleophile_Location": "gk+2"
-  }",
+  },
   {
     "Index": "170",
     "UniProt": "P22455",
@@ -2547,7 +2547,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "8",
     "Nucleophile_Location": "gk+2"
-  }",
+  },
   {
     "Index": "171",
     "UniProt": "P22455",
@@ -2562,7 +2562,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "8",
     "Nucleophile_Location": "gk+2"
-  }",
+  },
   {
     "Index": "172",
     "UniProt": "P22455",
@@ -2577,7 +2577,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "8",
     "Nucleophile_Location": "gk+2"
-  }",
+  },
   {
     "Index": "173",
     "UniProt": "P22455",
@@ -2592,7 +2592,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "8",
     "Nucleophile_Location": "gk+2"
-  }",
+  },
   {
     "Index": "174",
     "UniProt": "P22455",
@@ -2607,7 +2607,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "8",
     "Nucleophile_Location": "gk+2"
-  }",
+  },
   {
     "Index": "175",
     "UniProt": "P22455",
@@ -2622,7 +2622,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "8",
     "Nucleophile_Location": "gk+2"
-  }",
+  },
   {
     "Index": "176",
     "UniProt": "P22455",
@@ -2637,7 +2637,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "8",
     "Nucleophile_Location": "gk+2"
-  }",
+  },
   {
     "Index": "177",
     "UniProt": "P22455",
@@ -2652,7 +2652,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "8",
     "Nucleophile_Location": "gk+2"
-  }",
+  },
   {
     "Index": "178",
     "UniProt": "P22455",
@@ -2667,7 +2667,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "8",
     "Nucleophile_Location": "gk+2"
-  }",
+  },
   {
     "Index": "179",
     "UniProt": "P22455",
@@ -2682,7 +2682,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "p-loop"
-  }",
+  },
   {
     "Index": "180",
     "UniProt": "P22455",
@@ -2697,7 +2697,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "gk+2"
-  }",
+  },
   {
     "Index": "181",
     "UniProt": "P22607",
@@ -2712,7 +2712,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "p-loop"
-  }",
+  },
   {
     "Index": "182",
     "UniProt": "P22607",
@@ -2727,7 +2727,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "p-loop"
-  }",
+  },
   {
     "Index": "183",
     "UniProt": "P22607",
@@ -2742,7 +2742,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "p-loop"
-  }",
+  },
   {
     "Index": "184",
     "UniProt": "P24941",
@@ -2757,7 +2757,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "7",
     "Nucleophile_Location": "front+2"
-  }",
+  },
   {
     "Index": "185",
     "UniProt": "P24941",
@@ -2772,7 +2772,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "G-helix"
-  }",
+  },
   {
     "Index": "186",
     "UniProt": "P24941",
@@ -2787,7 +2787,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "beta5"
-  }",
+  },
   {
     "Index": "187",
     "UniProt": "P24941",
@@ -2802,7 +2802,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "beta5"
-  }",
+  },
   {
     "Index": "188",
     "UniProt": "P24941",
@@ -2817,7 +2817,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "G-helix"
-  }",
+  },
   {
     "Index": "189",
     "UniProt": "P24941",
@@ -2832,7 +2832,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "beta5"
-  }",
+  },
   {
     "Index": "190",
     "UniProt": "P24941",
@@ -2847,7 +2847,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "beta5"
-  }",
+  },
   {
     "Index": "191",
     "UniProt": "P27361",
@@ -2862,7 +2862,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "dfg-1"
-  }",
+  },
   {
     "Index": "192",
     "UniProt": "P28482",
@@ -2877,7 +2877,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "7",
     "Nucleophile_Location": "dfg-1"
-  }",
+  },
   {
     "Index": "193",
     "UniProt": "P28482",
@@ -2892,7 +2892,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "dfg-1"
-  }",
+  },
   {
     "Index": "194",
     "UniProt": "P28482",
@@ -2907,7 +2907,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "dfg-1"
-  }",
+  },
   {
     "Index": "195",
     "UniProt": "P28482",
@@ -2922,7 +2922,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "dfg-1"
-  }",
+  },
   {
     "Index": "196",
     "UniProt": "P28482",
@@ -2937,7 +2937,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "dfg-1"
-  }",
+  },
   {
     "Index": "197",
     "UniProt": "P28482",
@@ -2952,7 +2952,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "dfg-1"
-  }",
+  },
   {
     "Index": "198",
     "UniProt": "P28482",
@@ -2967,7 +2967,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "dfg-1"
-  }",
+  },
   {
     "Index": "199",
     "UniProt": "P28482",
@@ -2982,7 +2982,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "dfg-1"
-  }",
+  },
   {
     "Index": "200",
     "UniProt": "P28482",
@@ -2997,7 +2997,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "dfg-1"
-  }",
+  },
   {
     "Index": "201",
     "UniProt": "P28482",
@@ -3012,7 +3012,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "dfg-1"
-  }",
+  },
   {
     "Index": "202",
     "UniProt": "P28482",
@@ -3027,7 +3027,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "dfg-1"
-  }",
+  },
   {
     "Index": "203",
     "UniProt": "P28482",
@@ -3042,7 +3042,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "dfg-1"
-  }",
+  },
   {
     "Index": "204",
     "UniProt": "P28482",
@@ -3057,7 +3057,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "dfg-1"
-  }",
+  },
   {
     "Index": "205",
     "UniProt": "P28482",
@@ -3072,7 +3072,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "dfg-1"
-  }",
+  },
   {
     "Index": "206",
     "UniProt": "P28482",
@@ -3087,7 +3087,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "dfg-1"
-  }",
+  },
   {
     "Index": "207",
     "UniProt": "P28482",
@@ -3102,7 +3102,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "dfg-1"
-  }",
+  },
   {
     "Index": "208",
     "UniProt": "P28482",
@@ -3117,7 +3117,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "7",
     "Nucleophile_Location": "dfg-1"
-  }",
+  },
   {
     "Index": "209",
     "UniProt": "P28482",
@@ -3132,7 +3132,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "dfg-1"
-  }",
+  },
   {
     "Index": "210",
     "UniProt": "P28482",
@@ -3147,7 +3147,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "dfg-1"
-  }",
+  },
   {
     "Index": "211",
     "UniProt": "P28482",
@@ -3162,7 +3162,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "dfg-1"
-  }",
+  },
   {
     "Index": "212",
     "UniProt": "P28482",
@@ -3177,7 +3177,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "dfg-1"
-  }",
+  },
   {
     "Index": "213",
     "UniProt": "P28482",
@@ -3192,7 +3192,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "dfg-1"
-  }",
+  },
   {
     "Index": "214",
     "UniProt": "P31749",
@@ -3207,7 +3207,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "dfg+1"
-  }",
+  },
   {
     "Index": "215",
     "UniProt": "P31749",
@@ -3222,7 +3222,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "A-loop"
-  }",
+  },
   {
     "Index": "216",
     "UniProt": "P31749",
@@ -3237,7 +3237,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "dfg+1"
-  }",
+  },
   {
     "Index": "217",
     "UniProt": "P31749",
@@ -3252,7 +3252,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "dfg+1"
-  }",
+  },
   {
     "Index": "218",
     "UniProt": "P31749",
@@ -3267,7 +3267,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "A-loop"
-  }",
+  },
   {
     "Index": "219",
     "UniProt": "P31749",
@@ -3282,7 +3282,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "A-loop"
-  }",
+  },
   {
     "Index": "220",
     "UniProt": "P31749",
@@ -3297,7 +3297,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "A-loop"
-  }",
+  },
   {
     "Index": "221",
     "UniProt": "P31749",
@@ -3312,7 +3312,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "A-loop"
-  }",
+  },
   {
     "Index": "222",
     "UniProt": "P31749",
@@ -3327,7 +3327,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "dfg+1"
-  }",
+  },
   {
     "Index": "223",
     "UniProt": "P31749",
@@ -3342,7 +3342,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "A-loop"
-  }",
+  },
   {
     "Index": "224",
     "UniProt": "P33981",
@@ -3357,7 +3357,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "gk+2"
-  }",
+  },
   {
     "Index": "225",
     "UniProt": "P35968",
@@ -3372,7 +3372,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "13",
     "Nucleophile_Location": "A-loop"
-  }",
+  },
   {
     "Index": "226",
     "UniProt": "P35991",
@@ -3387,7 +3387,7 @@
     "Organism": "MOUSE",
     "Warhead_Type": "12",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "227",
     "UniProt": "P35991",
@@ -3402,7 +3402,7 @@
     "Organism": "MOUSE",
     "Warhead_Type": "2",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "228",
     "UniProt": "P35991",
@@ -3417,7 +3417,7 @@
     "Organism": "MOUSE",
     "Warhead_Type": "2",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "229",
     "UniProt": "P36888",
@@ -3432,7 +3432,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "2",
     "Nucleophile_Location": "gk+2"
-  }",
+  },
   {
     "Index": "230",
     "UniProt": "P45983",
@@ -3447,7 +3447,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "2",
     "Nucleophile_Location": "front+2"
-  }",
+  },
   {
     "Index": "231",
     "UniProt": "P45983",
@@ -3462,7 +3462,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "2",
     "Nucleophile_Location": "front+2"
-  }",
+  },
   {
     "Index": "232",
     "UniProt": "P45983",
@@ -3477,7 +3477,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "2",
     "Nucleophile_Location": "front+2"
-  }",
+  },
   {
     "Index": "233",
     "UniProt": "P45983",
@@ -3492,7 +3492,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "2",
     "Nucleophile_Location": "front+2"
-  }",
+  },
   {
     "Index": "234",
     "UniProt": "P45984",
@@ -3507,7 +3507,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "2",
     "Nucleophile_Location": "front+2"
-  }",
+  },
   {
     "Index": "235",
     "UniProt": "P49841",
@@ -3522,7 +3522,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "5",
     "Nucleophile_Location": "dfg-1"
-  }",
+  },
   {
     "Index": "236",
     "UniProt": "P50613",
@@ -3537,7 +3537,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "2",
     "Nucleophile_Location": "C-terminal"
-  }",
+  },
   {
     "Index": "237",
     "UniProt": "P50613",
@@ -3552,7 +3552,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "2",
     "Nucleophile_Location": "C-terminal"
-  }",
+  },
   {
     "Index": "238",
     "UniProt": "P51812",
@@ -3567,7 +3567,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "5",
     "Nucleophile_Location": "beta2"
-  }",
+  },
   {
     "Index": "239",
     "UniProt": "P51812",
@@ -3582,7 +3582,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "5",
     "Nucleophile_Location": "beta2"
-  }",
+  },
   {
     "Index": "240",
     "UniProt": "P51812",
@@ -3597,7 +3597,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "5",
     "Nucleophile_Location": "beta2"
-  }",
+  },
   {
     "Index": "241",
     "UniProt": "P51812",
@@ -3612,7 +3612,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "5",
     "Nucleophile_Location": "beta2"
-  }",
+  },
   {
     "Index": "242",
     "UniProt": "P51813",
@@ -3627,7 +3627,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "243",
     "UniProt": "P51813",
@@ -3642,7 +3642,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "244",
     "UniProt": "P51955",
@@ -3657,7 +3657,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "13",
     "Nucleophile_Location": "beta2"
-  }",
+  },
   {
     "Index": "245",
     "UniProt": "P51955",
@@ -3672,7 +3672,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "13",
     "Nucleophile_Location": "beta2"
-  }",
+  },
   {
     "Index": "246",
     "UniProt": "P52333",
@@ -3687,7 +3687,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "247",
     "UniProt": "P52333",
@@ -3702,7 +3702,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "248",
     "UniProt": "P52333",
@@ -3717,7 +3717,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "249",
     "UniProt": "P52333",
@@ -3732,7 +3732,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "5",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "250",
     "UniProt": "P52333",
@@ -3747,7 +3747,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "5",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "251",
     "UniProt": "P52333",
@@ -3762,7 +3762,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "252",
     "UniProt": "P52333",
@@ -3777,7 +3777,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "253",
     "UniProt": "P52333",
@@ -3792,7 +3792,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "254",
     "UniProt": "P52333",
@@ -3807,7 +3807,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "255",
     "UniProt": "P52333",
@@ -3822,7 +3822,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "256",
     "UniProt": "P52333",
@@ -3837,7 +3837,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "12",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "257",
     "UniProt": "P52333",
@@ -3852,7 +3852,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "12",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "258",
     "UniProt": "P52333",
@@ -3867,7 +3867,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "12",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "259",
     "UniProt": "P52333",
@@ -3882,7 +3882,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "260",
     "UniProt": "P52333",
@@ -3897,7 +3897,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "261",
     "UniProt": "P52564",
@@ -3912,7 +3912,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "dfg-1"
-  }",
+  },
   {
     "Index": "262",
     "UniProt": "P52564",
@@ -3927,7 +3927,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "dfg-1"
-  }",
+  },
   {
     "Index": "263",
     "UniProt": "P53779",
@@ -3942,7 +3942,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "2",
     "Nucleophile_Location": "front+2"
-  }",
+  },
   {
     "Index": "264",
     "UniProt": "P53779",
@@ -3957,7 +3957,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "2",
     "Nucleophile_Location": "front+2"
-  }",
+  },
   {
     "Index": "265",
     "UniProt": "P53779",
@@ -3972,7 +3972,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "2",
     "Nucleophile_Location": "front+2"
-  }",
+  },
   {
     "Index": "266",
     "UniProt": "P53779",
@@ -3987,7 +3987,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front+2"
-  }",
+  },
   {
     "Index": "267",
     "UniProt": "P54753",
@@ -4002,7 +4002,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "8",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "268",
     "UniProt": "P54753",
@@ -4017,7 +4017,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "8",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "269",
     "UniProt": "P54762",
@@ -4032,7 +4032,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "8",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "270",
     "UniProt": "Q02750",
@@ -4047,7 +4047,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "6",
     "Nucleophile_Location": "dfg-1"
-  }",
+  },
   {
     "Index": "271",
     "UniProt": "Q06187",
@@ -4062,7 +4062,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "5",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "272",
     "UniProt": "Q06187",
@@ -4077,7 +4077,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "273",
     "UniProt": "Q06187",
@@ -4092,7 +4092,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "274",
     "UniProt": "Q06187",
@@ -4107,7 +4107,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "275",
     "UniProt": "Q06187",
@@ -4122,7 +4122,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "276",
     "UniProt": "Q06187",
@@ -4137,7 +4137,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "2",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "277",
     "UniProt": "Q06187",
@@ -4152,7 +4152,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "278",
     "UniProt": "Q06187",
@@ -4167,7 +4167,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "279",
     "UniProt": "Q06187",
@@ -4182,7 +4182,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "280",
     "UniProt": "Q06187",
@@ -4197,7 +4197,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "281",
     "UniProt": "Q06187",
@@ -4212,7 +4212,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "282",
     "UniProt": "Q06187",
@@ -4227,7 +4227,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "283",
     "UniProt": "Q06187",
@@ -4242,7 +4242,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "284",
     "UniProt": "Q06187",
@@ -4257,7 +4257,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "2",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "285",
     "UniProt": "Q06187",
@@ -4272,7 +4272,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "286",
     "UniProt": "Q06187",
@@ -4287,7 +4287,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "287",
     "UniProt": "Q06187",
@@ -4302,7 +4302,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "5",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "288",
     "UniProt": "Q06187",
@@ -4317,7 +4317,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "289",
     "UniProt": "Q06187",
@@ -4332,7 +4332,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "290",
     "UniProt": "Q06187",
@@ -4347,7 +4347,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "12",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "291",
     "UniProt": "Q06187",
@@ -4362,7 +4362,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "292",
     "UniProt": "Q06187",
@@ -4377,7 +4377,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "293",
     "UniProt": "Q06187",
@@ -4392,7 +4392,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "294",
     "UniProt": "Q06187",
@@ -4407,7 +4407,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "295",
     "UniProt": "Q06187",
@@ -4422,7 +4422,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "296",
     "UniProt": "Q06187",
@@ -4437,7 +4437,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "297",
     "UniProt": "Q08881",
@@ -4452,7 +4452,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "2",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "298",
     "UniProt": "Q08881",
@@ -4467,7 +4467,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "299",
     "UniProt": "Q08881",
@@ -4482,7 +4482,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "300",
     "UniProt": "Q08881",
@@ -4497,7 +4497,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "301",
     "UniProt": "Q14004",
@@ -4512,7 +4512,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "2",
     "Nucleophile_Location": "C-terminal"
-  }",
+  },
   {
     "Index": "302",
     "UniProt": "Q15303",
@@ -4527,7 +4527,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "3",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "303",
     "UniProt": "Q16539",
@@ -4542,7 +4542,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "6",
     "Nucleophile_Location": "G-helix"
-  }",
+  },
   {
     "Index": "304",
     "UniProt": "Q16539",
@@ -4557,7 +4557,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "G-helix"
-  }",
+  },
   {
     "Index": "305",
     "UniProt": "Q9NYL2",
@@ -4572,7 +4572,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "beta1"
-  }",
+  },
   {
     "Index": "306",
     "UniProt": "Q9NYL2",
@@ -4587,7 +4587,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "1",
     "Nucleophile_Location": "beta1"
-  }",
+  },
   {
     "Index": "307",
     "UniProt": "Q9NYV4",
@@ -4602,7 +4602,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "2",
     "Nucleophile_Location": "C-terminal"
-  }",
+  },
   {
     "Index": "308",
     "UniProt": "Q9NYV4",
@@ -4617,7 +4617,7 @@
     "Organism": "HUMAN",
     "Warhead_Type": "2",
     "Nucleophile_Location": "C-terminal"
-  }",
+  },
   {
     "Index": "309",
     "UniProt": "P00523",
@@ -4632,7 +4632,7 @@
     "Organism": "CHICK",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "310",
     "UniProt": "P00523",
@@ -4647,7 +4647,7 @@
     "Organism": "CHICK",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "311",
     "UniProt": "P00523",
@@ -4662,7 +4662,7 @@
     "Organism": "CHICK",
     "Warhead_Type": "2",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "312",
     "UniProt": "P00523",
@@ -4677,7 +4677,7 @@
     "Organism": "CHICK",
     "Warhead_Type": "2",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "313",
     "UniProt": "P00523",
@@ -4692,7 +4692,7 @@
     "Organism": "CHICK",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "314",
     "UniProt": "P00523",
@@ -4707,7 +4707,7 @@
     "Organism": "CHICK",
     "Warhead_Type": "7",
     "Nucleophile_Location": "beta5"
-  }",
+  },
   {
     "Index": "315",
     "UniProt": "P00523",
@@ -4722,7 +4722,7 @@
     "Organism": "CHICK",
     "Warhead_Type": "10",
     "Nucleophile_Location": "beta3"
-  }",
+  },
   {
     "Index": "316",
     "UniProt": "P00523",
@@ -4737,7 +4737,7 @@
     "Organism": "CHICK",
     "Warhead_Type": "5",
     "Nucleophile_Location": "beta2"
-  }",
+  },
   {
     "Index": "317",
     "UniProt": "P00523",
@@ -4752,7 +4752,7 @@
     "Organism": "CHICK",
     "Warhead_Type": "5",
     "Nucleophile_Location": "beta2"
-  }",
+  },
   {
     "Index": "318",
     "UniProt": "P00523",
@@ -4767,7 +4767,7 @@
     "Organism": "CHICK",
     "Warhead_Type": "5",
     "Nucleophile_Location": "beta2"
-  }",
+  },
   {
     "Index": "319",
     "UniProt": "Q00944",
@@ -4782,7 +4782,7 @@
     "Organism": "CHICK",
     "Warhead_Type": "1",
     "Nucleophile_Location": "beta1"
-  }",
+  },
   {
     "Index": "320",
     "UniProt": "P00523",
@@ -4797,7 +4797,7 @@
     "Organism": "CHICK",
     "Warhead_Type": "1",
     "Nucleophile_Location": "front"
-  }",
+  },
   {
     "Index": "321",
     "UniProt": "P00523",
