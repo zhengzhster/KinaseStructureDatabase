@@ -1,3 +1,0 @@
-PDB Released_Date Method Resolution Kinase_Orginism UniProt
-1APM  1993-04-15  X-ray     2.00 A      IPKA_MOUSE  (P63248)    , KAPCA_MOUSE (P05132)
-1B6C  1999-06-15  X-ray     2.60 A      FKB1A_HUMAN (P62942)    , TGFR1_HUMAN (P36897)

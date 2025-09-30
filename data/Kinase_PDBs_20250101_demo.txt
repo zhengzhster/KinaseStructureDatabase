@@ -1,3 +1,0 @@
-PDB Released_Date Method Resolution Kinase_Orginism UniProt
-1A9U  1999-04-20  X-ray     2.50 A      MK14_HUMAN  (Q16539)
-1AD5  1997-05-15  X-ray     2.60 A      HCK_HUMAN   (P08631)

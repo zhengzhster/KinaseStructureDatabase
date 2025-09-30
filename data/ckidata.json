@@ -11,7 +11,7 @@
     "Nucleophile": "CYS",
     "Kinase": "MAP2K7",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
@@ -26,7 +26,7 @@
     "Nucleophile": "CYS",
     "Kinase": "MAP2K7",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
@@ -41,7 +41,7 @@
     "Nucleophile": "CYS",
     "Kinase": "MAP2K7",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
@@ -56,7 +56,7 @@
     "Nucleophile": "CYS",
     "Kinase": "MAP2K7",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
@@ -71,7 +71,7 @@
     "Nucleophile": "CYS",
     "Kinase": "MAP2K7",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
@@ -86,7 +86,7 @@
     "Nucleophile": "CYS",
     "Kinase": "MAP2K7",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
@@ -101,7 +101,7 @@
     "Nucleophile": "CYS",
     "Kinase": "MAP2K7",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
@@ -116,7 +116,7 @@
     "Nucleophile": "CYS",
     "Kinase": "MAP2K7",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
@@ -125,13 +125,13 @@
     "PDB": "6YG2",
     "Ligand_Chain": "A",
     "Ligand_Index": 514,
-    "Ligand": "8E8",
+    "Ligand": 800000000,
     "Nucleophile_Chain": "A",
     "Nucleophile_Index": 218,
     "Nucleophile": "CYS",
     "Kinase": "MAP2K7",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
@@ -146,7 +146,7 @@
     "Nucleophile": "CYS",
     "Kinase": "MAP2K7",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
@@ -161,7 +161,7 @@
     "Nucleophile": "CYS",
     "Kinase": "MAP2K7",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
@@ -176,7 +176,7 @@
     "Nucleophile": "CYS",
     "Kinase": "MAP2K7",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
@@ -191,7 +191,7 @@
     "Nucleophile": "CYS",
     "Kinase": "MAP2K7",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
@@ -206,7 +206,7 @@
     "Nucleophile": "CYS",
     "Kinase": "MAP2K7",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
@@ -221,7 +221,7 @@
     "Nucleophile": "CYS",
     "Kinase": "MAP2K7",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
@@ -236,7 +236,7 @@
     "Nucleophile": "CYS",
     "Kinase": "MAP2K7",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
@@ -251,7 +251,7 @@
     "Nucleophile": "CYS",
     "Kinase": "MAP2K7",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
@@ -266,7 +266,7 @@
     "Nucleophile": "CYS",
     "Kinase": "MAP2K7",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
@@ -281,7 +281,7 @@
     "Nucleophile": "CYS",
     "Kinase": "AURKA",
     "Organism": "HUMAN",
-    "Warhead Type": 4,
+    "Warhead_Type": 4,
     "Nucleophile_Location": "Catalytic-loop"
   },
   {
@@ -296,7 +296,7 @@
     "Nucleophile": "CYS",
     "Kinase": "AURKA",
     "Organism": "HUMAN",
-    "Warhead Type": 4,
+    "Warhead_Type": 4,
     "Nucleophile_Location": "G-helix"
   },
   {
@@ -311,11 +311,26 @@
     "Nucleophile": "CYS",
     "Kinase": "AURKA",
     "Organism": "HUMAN",
-    "Warhead Type": 4,
+    "Warhead_Type": 4,
     "Nucleophile_Location": "G-helix"
   },
   {
     "Index": 22,
+    "UniProt": "O14965",
+    "PDB": "7FIC",
+    "Ligand_Chain": "A",
+    "Ligand_Index": 401,
+    "Ligand": "5YZ",
+    "Nucleophile_Chain": "A",
+    "Nucleophile_Index": 162,
+    "Nucleophile": "LYS",
+    "Kinase": "AURKA",
+    "Organism": "HUMAN",
+    "Warhead_Type": 19,
+    "Nucleophile_Location": "beta3"
+  },
+  {
+    "Index": 23,
     "UniProt": "O15530",
     "PDB": "3ORX",
     "Ligand_Chain": "A",
@@ -326,11 +341,11 @@
     "Nucleophile": "CYS",
     "Kinase": "PDPK1",
     "Organism": "HUMAN",
-    "Warhead Type": 4,
+    "Warhead_Type": 4,
     "Nucleophile_Location": "beta4"
   },
   {
-    "Index": 23,
+    "Index": 24,
     "UniProt": "O15530",
     "PDB": "3ORZ",
     "Ligand_Chain": "A",
@@ -341,11 +356,11 @@
     "Nucleophile": "CYS",
     "Kinase": "PDPK1",
     "Organism": "HUMAN",
-    "Warhead Type": 4,
+    "Warhead_Type": 4,
     "Nucleophile_Location": "beta4"
   },
   {
-    "Index": 24,
+    "Index": 25,
     "UniProt": "O15530",
     "PDB": "3OTU",
     "Ligand_Chain": "A",
@@ -356,11 +371,11 @@
     "Nucleophile": "CYS",
     "Kinase": "PDPK1",
     "Organism": "HUMAN",
-    "Warhead Type": 4,
+    "Warhead_Type": 4,
     "Nucleophile_Location": "beta4"
   },
   {
-    "Index": 25,
+    "Index": 26,
     "UniProt": "O15530",
     "PDB": "3PWY",
     "Ligand_Chain": "A",
@@ -371,11 +386,11 @@
     "Nucleophile": "CYS",
     "Kinase": "PDPK1",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 26,
+    "Index": 27,
     "UniProt": "O43318",
     "PDB": "4GS6",
     "Ligand_Chain": "A",
@@ -386,11 +401,11 @@
     "Nucleophile": "CYS",
     "Kinase": "TAK1",
     "Organism": "HUMAN",
-    "Warhead Type": 6,
+    "Warhead_Type": 6,
     "Nucleophile_Location": "dfg-1"
   },
   {
-    "Index": 27,
+    "Index": 28,
     "UniProt": "O43318",
     "PDB": "5E7R",
     "Ligand_Chain": "A",
@@ -401,11 +416,11 @@
     "Nucleophile": "CYS",
     "Kinase": "TAK1",
     "Organism": "HUMAN",
-    "Warhead Type": 11,
+    "Warhead_Type": 11,
     "Nucleophile_Location": "dfg-1"
   },
   {
-    "Index": 28,
+    "Index": 29,
     "UniProt": "O43318",
     "PDB": "5J7S",
     "Ligand_Chain": "A",
@@ -416,11 +431,11 @@
     "Nucleophile": "CYS",
     "Kinase": "TAK1",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "dfg-1"
   },
   {
-    "Index": 29,
+    "Index": 30,
     "UniProt": "O43318",
     "PDB": "5J8I",
     "Ligand_Chain": "A",
@@ -431,11 +446,11 @@
     "Nucleophile": "CYS",
     "Kinase": "TAK1",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "dfg-1"
   },
   {
-    "Index": 30,
+    "Index": 31,
     "UniProt": "O43318",
     "PDB": "5JH6",
     "Ligand_Chain": "A",
@@ -446,11 +461,11 @@
     "Nucleophile": "CYS",
     "Kinase": "TAK1",
     "Organism": "HUMAN",
-    "Warhead Type": 6,
+    "Warhead_Type": 6,
     "Nucleophile_Location": "dfg-1"
   },
   {
-    "Index": 31,
+    "Index": 32,
     "UniProt": "O43318",
     "PDB": "5JK3",
     "Ligand_Chain": "A",
@@ -461,11 +476,11 @@
     "Nucleophile": "CYS",
     "Kinase": "TAK1",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "dfg-1"
   },
   {
-    "Index": 32,
+    "Index": 33,
     "UniProt": "O75582",
     "PDB": "7UP4",
     "Ligand_Chain": "A",
@@ -476,11 +491,11 @@
     "Nucleophile": "CYS",
     "Kinase": "MSK1",
     "Organism": "HUMAN",
-    "Warhead Type": 15,
+    "Warhead_Type": 15,
     "Nucleophile_Location": "beta2"
   },
   {
-    "Index": 33,
+    "Index": 34,
     "UniProt": "O75582",
     "PDB": "7UP5",
     "Ligand_Chain": "A",
@@ -491,11 +506,11 @@
     "Nucleophile": "CYS",
     "Kinase": "MSK1",
     "Organism": "HUMAN",
-    "Warhead Type": 15,
+    "Warhead_Type": 15,
     "Nucleophile_Location": "beta2"
   },
   {
-    "Index": 34,
+    "Index": 35,
     "UniProt": "O75582",
     "PDB": "7UP6",
     "Ligand_Chain": "A",
@@ -506,11 +521,11 @@
     "Nucleophile": "CYS",
     "Kinase": "MSK1",
     "Organism": "HUMAN",
-    "Warhead Type": 5,
+    "Warhead_Type": 5,
     "Nucleophile_Location": "beta2"
   },
   {
-    "Index": 35,
+    "Index": 36,
     "UniProt": "O75582",
     "PDB": "7UP7",
     "Ligand_Chain": "A",
@@ -521,11 +536,11 @@
     "Nucleophile": "CYS",
     "Kinase": "MSK1",
     "Organism": "HUMAN",
-    "Warhead Type": 5,
+    "Warhead_Type": 5,
     "Nucleophile_Location": "beta2"
   },
   {
-    "Index": 36,
+    "Index": 37,
     "UniProt": "O75582",
     "PDB": "7UP8",
     "Ligand_Chain": "A",
@@ -536,11 +551,11 @@
     "Nucleophile": "CYS",
     "Kinase": "MSK1",
     "Organism": "HUMAN",
-    "Warhead Type": 15,
+    "Warhead_Type": 15,
     "Nucleophile_Location": "beta2"
   },
   {
-    "Index": 37,
+    "Index": 38,
     "UniProt": "P00519",
     "PDB": "7CC2",
     "Ligand_Chain": "A",
@@ -551,11 +566,11 @@
     "Nucleophile": "LYS",
     "Kinase": "ABL1",
     "Organism": "HUMAN",
-    "Warhead Type": 16,
+    "Warhead_Type": 16,
     "Nucleophile_Location": "beta3"
   },
   {
-    "Index": 38,
+    "Index": 39,
     "UniProt": "P00519",
     "PDB": "7DT2",
     "Ligand_Chain": "A",
@@ -566,11 +581,11 @@
     "Nucleophile": "LYS",
     "Kinase": "ABL1",
     "Organism": "HUMAN",
-    "Warhead Type": 16,
+    "Warhead_Type": 16,
     "Nucleophile_Location": "beta3"
   },
   {
-    "Index": 39,
+    "Index": 40,
     "UniProt": "P00519",
     "PDB": "8H7F",
     "Ligand_Chain": "A",
@@ -581,11 +596,11 @@
     "Nucleophile": "LYS",
     "Kinase": "ABL1",
     "Organism": "HUMAN",
-    "Warhead Type": 17,
+    "Warhead_Type": 17,
     "Nucleophile_Location": "beta3"
   },
   {
-    "Index": 40,
+    "Index": 41,
     "UniProt": "P00519",
     "PDB": "8H7H",
     "Ligand_Chain": "A",
@@ -596,11 +611,11 @@
     "Nucleophile": "LYS",
     "Kinase": "ABL1",
     "Organism": "HUMAN",
-    "Warhead Type": 17,
+    "Warhead_Type": 17,
     "Nucleophile_Location": "beta3"
   },
   {
-    "Index": 41,
+    "Index": 42,
     "UniProt": "P00533",
     "PDB": "2J5F",
     "Ligand_Chain": "A",
@@ -611,11 +626,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 42,
+    "Index": 43,
     "UniProt": "P00533",
     "PDB": "2JIV",
     "Ligand_Chain": "A",
@@ -626,11 +641,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 2,
+    "Warhead_Type": 2,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 43,
+    "Index": 44,
     "UniProt": "P00533",
     "PDB": "3IKA",
     "Ligand_Chain": "A",
@@ -641,11 +656,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 44,
+    "Index": 45,
     "UniProt": "P00533",
     "PDB": "3W2P",
     "Ligand_Chain": "A",
@@ -656,11 +671,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 2,
+    "Warhead_Type": 2,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 45,
+    "Index": 46,
     "UniProt": "P00533",
     "PDB": "3W2Q",
     "Ligand_Chain": "A",
@@ -671,11 +686,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 2,
+    "Warhead_Type": 2,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 46,
+    "Index": 47,
     "UniProt": "P00533",
     "PDB": "4G5J",
     "Ligand_Chain": "A",
@@ -686,11 +701,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 2,
+    "Warhead_Type": 2,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 47,
+    "Index": 48,
     "UniProt": "P00533",
     "PDB": "4G5P",
     "Ligand_Chain": "A",
@@ -701,11 +716,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 2,
+    "Warhead_Type": 2,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 48,
+    "Index": 49,
     "UniProt": "P00533",
     "PDB": "4I24",
     "Ligand_Chain": "A",
@@ -716,11 +731,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 2,
+    "Warhead_Type": 2,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 49,
+    "Index": 50,
     "UniProt": "P00533",
     "PDB": "4LI5",
     "Ligand_Chain": "A",
@@ -731,11 +746,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 50,
+    "Index": 51,
     "UniProt": "P00533",
     "PDB": "4LL0",
     "Ligand_Chain": "B",
@@ -746,11 +761,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 51,
+    "Index": 52,
     "UniProt": "P00533",
     "PDB": "4LQM",
     "Ligand_Chain": "A",
@@ -761,11 +776,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 52,
+    "Index": 53,
     "UniProt": "P00533",
     "PDB": "4LRM",
     "Ligand_Chain": "D",
@@ -776,11 +791,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 53,
+    "Index": 54,
     "UniProt": "P00533",
     "PDB": "4R5S",
     "Ligand_Chain": "A",
@@ -791,11 +806,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 54,
+    "Index": 55,
     "UniProt": "P00533",
     "PDB": "4WD5",
     "Ligand_Chain": "A",
@@ -806,11 +821,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 55,
+    "Index": 56,
     "UniProt": "P00533",
     "PDB": "5FED",
     "Ligand_Chain": "A",
@@ -821,11 +836,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 2,
+    "Warhead_Type": 2,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 56,
+    "Index": 57,
     "UniProt": "P00533",
     "PDB": "5FEE",
     "Ligand_Chain": "A",
@@ -836,11 +851,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 57,
+    "Index": 58,
     "UniProt": "P00533",
     "PDB": "5FEQ",
     "Ligand_Chain": "A",
@@ -851,11 +866,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 2,
+    "Warhead_Type": 2,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 58,
+    "Index": 59,
     "UniProt": "P00533",
     "PDB": "5GMP",
     "Ligand_Chain": "A",
@@ -866,11 +881,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 59,
+    "Index": 60,
     "UniProt": "P00533",
     "PDB": "5GNK",
     "Ligand_Chain": "A",
@@ -881,11 +896,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 60,
+    "Index": 61,
     "UniProt": "P00533",
     "PDB": "5GTY",
     "Ligand_Chain": "A",
@@ -896,11 +911,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 61,
+    "Index": 62,
     "UniProt": "P00533",
     "PDB": "5GTZ",
     "Ligand_Chain": "A",
@@ -911,11 +926,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 62,
+    "Index": 63,
     "UniProt": "P00533",
     "PDB": "5HG5",
     "Ligand_Chain": "A",
@@ -926,11 +941,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 63,
+    "Index": 64,
     "UniProt": "P00533",
     "PDB": "5HG7",
     "Ligand_Chain": "A",
@@ -941,11 +956,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 64,
+    "Index": 65,
     "UniProt": "P00533",
     "PDB": "5HG8",
     "Ligand_Chain": "A",
@@ -956,11 +971,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 65,
+    "Index": 66,
     "UniProt": "P00533",
     "PDB": "5HG9",
     "Ligand_Chain": "A",
@@ -971,11 +986,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 66,
+    "Index": 67,
     "UniProt": "P00533",
     "PDB": "5J9Y",
     "Ligand_Chain": "A",
@@ -986,11 +1001,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 67,
+    "Index": 68,
     "UniProt": "P00533",
     "PDB": "5J9Z",
     "Ligand_Chain": "A",
@@ -1001,11 +1016,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 68,
+    "Index": 69,
     "UniProt": "P00533",
     "PDB": "5UG8",
     "Ligand_Chain": "A",
@@ -1016,11 +1031,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 69,
+    "Index": 70,
     "UniProt": "P00533",
     "PDB": "5UG9",
     "Ligand_Chain": "A",
@@ -1031,11 +1046,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 70,
+    "Index": 71,
     "UniProt": "P00533",
     "PDB": "5UGC",
     "Ligand_Chain": "A",
@@ -1046,11 +1061,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 71,
+    "Index": 72,
     "UniProt": "P00533",
     "PDB": "5UWD",
     "Ligand_Chain": "A",
@@ -1061,11 +1076,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 72,
+    "Index": 73,
     "UniProt": "P00533",
     "PDB": "5XDK",
     "Ligand_Chain": "A",
@@ -1076,11 +1091,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 73,
+    "Index": 74,
     "UniProt": "P00533",
     "PDB": "5XDL",
     "Ligand_Chain": "A",
@@ -1091,11 +1106,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 74,
+    "Index": 75,
     "UniProt": "P00533",
     "PDB": "5Y25",
     "Ligand_Chain": "A",
@@ -1106,11 +1121,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 11,
+    "Warhead_Type": 11,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 75,
+    "Index": 76,
     "UniProt": "P00533",
     "PDB": "5Y9T",
     "Ligand_Chain": "A",
@@ -1121,26 +1136,26 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 76,
+    "Index": 77,
     "UniProt": "P00533",
     "PDB": "5YU9",
     "Ligand_Chain": "A",
     "Ligand_Index": 1101,
-    "Ligand": "IE8",
+    "Ligand": 100000000,
     "Nucleophile_Chain": "A",
     "Nucleophile_Index": 797,
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 77,
+    "Index": 78,
     "UniProt": "P00533",
     "PDB": "6D8E",
     "Ligand_Chain": "A",
@@ -1151,11 +1166,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 78,
+    "Index": 79,
     "UniProt": "P00533",
     "PDB": "6JWL",
     "Ligand_Chain": "A",
@@ -1166,11 +1181,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 79,
+    "Index": 80,
     "UniProt": "P00533",
     "PDB": "6JX0",
     "Ligand_Chain": "A",
@@ -1181,11 +1196,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 80,
+    "Index": 81,
     "UniProt": "P00533",
     "PDB": "6JX4",
     "Ligand_Chain": "A",
@@ -1196,11 +1211,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 81,
+    "Index": 82,
     "UniProt": "P00533",
     "PDB": "6JXT",
     "Ligand_Chain": "A",
@@ -1211,11 +1226,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 82,
+    "Index": 83,
     "UniProt": "P00533",
     "PDB": "6JZ0",
     "Ligand_Chain": "A",
@@ -1226,11 +1241,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 2,
+    "Warhead_Type": 2,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 83,
+    "Index": 84,
     "UniProt": "P00533",
     "PDB": "6TFU",
     "Ligand_Chain": "A",
@@ -1241,11 +1256,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 84,
+    "Index": 85,
     "UniProt": "P00533",
     "PDB": "6TFV",
     "Ligand_Chain": "A",
@@ -1256,11 +1271,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 85,
+    "Index": 86,
     "UniProt": "P00533",
     "PDB": "6TFW",
     "Ligand_Chain": "A",
@@ -1271,11 +1286,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 86,
+    "Index": 87,
     "UniProt": "P00533",
     "PDB": "6TFY",
     "Ligand_Chain": "A",
@@ -1286,11 +1301,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 87,
+    "Index": 88,
     "UniProt": "P00533",
     "PDB": "6TFZ",
     "Ligand_Chain": "A",
@@ -1301,11 +1316,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 88,
+    "Index": 89,
     "UniProt": "P00533",
     "PDB": "6TG0",
     "Ligand_Chain": "A",
@@ -1316,11 +1331,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 89,
+    "Index": 90,
     "UniProt": "P00533",
     "PDB": "6TG1",
     "Ligand_Chain": "A",
@@ -1331,11 +1346,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 90,
+    "Index": 91,
     "UniProt": "P00533",
     "PDB": "6V66",
     "Ligand_Chain": "C",
@@ -1346,11 +1361,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 91,
+    "Index": 92,
     "UniProt": "P00533",
     "PDB": "6V6K",
     "Ligand_Chain": "D",
@@ -1361,11 +1376,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 92,
+    "Index": 93,
     "UniProt": "P00533",
     "PDB": "6V6O",
     "Ligand_Chain": "D",
@@ -1376,11 +1391,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 93,
+    "Index": 94,
     "UniProt": "P00533",
     "PDB": "6VH4",
     "Ligand_Chain": "A",
@@ -1391,11 +1406,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 94,
+    "Index": 95,
     "UniProt": "P00533",
     "PDB": "6VHP",
     "Ligand_Chain": "A",
@@ -1406,11 +1421,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 95,
+    "Index": 96,
     "UniProt": "P00533",
     "PDB": "6Z4B",
     "Ligand_Chain": "A",
@@ -1421,11 +1436,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 96,
+    "Index": 97,
     "UniProt": "P00533",
     "PDB": "6Z4D",
     "Ligand_Chain": "A",
@@ -1436,11 +1451,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 97,
+    "Index": 98,
     "UniProt": "P00533",
     "PDB": "7A2A",
     "Ligand_Chain": "A",
@@ -1451,11 +1466,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 98,
+    "Index": 99,
     "UniProt": "P00533",
     "PDB": "7A6I",
     "Ligand_Chain": "A",
@@ -1466,11 +1481,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 99,
+    "Index": 100,
     "UniProt": "P00533",
     "PDB": "7A6J",
     "Ligand_Chain": "A",
@@ -1481,11 +1496,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 100,
+    "Index": 101,
     "UniProt": "P00533",
     "PDB": "7A6K",
     "Ligand_Chain": "A",
@@ -1496,11 +1511,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 101,
+    "Index": 102,
     "UniProt": "P00533",
     "PDB": "7B85",
     "Ligand_Chain": "A",
@@ -1511,11 +1526,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 102,
+    "Index": 103,
     "UniProt": "P00533",
     "PDB": "7LGS",
     "Ligand_Chain": "A",
@@ -1526,11 +1541,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 103,
+    "Index": 104,
     "UniProt": "P00533",
     "PDB": "7OXB",
     "Ligand_Chain": "A",
@@ -1541,11 +1556,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 104,
+    "Index": 105,
     "UniProt": "P00533",
     "PDB": "7T4I",
     "Ligand_Chain": "A",
@@ -1556,11 +1571,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 105,
+    "Index": 106,
     "UniProt": "P00533",
     "PDB": "7T4J",
     "Ligand_Chain": "A",
@@ -1571,11 +1586,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 106,
+    "Index": 107,
     "UniProt": "P00533",
     "PDB": "8EME",
     "Ligand_Chain": "B",
@@ -1586,11 +1601,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "beta4"
   },
   {
-    "Index": 107,
+    "Index": 108,
     "UniProt": "P00533",
     "PDB": "8EME",
     "Ligand_Chain": "B",
@@ -1601,11 +1616,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 108,
+    "Index": 109,
     "UniProt": "P00533",
     "PDB": "8GK5",
     "Ligand_Chain": "A",
@@ -1616,11 +1631,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 109,
+    "Index": 110,
     "UniProt": "P00533",
     "PDB": "8HV1",
     "Ligand_Chain": "A",
@@ -1631,11 +1646,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 18,
+    "Warhead_Type": 18,
     "Nucleophile_Location": "beta4"
   },
   {
-    "Index": 110,
+    "Index": 111,
     "UniProt": "P00533",
     "PDB": "8HV2",
     "Ligand_Chain": "A",
@@ -1646,11 +1661,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "beta4"
   },
   {
-    "Index": 111,
+    "Index": 112,
     "UniProt": "P00533",
     "PDB": "8HV3",
     "Ligand_Chain": "A",
@@ -1661,11 +1676,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "beta4"
   },
   {
-    "Index": 112,
+    "Index": 113,
     "UniProt": "P00533",
     "PDB": "8HV4",
     "Ligand_Chain": "A",
@@ -1676,11 +1691,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "beta4"
   },
   {
-    "Index": 113,
+    "Index": 114,
     "UniProt": "P00533",
     "PDB": "8HV6",
     "Ligand_Chain": "A",
@@ -1691,11 +1706,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "beta4"
   },
   {
-    "Index": 114,
+    "Index": 115,
     "UniProt": "P00533",
     "PDB": "8HV7",
     "Ligand_Chain": "A",
@@ -1706,11 +1721,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "beta4"
   },
   {
-    "Index": 115,
+    "Index": 116,
     "UniProt": "P00533",
     "PDB": "8HV8",
     "Ligand_Chain": "A",
@@ -1721,11 +1736,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "beta4"
   },
   {
-    "Index": 116,
+    "Index": 117,
     "UniProt": "P00533",
     "PDB": "8HV9",
     "Ligand_Chain": "A",
@@ -1736,11 +1751,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "beta4"
   },
   {
-    "Index": 117,
+    "Index": 118,
     "UniProt": "P00533",
     "PDB": "8HVA",
     "Ligand_Chain": "A",
@@ -1751,11 +1766,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "beta4"
   },
   {
-    "Index": 118,
+    "Index": 119,
     "UniProt": "P00533",
     "PDB": "8TJL",
     "Ligand_Chain": "A",
@@ -1766,11 +1781,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 119,
+    "Index": 120,
     "UniProt": "P00533",
     "PDB": "9EWT",
     "Ligand_Chain": "A",
@@ -1781,11 +1796,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 120,
+    "Index": 121,
     "UniProt": "P04626",
     "PDB": "7PCD",
     "Ligand_Chain": "A",
@@ -1796,11 +1811,11 @@
     "Nucleophile": "CYS",
     "Kinase": "HER2",
     "Organism": "HUMAN",
-    "Warhead Type": 2,
+    "Warhead_Type": 2,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 121,
+    "Index": 122,
     "UniProt": "P04626",
     "PDB": "8U8X",
     "Ligand_Chain": "A",
@@ -1811,11 +1826,11 @@
     "Nucleophile": "CYS",
     "Kinase": "HER2",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 122,
+    "Index": 123,
     "UniProt": "P10721",
     "PDB": "6XVB",
     "Ligand_Chain": "A",
@@ -1826,11 +1841,11 @@
     "Nucleophile": "CYS",
     "Kinase": "KIT",
     "Organism": "HUMAN",
-    "Warhead Type": 14,
+    "Warhead_Type": 14,
     "Nucleophile_Location": "Catalytic-loop"
   },
   {
-    "Index": 123,
+    "Index": 124,
     "UniProt": "P11362",
     "PDB": "5O49",
     "Ligand_Chain": "A",
@@ -1841,11 +1856,11 @@
     "Nucleophile": "LYS",
     "Kinase": "FGFR1",
     "Organism": "HUMAN",
-    "Warhead Type": 10,
+    "Warhead_Type": 10,
     "Nucleophile_Location": "beta3"
   },
   {
-    "Index": 124,
+    "Index": 125,
     "UniProt": "P11362",
     "PDB": "5O4A",
     "Ligand_Chain": "B",
@@ -1856,11 +1871,11 @@
     "Nucleophile": "LYS",
     "Kinase": "FGFR1",
     "Organism": "HUMAN",
-    "Warhead Type": 10,
+    "Warhead_Type": 10,
     "Nucleophile_Location": "beta3"
   },
   {
-    "Index": 125,
+    "Index": 126,
     "UniProt": "P11362",
     "PDB": "5U8L",
     "Ligand_Chain": "A",
@@ -1871,11 +1886,11 @@
     "Nucleophile": "LYS",
     "Kinase": "FGFR1",
     "Organism": "HUMAN",
-    "Warhead Type": 10,
+    "Warhead_Type": 10,
     "Nucleophile_Location": "beta3"
   },
   {
-    "Index": 126,
+    "Index": 127,
     "UniProt": "P11362",
     "PDB": "5VND",
     "Ligand_Chain": "A",
@@ -1886,11 +1901,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR1",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "gk+2"
   },
   {
-    "Index": 127,
+    "Index": 128,
     "UniProt": "P11362",
     "PDB": "6MZW",
     "Ligand_Chain": "A",
@@ -1901,11 +1916,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR1",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "p-loop"
   },
   {
-    "Index": 128,
+    "Index": 129,
     "UniProt": "P11362",
     "PDB": "6NVL",
     "Ligand_Chain": "A",
@@ -1916,11 +1931,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR1",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "p-loop"
   },
   {
-    "Index": 129,
+    "Index": 130,
     "UniProt": "P11362",
     "PDB": "6P69",
     "Ligand_Chain": "A",
@@ -1931,11 +1946,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR1",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "gk+2"
   },
   {
-    "Index": 130,
+    "Index": 131,
     "UniProt": "P11362",
     "PDB": "8XLO",
     "Ligand_Chain": "A",
@@ -1946,11 +1961,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR1",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "p-loop"
   },
   {
-    "Index": 131,
+    "Index": 132,
     "UniProt": "P11362",
     "PDB": "8XZ7",
     "Ligand_Chain": "A",
@@ -1961,11 +1976,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR1",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "p-loop"
   },
   {
-    "Index": 132,
+    "Index": 133,
     "UniProt": "P11362",
     "PDB": "8Y22",
     "Ligand_Chain": "A",
@@ -1976,11 +1991,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR1",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "p-loop"
   },
   {
-    "Index": 133,
+    "Index": 134,
     "UniProt": "P12931",
     "PDB": "6ATE",
     "Ligand_Chain": "A",
@@ -1991,11 +2006,11 @@
     "Nucleophile": "CYS",
     "Kinase": "SRC",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "p-loop"
   },
   {
-    "Index": 134,
+    "Index": 135,
     "UniProt": "P12931",
     "PDB": "6E6E",
     "Ligand_Chain": "A",
@@ -2006,11 +2021,11 @@
     "Nucleophile": "CYS",
     "Kinase": "SRC",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "p-loop"
   },
   {
-    "Index": 135,
+    "Index": 136,
     "UniProt": "P12931",
     "PDB": "8JN9",
     "Ligand_Chain": "A",
@@ -2021,11 +2036,11 @@
     "Nucleophile": "CYS",
     "Kinase": "SRC",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "p-loop"
   },
   {
-    "Index": 136,
+    "Index": 137,
     "UniProt": "P18654",
     "PDB": "4M8T",
     "Ligand_Chain": "A",
@@ -2036,11 +2051,11 @@
     "Nucleophile": "CYS",
     "Kinase": "RSK2",
     "Organism": "MOUSE",
-    "Warhead Type": 5,
+    "Warhead_Type": 5,
     "Nucleophile_Location": "beta2"
   },
   {
-    "Index": 137,
+    "Index": 138,
     "UniProt": "P18654",
     "PDB": "4MAO",
     "Ligand_Chain": "A",
@@ -2051,11 +2066,11 @@
     "Nucleophile": "CYS",
     "Kinase": "RSK2",
     "Organism": "MOUSE",
-    "Warhead Type": 5,
+    "Warhead_Type": 5,
     "Nucleophile_Location": "beta2"
   },
   {
-    "Index": 138,
+    "Index": 139,
     "UniProt": "P21802",
     "PDB": "7KIA",
     "Ligand_Chain": "A",
@@ -2066,11 +2081,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR2",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "p-loop"
   },
   {
-    "Index": 139,
+    "Index": 140,
     "UniProt": "P21802",
     "PDB": "7KIE",
     "Ligand_Chain": "A",
@@ -2081,11 +2096,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR2",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "p-loop"
   },
   {
-    "Index": 140,
+    "Index": 141,
     "UniProt": "P21802",
     "PDB": "8STG",
     "Ligand_Chain": "A",
@@ -2096,11 +2111,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR2",
     "Organism": "HUMAN",
-    "Warhead Type": 2,
+    "Warhead_Type": 2,
     "Nucleophile_Location": "p-loop"
   },
   {
-    "Index": 141,
+    "Index": 142,
     "UniProt": "P21802",
     "PDB": "8SWE",
     "Ligand_Chain": "A",
@@ -2111,11 +2126,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR2",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "p-loop"
   },
   {
-    "Index": 142,
+    "Index": 143,
     "UniProt": "P21802",
     "PDB": "8U1F",
     "Ligand_Chain": "A",
@@ -2126,11 +2141,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR2",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "p-loop"
   },
   {
-    "Index": 143,
+    "Index": 144,
     "UniProt": "P21802",
     "PDB": "8W38",
     "Ligand_Chain": "A",
@@ -2141,11 +2156,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR2",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "p-loop"
   },
   {
-    "Index": 144,
+    "Index": 145,
     "UniProt": "P22455",
     "PDB": "4QQ5",
     "Ligand_Chain": "A",
@@ -2156,11 +2171,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "p-loop"
   },
   {
-    "Index": 145,
+    "Index": 146,
     "UniProt": "P22455",
     "PDB": "4QQC",
     "Ligand_Chain": "A",
@@ -2171,11 +2186,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "p-loop"
   },
   {
-    "Index": 146,
+    "Index": 147,
     "UniProt": "P22455",
     "PDB": "4R6V",
     "Ligand_Chain": "A",
@@ -2186,11 +2201,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "p-loop"
   },
   {
-    "Index": 147,
+    "Index": 148,
     "UniProt": "P22455",
     "PDB": "4XCU",
     "Ligand_Chain": "A",
@@ -2201,11 +2216,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "gk+2"
   },
   {
-    "Index": 148,
+    "Index": 149,
     "UniProt": "P22455",
     "PDB": "5NUD",
     "Ligand_Chain": "A",
@@ -2216,11 +2231,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
-    "Warhead Type": 9,
+    "Warhead_Type": 9,
     "Nucleophile_Location": "gk+2"
   },
   {
-    "Index": 149,
+    "Index": 150,
     "UniProt": "P22455",
     "PDB": "5NWZ",
     "Ligand_Chain": "A",
@@ -2231,11 +2246,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "p-loop"
   },
   {
-    "Index": 150,
+    "Index": 151,
     "UniProt": "P22455",
     "PDB": "6IUO",
     "Ligand_Chain": "A",
@@ -2246,11 +2261,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "p-loop"
   },
   {
-    "Index": 151,
+    "Index": 152,
     "UniProt": "P22455",
     "PDB": "6IUP",
     "Ligand_Chain": "A",
@@ -2261,11 +2276,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "p-loop"
   },
   {
-    "Index": 152,
+    "Index": 153,
     "UniProt": "P22455",
     "PDB": "6JPE",
     "Ligand_Chain": "A",
@@ -2276,11 +2291,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "gk+2"
   },
   {
-    "Index": 153,
+    "Index": 154,
     "UniProt": "P22455",
     "PDB": "6JPJ",
     "Ligand_Chain": "A",
@@ -2291,11 +2306,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
-    "Warhead Type": 8,
+    "Warhead_Type": 8,
     "Nucleophile_Location": "gk+2"
   },
   {
-    "Index": 154,
+    "Index": 155,
     "UniProt": "P22455",
     "PDB": "6NVG",
     "Ligand_Chain": "A",
@@ -2306,11 +2321,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "gk+2"
   },
   {
-    "Index": 155,
+    "Index": 156,
     "UniProt": "P22455",
     "PDB": "6NVH",
     "Ligand_Chain": "A",
@@ -2321,11 +2336,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "gk+2"
   },
   {
-    "Index": 156,
+    "Index": 157,
     "UniProt": "P22455",
     "PDB": "6NVI",
     "Ligand_Chain": "A",
@@ -2336,11 +2351,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "gk+2"
   },
   {
-    "Index": 157,
+    "Index": 158,
     "UniProt": "P22455",
     "PDB": "6NVJ",
     "Ligand_Chain": "A",
@@ -2351,11 +2366,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "gk+2"
   },
   {
-    "Index": 158,
+    "Index": 159,
     "UniProt": "P22455",
     "PDB": "6NVK",
     "Ligand_Chain": "A",
@@ -2366,11 +2381,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "gk+2"
   },
   {
-    "Index": 159,
+    "Index": 160,
     "UniProt": "P22455",
     "PDB": "6V9C",
     "Ligand_Chain": "A",
@@ -2381,11 +2396,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "gk+2"
   },
   {
-    "Index": 160,
+    "Index": 161,
     "UniProt": "P22455",
     "PDB": "6YI8",
     "Ligand_Chain": "A",
@@ -2396,11 +2411,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
-    "Warhead Type": 8,
+    "Warhead_Type": 8,
     "Nucleophile_Location": "gk+2"
   },
   {
-    "Index": 161,
+    "Index": 162,
     "UniProt": "P22455",
     "PDB": "7DTZ",
     "Ligand_Chain": "A",
@@ -2411,11 +2426,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
-    "Warhead Type": 2,
+    "Warhead_Type": 2,
     "Nucleophile_Location": "gk+2"
   },
   {
-    "Index": 162,
+    "Index": 163,
     "UniProt": "P22455",
     "PDB": "7F3M",
     "Ligand_Chain": "A",
@@ -2426,22 +2441,7 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
-    "Nucleophile_Location": "p-loop"
-  },
-  {
-    "Index": 163,
-    "UniProt": "P22455",
-    "PDB": "7V29",
-    "Ligand_Chain": "A",
-    "Ligand_Index": 801,
-    "Ligand": "5JR",
-    "Nucleophile_Chain": "A",
-    "Nucleophile_Index": 477,
-    "Nucleophile": "CYS",
-    "Kinase": "FGFR4",
-    "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "p-loop"
   },
   {
@@ -2452,15 +2452,30 @@
     "Ligand_Index": 801,
     "Ligand": "5JR",
     "Nucleophile_Chain": "A",
+    "Nucleophile_Index": 477,
+    "Nucleophile": "CYS",
+    "Kinase": "FGFR4",
+    "Organism": "HUMAN",
+    "Warhead_Type": 1,
+    "Nucleophile_Location": "p-loop"
+  },
+  {
+    "Index": 165,
+    "UniProt": "P22455",
+    "PDB": "7V29",
+    "Ligand_Chain": "A",
+    "Ligand_Index": 801,
+    "Ligand": "5JR",
+    "Nucleophile_Chain": "A",
     "Nucleophile_Index": 552,
     "Nucleophile": "CYS",
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "gk+2"
   },
   {
-    "Index": 165,
+    "Index": 166,
     "UniProt": "P22455",
     "PDB": "7WCT",
     "Ligand_Chain": "A",
@@ -2471,11 +2486,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "gk+2"
   },
   {
-    "Index": 166,
+    "Index": 167,
     "UniProt": "P22455",
     "PDB": "7WCW",
     "Ligand_Chain": "A",
@@ -2486,11 +2501,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "gk+2"
   },
   {
-    "Index": 167,
+    "Index": 168,
     "UniProt": "P22455",
     "PDB": "7WCX",
     "Ligand_Chain": "A",
@@ -2501,11 +2516,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "gk+2"
   },
   {
-    "Index": 168,
+    "Index": 169,
     "UniProt": "P22455",
     "PDB": "7YBO",
     "Ligand_Chain": "A",
@@ -2516,11 +2531,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
-    "Warhead Type": 8,
+    "Warhead_Type": 8,
     "Nucleophile_Location": "gk+2"
   },
   {
-    "Index": 169,
+    "Index": 170,
     "UniProt": "P22455",
     "PDB": "7YBP",
     "Ligand_Chain": "A",
@@ -2531,11 +2546,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
-    "Warhead Type": 8,
+    "Warhead_Type": 8,
     "Nucleophile_Location": "gk+2"
   },
   {
-    "Index": 170,
+    "Index": 171,
     "UniProt": "P22455",
     "PDB": "7YBX",
     "Ligand_Chain": "A",
@@ -2546,11 +2561,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
-    "Warhead Type": 8,
+    "Warhead_Type": 8,
     "Nucleophile_Location": "gk+2"
   },
   {
-    "Index": 171,
+    "Index": 172,
     "UniProt": "P22455",
     "PDB": "7YC1",
     "Ligand_Chain": "A",
@@ -2561,11 +2576,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
-    "Warhead Type": 8,
+    "Warhead_Type": 8,
     "Nucleophile_Location": "gk+2"
   },
   {
-    "Index": 172,
+    "Index": 173,
     "UniProt": "P22455",
     "PDB": "7YC3",
     "Ligand_Chain": "A",
@@ -2576,11 +2591,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
-    "Warhead Type": 8,
+    "Warhead_Type": 8,
     "Nucleophile_Location": "gk+2"
   },
   {
-    "Index": 173,
+    "Index": 174,
     "UniProt": "P22455",
     "PDB": "8KH6",
     "Ligand_Chain": "A",
@@ -2591,11 +2606,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
-    "Warhead Type": 8,
+    "Warhead_Type": 8,
     "Nucleophile_Location": "gk+2"
   },
   {
-    "Index": 174,
+    "Index": 175,
     "UniProt": "P22455",
     "PDB": "8KH7",
     "Ligand_Chain": "A",
@@ -2606,11 +2621,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
-    "Warhead Type": 8,
+    "Warhead_Type": 8,
     "Nucleophile_Location": "gk+2"
   },
   {
-    "Index": 175,
+    "Index": 176,
     "UniProt": "P22455",
     "PDB": "8KH8",
     "Ligand_Chain": "A",
@@ -2621,11 +2636,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
-    "Warhead Type": 8,
+    "Warhead_Type": 8,
     "Nucleophile_Location": "gk+2"
   },
   {
-    "Index": 176,
+    "Index": 177,
     "UniProt": "P22455",
     "PDB": "8KH9",
     "Ligand_Chain": "A",
@@ -2636,11 +2651,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
-    "Warhead Type": 8,
+    "Warhead_Type": 8,
     "Nucleophile_Location": "gk+2"
   },
   {
-    "Index": 177,
+    "Index": 178,
     "UniProt": "P22455",
     "PDB": "8W5C",
     "Ligand_Chain": "A",
@@ -2651,11 +2666,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
-    "Warhead Type": 8,
+    "Warhead_Type": 8,
     "Nucleophile_Location": "gk+2"
   },
   {
-    "Index": 178,
+    "Index": 179,
     "UniProt": "P22455",
     "PDB": "8XLQ",
     "Ligand_Chain": "A",
@@ -2666,11 +2681,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "p-loop"
   },
   {
-    "Index": 179,
+    "Index": 180,
     "UniProt": "P22455",
     "PDB": "8XLQ",
     "Ligand_Chain": "A",
@@ -2681,11 +2696,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "gk+2"
   },
   {
-    "Index": 180,
+    "Index": 181,
     "UniProt": "P22607",
     "PDB": "8UDT",
     "Ligand_Chain": "A",
@@ -2696,11 +2711,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR3",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "p-loop"
   },
   {
-    "Index": 181,
+    "Index": 182,
     "UniProt": "P22607",
     "PDB": "8UDU",
     "Ligand_Chain": "A",
@@ -2711,11 +2726,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR3",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "p-loop"
   },
   {
-    "Index": 182,
+    "Index": 183,
     "UniProt": "P22607",
     "PDB": "8UDV",
     "Ligand_Chain": "A",
@@ -2726,11 +2741,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FGFR3",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "p-loop"
   },
   {
-    "Index": 183,
+    "Index": 184,
     "UniProt": "P24941",
     "PDB": "5CYI",
     "Ligand_Chain": "A",
@@ -2741,11 +2756,11 @@
     "Nucleophile": "LYS",
     "Kinase": "CDK2",
     "Organism": "HUMAN",
-    "Warhead Type": 7,
+    "Warhead_Type": 7,
     "Nucleophile_Location": "front+2"
   },
   {
-    "Index": 184,
+    "Index": 185,
     "UniProt": "P24941",
     "PDB": "5OO0",
     "Ligand_Chain": "A",
@@ -2756,11 +2771,11 @@
     "Nucleophile": "CYS",
     "Kinase": "CDK2",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "G-helix"
   },
   {
-    "Index": 185,
+    "Index": 186,
     "UniProt": "P24941",
     "PDB": "5OO1",
     "Ligand_Chain": "A",
@@ -2771,11 +2786,11 @@
     "Nucleophile": "CYS",
     "Kinase": "CDK2",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "beta5"
   },
   {
-    "Index": 186,
+    "Index": 187,
     "UniProt": "P24941",
     "PDB": "5OO3",
     "Ligand_Chain": "A",
@@ -2786,11 +2801,11 @@
     "Nucleophile": "CYS",
     "Kinase": "CDK2",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "beta5"
   },
   {
-    "Index": 187,
+    "Index": 188,
     "UniProt": "P24941",
     "PDB": "5OSJ",
     "Ligand_Chain": "A",
@@ -2801,11 +2816,11 @@
     "Nucleophile": "CYS",
     "Kinase": "CDK2",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "G-helix"
   },
   {
-    "Index": 188,
+    "Index": 189,
     "UniProt": "P24941",
     "PDB": "5OSM",
     "Ligand_Chain": "A",
@@ -2816,11 +2831,11 @@
     "Nucleophile": "CYS",
     "Kinase": "CDK2",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "beta5"
   },
   {
-    "Index": 189,
+    "Index": 190,
     "UniProt": "P24941",
     "PDB": "6YL1",
     "Ligand_Chain": "A",
@@ -2831,11 +2846,11 @@
     "Nucleophile": "CYS",
     "Kinase": "CDK2",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "beta5"
   },
   {
-    "Index": 190,
+    "Index": 191,
     "UniProt": "P27361",
     "PDB": "6GES",
     "Ligand_Chain": "A",
@@ -2846,11 +2861,11 @@
     "Nucleophile": "CYS",
     "Kinase": "MAPK3",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "dfg-1"
   },
   {
-    "Index": 191,
+    "Index": 192,
     "UniProt": "P28482",
     "PDB": "4ZZM",
     "Ligand_Chain": "A",
@@ -2861,11 +2876,11 @@
     "Nucleophile": "CYS",
     "Kinase": "ERK2",
     "Organism": "HUMAN",
-    "Warhead Type": 7,
+    "Warhead_Type": 7,
     "Nucleophile_Location": "dfg-1"
   },
   {
-    "Index": 192,
+    "Index": 193,
     "UniProt": "P28482",
     "PDB": "4ZZO",
     "Ligand_Chain": "A",
@@ -2876,11 +2891,11 @@
     "Nucleophile": "CYS",
     "Kinase": "ERK2",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "dfg-1"
   },
   {
-    "Index": 193,
+    "Index": 194,
     "UniProt": "P28482",
     "PDB": "5LCJ",
     "Ligand_Chain": "A",
@@ -2891,11 +2906,11 @@
     "Nucleophile": "CYS",
     "Kinase": "ERK2",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "dfg-1"
   },
   {
-    "Index": 194,
+    "Index": 195,
     "UniProt": "P28482",
     "PDB": "5LCK",
     "Ligand_Chain": "A",
@@ -2906,11 +2921,11 @@
     "Nucleophile": "CYS",
     "Kinase": "ERK2",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "dfg-1"
   },
   {
-    "Index": 195,
+    "Index": 196,
     "UniProt": "P28482",
     "PDB": "6G54",
     "Ligand_Chain": "A",
@@ -2921,11 +2936,11 @@
     "Nucleophile": "CYS",
     "Kinase": "ERK2",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "dfg-1"
   },
   {
-    "Index": 196,
+    "Index": 197,
     "UniProt": "P28482",
     "PDB": "8AO2",
     "Ligand_Chain": "A",
@@ -2936,11 +2951,11 @@
     "Nucleophile": "CYS",
     "Kinase": "ERK2",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "dfg-1"
   },
   {
-    "Index": 197,
+    "Index": 198,
     "UniProt": "P28482",
     "PDB": "8AO3",
     "Ligand_Chain": "A",
@@ -2951,11 +2966,11 @@
     "Nucleophile": "CYS",
     "Kinase": "ERK2",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "dfg-1"
   },
   {
-    "Index": 198,
+    "Index": 199,
     "UniProt": "P28482",
     "PDB": "8AO4",
     "Ligand_Chain": "A",
@@ -2966,11 +2981,11 @@
     "Nucleophile": "CYS",
     "Kinase": "ERK2",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "dfg-1"
   },
   {
-    "Index": 199,
+    "Index": 200,
     "UniProt": "P28482",
     "PDB": "8AO5",
     "Ligand_Chain": "A",
@@ -2981,11 +2996,11 @@
     "Nucleophile": "CYS",
     "Kinase": "ERK2",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "dfg-1"
   },
   {
-    "Index": 200,
+    "Index": 201,
     "UniProt": "P28482",
     "PDB": "8AO7",
     "Ligand_Chain": "A",
@@ -2996,11 +3011,11 @@
     "Nucleophile": "CYS",
     "Kinase": "ERK2",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "dfg-1"
   },
   {
-    "Index": 201,
+    "Index": 202,
     "UniProt": "P28482",
     "PDB": "8AO8",
     "Ligand_Chain": "A",
@@ -3011,11 +3026,11 @@
     "Nucleophile": "CYS",
     "Kinase": "ERK2",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "dfg-1"
   },
   {
-    "Index": 202,
+    "Index": 203,
     "UniProt": "P28482",
     "PDB": "8AO9",
     "Ligand_Chain": "A",
@@ -3026,11 +3041,11 @@
     "Nucleophile": "CYS",
     "Kinase": "ERK2",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "dfg-1"
   },
   {
-    "Index": 203,
+    "Index": 204,
     "UniProt": "P28482",
     "PDB": "8AOA",
     "Ligand_Chain": "A",
@@ -3041,11 +3056,11 @@
     "Nucleophile": "CYS",
     "Kinase": "ERK2",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "dfg-1"
   },
   {
-    "Index": 204,
+    "Index": 205,
     "UniProt": "P28482",
     "PDB": "8AOB",
     "Ligand_Chain": "A",
@@ -3056,11 +3071,11 @@
     "Nucleophile": "CYS",
     "Kinase": "ERK2",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "dfg-1"
   },
   {
-    "Index": 205,
+    "Index": 206,
     "UniProt": "P28482",
     "PDB": "8AOC",
     "Ligand_Chain": "A",
@@ -3071,11 +3086,11 @@
     "Nucleophile": "CYS",
     "Kinase": "ERK2",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "dfg-1"
   },
   {
-    "Index": 206,
+    "Index": 207,
     "UniProt": "P28482",
     "PDB": "8AOD",
     "Ligand_Chain": "A",
@@ -3086,11 +3101,11 @@
     "Nucleophile": "CYS",
     "Kinase": "ERK2",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "dfg-1"
   },
   {
-    "Index": 207,
+    "Index": 208,
     "UniProt": "P28482",
     "PDB": "8AOE",
     "Ligand_Chain": "A",
@@ -3101,11 +3116,11 @@
     "Nucleophile": "CYS",
     "Kinase": "ERK2",
     "Organism": "HUMAN",
-    "Warhead Type": 7,
+    "Warhead_Type": 7,
     "Nucleophile_Location": "dfg-1"
   },
   {
-    "Index": 208,
+    "Index": 209,
     "UniProt": "P28482",
     "PDB": "8AOF",
     "Ligand_Chain": "A",
@@ -3116,11 +3131,11 @@
     "Nucleophile": "CYS",
     "Kinase": "ERK2",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "dfg-1"
   },
   {
-    "Index": 209,
+    "Index": 210,
     "UniProt": "P28482",
     "PDB": "8AOG",
     "Ligand_Chain": "A",
@@ -3131,11 +3146,11 @@
     "Nucleophile": "CYS",
     "Kinase": "ERK2",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "dfg-1"
   },
   {
-    "Index": 210,
+    "Index": 211,
     "UniProt": "P28482",
     "PDB": "8AOH",
     "Ligand_Chain": "A",
@@ -3146,11 +3161,11 @@
     "Nucleophile": "CYS",
     "Kinase": "ERK2",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "dfg-1"
   },
   {
-    "Index": 211,
+    "Index": 212,
     "UniProt": "P28482",
     "PDB": "8AOI",
     "Ligand_Chain": "A",
@@ -3161,11 +3176,11 @@
     "Nucleophile": "CYS",
     "Kinase": "ERK2",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "dfg-1"
   },
   {
-    "Index": 212,
+    "Index": 213,
     "UniProt": "P28482",
     "PDB": "8AOJ",
     "Ligand_Chain": "A",
@@ -3176,11 +3191,11 @@
     "Nucleophile": "CYS",
     "Kinase": "ERK2",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "dfg-1"
   },
   {
-    "Index": 213,
+    "Index": 214,
     "UniProt": "P31749",
     "PDB": "6HHF",
     "Ligand_Chain": "A",
@@ -3191,11 +3206,11 @@
     "Nucleophile": "CYS",
     "Kinase": "AKT1",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "dfg+1"
   },
   {
-    "Index": 214,
+    "Index": 215,
     "UniProt": "P31749",
     "PDB": "6HHG",
     "Ligand_Chain": "A",
@@ -3206,11 +3221,11 @@
     "Nucleophile": "CYS",
     "Kinase": "AKT1",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "A-loop"
   },
   {
-    "Index": 215,
+    "Index": 216,
     "UniProt": "P31749",
     "PDB": "6HHH",
     "Ligand_Chain": "A",
@@ -3221,11 +3236,11 @@
     "Nucleophile": "CYS",
     "Kinase": "AKT1",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "dfg+1"
   },
   {
-    "Index": 216,
+    "Index": 217,
     "UniProt": "P31749",
     "PDB": "6HHI",
     "Ligand_Chain": "A",
@@ -3236,11 +3251,11 @@
     "Nucleophile": "CYS",
     "Kinase": "AKT1",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "dfg+1"
   },
   {
-    "Index": 217,
+    "Index": 218,
     "UniProt": "P31749",
     "PDB": "6HHJ",
     "Ligand_Chain": "A",
@@ -3251,11 +3266,11 @@
     "Nucleophile": "CYS",
     "Kinase": "AKT1",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "A-loop"
   },
   {
-    "Index": 218,
+    "Index": 219,
     "UniProt": "P31749",
     "PDB": "6S9W",
     "Ligand_Chain": "A",
@@ -3266,11 +3281,11 @@
     "Nucleophile": "CYS",
     "Kinase": "AKT1",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "A-loop"
   },
   {
-    "Index": 219,
+    "Index": 220,
     "UniProt": "P31749",
     "PDB": "6S9X",
     "Ligand_Chain": "A",
@@ -3281,11 +3296,11 @@
     "Nucleophile": "CYS",
     "Kinase": "AKT1",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "A-loop"
   },
   {
-    "Index": 220,
+    "Index": 221,
     "UniProt": "P31749",
     "PDB": "7NH4",
     "Ligand_Chain": "A",
@@ -3296,11 +3311,11 @@
     "Nucleophile": "CYS",
     "Kinase": "AKT1",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "A-loop"
   },
   {
-    "Index": 221,
+    "Index": 222,
     "UniProt": "P31749",
     "PDB": "7NH5",
     "Ligand_Chain": "A",
@@ -3311,11 +3326,11 @@
     "Nucleophile": "CYS",
     "Kinase": "AKT1",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "dfg+1"
   },
   {
-    "Index": 222,
+    "Index": 223,
     "UniProt": "P31749",
     "PDB": "7NH5",
     "Ligand_Chain": "A",
@@ -3326,11 +3341,11 @@
     "Nucleophile": "CYS",
     "Kinase": "AKT1",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "A-loop"
   },
   {
-    "Index": 223,
+    "Index": 224,
     "UniProt": "P33981",
     "PDB": "7LQD",
     "Ligand_Chain": "A",
@@ -3341,11 +3356,11 @@
     "Nucleophile": "CYS",
     "Kinase": "TTK",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "gk+2"
   },
   {
-    "Index": 224,
+    "Index": 225,
     "UniProt": "P35968",
     "PDB": "6XVK",
     "Ligand_Chain": "A",
@@ -3356,11 +3371,11 @@
     "Nucleophile": "CYS",
     "Kinase": "VEGFR2",
     "Organism": "HUMAN",
-    "Warhead Type": 13,
+    "Warhead_Type": 13,
     "Nucleophile_Location": "A-loop"
   },
   {
-    "Index": 225,
+    "Index": 226,
     "UniProt": "P35991",
     "PDB": "6MNY",
     "Ligand_Chain": "A",
@@ -3371,11 +3386,11 @@
     "Nucleophile": "CYS",
     "Kinase": "BTK",
     "Organism": "MOUSE",
-    "Warhead Type": 12,
+    "Warhead_Type": 12,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 226,
+    "Index": 227,
     "UniProt": "P35991",
     "PDB": "8FD9",
     "Ligand_Chain": "A",
@@ -3386,11 +3401,11 @@
     "Nucleophile": "CYS",
     "Kinase": "BTK",
     "Organism": "MOUSE",
-    "Warhead Type": 2,
+    "Warhead_Type": 2,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 227,
+    "Index": 228,
     "UniProt": "P35991",
     "PDB": "8FF0",
     "Ligand_Chain": "A",
@@ -3401,11 +3416,11 @@
     "Nucleophile": "CYS",
     "Kinase": "BTK",
     "Organism": "MOUSE",
-    "Warhead Type": 2,
+    "Warhead_Type": 2,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 228,
+    "Index": 229,
     "UniProt": "P36888",
     "PDB": "5X02",
     "Ligand_Chain": "A",
@@ -3416,11 +3431,11 @@
     "Nucleophile": "CYS",
     "Kinase": "FLT3",
     "Organism": "HUMAN",
-    "Warhead Type": 2,
+    "Warhead_Type": 2,
     "Nucleophile_Location": "gk+2"
   },
   {
-    "Index": 229,
+    "Index": 230,
     "UniProt": "P45983",
     "PDB": "8PT8",
     "Ligand_Chain": "A",
@@ -3431,11 +3446,11 @@
     "Nucleophile": "CYS",
     "Kinase": "JNK1",
     "Organism": "HUMAN",
-    "Warhead Type": 2,
+    "Warhead_Type": 2,
     "Nucleophile_Location": "front+2"
   },
   {
-    "Index": 230,
+    "Index": 231,
     "UniProt": "P45983",
     "PDB": "8PT9",
     "Ligand_Chain": "A",
@@ -3446,11 +3461,11 @@
     "Nucleophile": "CYS",
     "Kinase": "JNK1",
     "Organism": "HUMAN",
-    "Warhead Type": 2,
+    "Warhead_Type": 2,
     "Nucleophile_Location": "front+2"
   },
   {
-    "Index": 231,
+    "Index": 232,
     "UniProt": "P45983",
     "PDB": "8PTA",
     "Ligand_Chain": "A",
@@ -3461,11 +3476,11 @@
     "Nucleophile": "CYS",
     "Kinase": "JNK1",
     "Organism": "HUMAN",
-    "Warhead Type": 2,
+    "Warhead_Type": 2,
     "Nucleophile_Location": "front+2"
   },
   {
-    "Index": 232,
+    "Index": 233,
     "UniProt": "P45983",
     "PDB": "8X5M",
     "Ligand_Chain": "A",
@@ -3476,11 +3491,11 @@
     "Nucleophile": "CYS",
     "Kinase": "JNK1",
     "Organism": "HUMAN",
-    "Warhead Type": 2,
+    "Warhead_Type": 2,
     "Nucleophile_Location": "front+2"
   },
   {
-    "Index": 233,
+    "Index": 234,
     "UniProt": "P45984",
     "PDB": "8ELC",
     "Ligand_Chain": "A",
@@ -3491,11 +3506,11 @@
     "Nucleophile": "CYS",
     "Kinase": "JNK2",
     "Organism": "HUMAN",
-    "Warhead Type": 2,
+    "Warhead_Type": 2,
     "Nucleophile_Location": "front+2"
   },
   {
-    "Index": 234,
+    "Index": 235,
     "UniProt": "P49841",
     "PDB": "6H0U",
     "Ligand_Chain": "A",
@@ -3506,11 +3521,11 @@
     "Nucleophile": "CYS",
     "Kinase": "GSK3B",
     "Organism": "HUMAN",
-    "Warhead Type": 5,
+    "Warhead_Type": 5,
     "Nucleophile_Location": "dfg-1"
   },
   {
-    "Index": 235,
+    "Index": 236,
     "UniProt": "P50613",
     "PDB": "6XD3",
     "Ligand_Chain": "J",
@@ -3521,11 +3536,11 @@
     "Nucleophile": "CYS",
     "Kinase": "CDK7",
     "Organism": "HUMAN",
-    "Warhead Type": 2,
+    "Warhead_Type": 2,
     "Nucleophile_Location": "C-terminal"
   },
   {
-    "Index": 236,
+    "Index": 237,
     "UniProt": "P50613",
     "PDB": "8R9S",
     "Ligand_Chain": "A",
@@ -3536,11 +3551,11 @@
     "Nucleophile": "CYS",
     "Kinase": "CDK7",
     "Organism": "HUMAN",
-    "Warhead Type": 2,
+    "Warhead_Type": 2,
     "Nucleophile_Location": "C-terminal"
   },
   {
-    "Index": 237,
+    "Index": 238,
     "UniProt": "P51812",
     "PDB": "4D9U",
     "Ligand_Chain": "A",
@@ -3551,11 +3566,11 @@
     "Nucleophile": "CYS",
     "Kinase": "RSK2",
     "Organism": "HUMAN",
-    "Warhead Type": 5,
+    "Warhead_Type": 5,
     "Nucleophile_Location": "beta2"
   },
   {
-    "Index": 238,
+    "Index": 239,
     "UniProt": "P51812",
     "PDB": "4JG6",
     "Ligand_Chain": "A",
@@ -3566,11 +3581,11 @@
     "Nucleophile": "CYS",
     "Kinase": "RSK2",
     "Organism": "HUMAN",
-    "Warhead Type": 5,
+    "Warhead_Type": 5,
     "Nucleophile_Location": "beta2"
   },
   {
-    "Index": 239,
+    "Index": 240,
     "UniProt": "P51812",
     "PDB": "4JG7",
     "Ligand_Chain": "A",
@@ -3581,11 +3596,11 @@
     "Nucleophile": "CYS",
     "Kinase": "RSK2",
     "Organism": "HUMAN",
-    "Warhead Type": 5,
+    "Warhead_Type": 5,
     "Nucleophile_Location": "beta2"
   },
   {
-    "Index": 240,
+    "Index": 241,
     "UniProt": "P51812",
     "PDB": "4JG8",
     "Ligand_Chain": "A",
@@ -3596,11 +3611,11 @@
     "Nucleophile": "CYS",
     "Kinase": "RSK2",
     "Organism": "HUMAN",
-    "Warhead Type": 5,
+    "Warhead_Type": 5,
     "Nucleophile_Location": "beta2"
   },
   {
-    "Index": 241,
+    "Index": 242,
     "UniProt": "P51813",
     "PDB": "6I99",
     "Ligand_Chain": "A",
@@ -3611,11 +3626,11 @@
     "Nucleophile": "CYS",
     "Kinase": "BMX",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 242,
+    "Index": 243,
     "UniProt": "P51813",
     "PDB": "8X2A",
     "Ligand_Chain": "A",
@@ -3626,11 +3641,11 @@
     "Nucleophile": "CYS",
     "Kinase": "BMX",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 243,
+    "Index": 244,
     "UniProt": "P51955",
     "PDB": "6SGD",
     "Ligand_Chain": "A",
@@ -3641,11 +3656,11 @@
     "Nucleophile": "CYS",
     "Kinase": "NEK2",
     "Organism": "HUMAN",
-    "Warhead Type": 13,
+    "Warhead_Type": 13,
     "Nucleophile_Location": "beta2"
   },
   {
-    "Index": 244,
+    "Index": 245,
     "UniProt": "P51955",
     "PDB": "6SGH",
     "Ligand_Chain": "A",
@@ -3656,11 +3671,11 @@
     "Nucleophile": "CYS",
     "Kinase": "NEK2",
     "Organism": "HUMAN",
-    "Warhead Type": 13,
+    "Warhead_Type": 13,
     "Nucleophile_Location": "beta2"
   },
   {
-    "Index": 245,
+    "Index": 246,
     "UniProt": "P52333",
     "PDB": "4QPS",
     "Ligand_Chain": "A",
@@ -3671,11 +3686,11 @@
     "Nucleophile": "CYS",
     "Kinase": "JAK3",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 246,
+    "Index": 247,
     "UniProt": "P52333",
     "PDB": "4V0G",
     "Ligand_Chain": "A",
@@ -3686,11 +3701,11 @@
     "Nucleophile": "CYS",
     "Kinase": "JAK3",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 247,
+    "Index": 248,
     "UniProt": "P52333",
     "PDB": "4Z16",
     "Ligand_Chain": "A",
@@ -3701,11 +3716,11 @@
     "Nucleophile": "CYS",
     "Kinase": "JAK3",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 248,
+    "Index": 249,
     "UniProt": "P52333",
     "PDB": "5LWM",
     "Ligand_Chain": "A",
@@ -3716,11 +3731,11 @@
     "Nucleophile": "CYS",
     "Kinase": "JAK3",
     "Organism": "HUMAN",
-    "Warhead Type": 5,
+    "Warhead_Type": 5,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 249,
+    "Index": 250,
     "UniProt": "P52333",
     "PDB": "5LWN",
     "Ligand_Chain": "A",
@@ -3731,11 +3746,11 @@
     "Nucleophile": "CYS",
     "Kinase": "JAK3",
     "Organism": "HUMAN",
-    "Warhead Type": 5,
+    "Warhead_Type": 5,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 250,
+    "Index": 251,
     "UniProt": "P52333",
     "PDB": "5TOZ",
     "Ligand_Chain": "A",
@@ -3746,11 +3761,11 @@
     "Nucleophile": "CYS",
     "Kinase": "JAK3",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 251,
+    "Index": 252,
     "UniProt": "P52333",
     "PDB": "5TTS",
     "Ligand_Chain": "A",
@@ -3761,11 +3776,11 @@
     "Nucleophile": "CYS",
     "Kinase": "JAK3",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 252,
+    "Index": 253,
     "UniProt": "P52333",
     "PDB": "5TTU",
     "Ligand_Chain": "A",
@@ -3776,11 +3791,11 @@
     "Nucleophile": "CYS",
     "Kinase": "JAK3",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 253,
+    "Index": 254,
     "UniProt": "P52333",
     "PDB": "5TTV",
     "Ligand_Chain": "A",
@@ -3791,11 +3806,11 @@
     "Nucleophile": "CYS",
     "Kinase": "JAK3",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 254,
+    "Index": 255,
     "UniProt": "P52333",
     "PDB": "5WFJ",
     "Ligand_Chain": "A",
@@ -3806,11 +3821,11 @@
     "Nucleophile": "CYS",
     "Kinase": "JAK3",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 255,
+    "Index": 256,
     "UniProt": "P52333",
     "PDB": "6DA4",
     "Ligand_Chain": "A",
@@ -3821,11 +3836,11 @@
     "Nucleophile": "CYS",
     "Kinase": "JAK3",
     "Organism": "HUMAN",
-    "Warhead Type": 12,
+    "Warhead_Type": 12,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 256,
+    "Index": 257,
     "UniProt": "P52333",
     "PDB": "6DB4",
     "Ligand_Chain": "A",
@@ -3836,11 +3851,11 @@
     "Nucleophile": "CYS",
     "Kinase": "JAK3",
     "Organism": "HUMAN",
-    "Warhead Type": 12,
+    "Warhead_Type": 12,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 257,
+    "Index": 258,
     "UniProt": "P52333",
     "PDB": "6DUD",
     "Ligand_Chain": "A",
@@ -3851,11 +3866,11 @@
     "Nucleophile": "CYS",
     "Kinase": "JAK3",
     "Organism": "HUMAN",
-    "Warhead Type": 12,
+    "Warhead_Type": 12,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 258,
+    "Index": 259,
     "UniProt": "P52333",
     "PDB": "7APF",
     "Ligand_Chain": "A",
@@ -3866,11 +3881,11 @@
     "Nucleophile": "CYS",
     "Kinase": "JAK3",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 259,
+    "Index": 260,
     "UniProt": "P52333",
     "PDB": "7APG",
     "Ligand_Chain": "A",
@@ -3881,11 +3896,11 @@
     "Nucleophile": "CYS",
     "Kinase": "JAK3",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 260,
+    "Index": 261,
     "UniProt": "P52564",
     "PDB": "8P7J",
     "Ligand_Chain": "A",
@@ -3896,11 +3911,11 @@
     "Nucleophile": "CYS",
     "Kinase": "MP2K6",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "dfg-1"
   },
   {
-    "Index": 261,
+    "Index": 262,
     "UniProt": "P52564",
     "PDB": "8PM3",
     "Ligand_Chain": "A",
@@ -3911,11 +3926,11 @@
     "Nucleophile": "CYS",
     "Kinase": "MP2K6",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "dfg-1"
   },
   {
-    "Index": 262,
+    "Index": 263,
     "UniProt": "P53779",
     "PDB": "3V6R",
     "Ligand_Chain": "A",
@@ -3926,11 +3941,11 @@
     "Nucleophile": "CYS",
     "Kinase": "JNK3",
     "Organism": "HUMAN",
-    "Warhead Type": 2,
+    "Warhead_Type": 2,
     "Nucleophile_Location": "front+2"
   },
   {
-    "Index": 263,
+    "Index": 264,
     "UniProt": "P53779",
     "PDB": "3V6S",
     "Ligand_Chain": "B",
@@ -3941,11 +3956,11 @@
     "Nucleophile": "CYS",
     "Kinase": "JNK3",
     "Organism": "HUMAN",
-    "Warhead Type": 2,
+    "Warhead_Type": 2,
     "Nucleophile_Location": "front+2"
   },
   {
-    "Index": 264,
+    "Index": 265,
     "UniProt": "P53779",
     "PDB": "7ORE",
     "Ligand_Chain": "A",
@@ -3956,11 +3971,11 @@
     "Nucleophile": "CYS",
     "Kinase": "JNK3",
     "Organism": "HUMAN",
-    "Warhead Type": 2,
+    "Warhead_Type": 2,
     "Nucleophile_Location": "front+2"
   },
   {
-    "Index": 265,
+    "Index": 266,
     "UniProt": "P53779",
     "PDB": "7ORF",
     "Ligand_Chain": "A",
@@ -3971,11 +3986,11 @@
     "Nucleophile": "CYS",
     "Kinase": "JNK3",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front+2"
   },
   {
-    "Index": 266,
+    "Index": 267,
     "UniProt": "P54753",
     "PDB": "5L6O",
     "Ligand_Chain": "A",
@@ -3986,11 +4001,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EPHB3",
     "Organism": "HUMAN",
-    "Warhead Type": 8,
+    "Warhead_Type": 8,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 267,
+    "Index": 268,
     "UniProt": "P54753",
     "PDB": "5L6P",
     "Ligand_Chain": "A",
@@ -4001,11 +4016,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EPHB3",
     "Organism": "HUMAN",
-    "Warhead Type": 8,
+    "Warhead_Type": 8,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 268,
+    "Index": 269,
     "UniProt": "P54762",
     "PDB": "5MJB",
     "Ligand_Chain": "A",
@@ -4016,11 +4031,11 @@
     "Nucleophile": "CYS",
     "Kinase": "EPHB1",
     "Organism": "HUMAN",
-    "Warhead Type": 8,
+    "Warhead_Type": 8,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 269,
+    "Index": 270,
     "UniProt": "Q02750",
     "PDB": "5HZE",
     "Ligand_Chain": "A",
@@ -4031,11 +4046,11 @@
     "Nucleophile": "CYS",
     "Kinase": "MAP2K1",
     "Organism": "HUMAN",
-    "Warhead Type": 6,
+    "Warhead_Type": 6,
     "Nucleophile_Location": "dfg-1"
   },
   {
-    "Index": 270,
+    "Index": 271,
     "UniProt": "Q06187",
     "PDB": "4YHF",
     "Ligand_Chain": "A",
@@ -4046,11 +4061,11 @@
     "Nucleophile": "CYS",
     "Kinase": "BTK",
     "Organism": "HUMAN",
-    "Warhead Type": 5,
+    "Warhead_Type": 5,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 271,
+    "Index": 272,
     "UniProt": "Q06187",
     "PDB": "5J87",
     "Ligand_Chain": "A",
@@ -4061,26 +4076,26 @@
     "Nucleophile": "CYS",
     "Kinase": "BTK",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 272,
+    "Index": 273,
     "UniProt": "Q06187",
     "PDB": "5P9J",
     "Ligand_Chain": "A",
     "Ligand_Index": 701,
-    "Ligand": "8E8",
+    "Ligand": 800000000,
     "Nucleophile_Chain": "A",
     "Nucleophile_Index": 481,
     "Nucleophile": "CYS",
     "Kinase": "BTK",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 273,
+    "Index": 274,
     "UniProt": "Q06187",
     "PDB": "5P9K",
     "Ligand_Chain": "A",
@@ -4091,11 +4106,11 @@
     "Nucleophile": "CYS",
     "Kinase": "BTK",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 274,
+    "Index": 275,
     "UniProt": "Q06187",
     "PDB": "5P9L",
     "Ligand_Chain": "A",
@@ -4106,11 +4121,11 @@
     "Nucleophile": "CYS",
     "Kinase": "BTK",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 275,
+    "Index": 276,
     "UniProt": "Q06187",
     "PDB": "5P9M",
     "Ligand_Chain": "A",
@@ -4121,11 +4136,11 @@
     "Nucleophile": "CYS",
     "Kinase": "BTK",
     "Organism": "HUMAN",
-    "Warhead Type": 2,
+    "Warhead_Type": 2,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 276,
+    "Index": 277,
     "UniProt": "Q06187",
     "PDB": "5XYZ",
     "Ligand_Chain": "A",
@@ -4136,11 +4151,11 @@
     "Nucleophile": "CYS",
     "Kinase": "BTK",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 277,
+    "Index": 278,
     "UniProt": "Q06187",
     "PDB": "6DI1",
     "Ligand_Chain": "A",
@@ -4151,11 +4166,11 @@
     "Nucleophile": "CYS",
     "Kinase": "BTK",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 278,
+    "Index": 279,
     "UniProt": "Q06187",
     "PDB": "6DI3",
     "Ligand_Chain": "A",
@@ -4166,11 +4181,11 @@
     "Nucleophile": "CYS",
     "Kinase": "BTK",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 279,
+    "Index": 280,
     "UniProt": "Q06187",
     "PDB": "6DI5",
     "Ligand_Chain": "A",
@@ -4181,11 +4196,11 @@
     "Nucleophile": "CYS",
     "Kinase": "BTK",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 280,
+    "Index": 281,
     "UniProt": "Q06187",
     "PDB": "6DI9",
     "Ligand_Chain": "A",
@@ -4196,11 +4211,11 @@
     "Nucleophile": "CYS",
     "Kinase": "BTK",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 281,
+    "Index": 282,
     "UniProt": "Q06187",
     "PDB": "6J6M",
     "Ligand_Chain": "A",
@@ -4211,11 +4226,11 @@
     "Nucleophile": "CYS",
     "Kinase": "BTK",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 282,
+    "Index": 283,
     "UniProt": "Q06187",
     "PDB": "6N9P",
     "Ligand_Chain": "A",
@@ -4226,11 +4241,11 @@
     "Nucleophile": "CYS",
     "Kinase": "BTK",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 283,
+    "Index": 284,
     "UniProt": "Q06187",
     "PDB": "6O8I",
     "Ligand_Chain": "A",
@@ -4241,11 +4256,11 @@
     "Nucleophile": "CYS",
     "Kinase": "BTK",
     "Organism": "HUMAN",
-    "Warhead Type": 2,
+    "Warhead_Type": 2,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 284,
+    "Index": 285,
     "UniProt": "Q06187",
     "PDB": "6OMU",
     "Ligand_Chain": "A",
@@ -4256,11 +4271,11 @@
     "Nucleophile": "CYS",
     "Kinase": "BTK",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 285,
+    "Index": 286,
     "UniProt": "Q06187",
     "PDB": "6TFP",
     "Ligand_Chain": "A",
@@ -4271,11 +4286,11 @@
     "Nucleophile": "CYS",
     "Kinase": "BTK",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 286,
+    "Index": 287,
     "UniProt": "Q06187",
     "PDB": "7L5P",
     "Ligand_Chain": "A",
@@ -4286,11 +4301,11 @@
     "Nucleophile": "CYS",
     "Kinase": "BTK",
     "Organism": "HUMAN",
-    "Warhead Type": 5,
+    "Warhead_Type": 5,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 287,
+    "Index": 288,
     "UniProt": "Q06187",
     "PDB": "7N5Y",
     "Ligand_Chain": "A",
@@ -4301,11 +4316,11 @@
     "Nucleophile": "CYS",
     "Kinase": "BTK",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 288,
+    "Index": 289,
     "UniProt": "Q06187",
     "PDB": "7R60",
     "Ligand_Chain": "A",
@@ -4316,11 +4331,11 @@
     "Nucleophile": "CYS",
     "Kinase": "BTK",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 289,
+    "Index": 290,
     "UniProt": "Q06187",
     "PDB": "7R61",
     "Ligand_Chain": "A",
@@ -4331,11 +4346,11 @@
     "Nucleophile": "CYS",
     "Kinase": "BTK",
     "Organism": "HUMAN",
-    "Warhead Type": 12,
+    "Warhead_Type": 12,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 290,
+    "Index": 291,
     "UniProt": "Q06187",
     "PDB": "7YC9",
     "Ligand_Chain": "A",
@@ -4346,11 +4361,11 @@
     "Nucleophile": "CYS",
     "Kinase": "BTK",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 291,
+    "Index": 292,
     "UniProt": "Q06187",
     "PDB": "8DSO",
     "Ligand_Chain": "B",
@@ -4361,11 +4376,11 @@
     "Nucleophile": "CYS",
     "Kinase": "BTK",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 292,
+    "Index": 293,
     "UniProt": "Q06187",
     "PDB": "8E2M",
     "Ligand_Chain": "A",
@@ -4376,11 +4391,11 @@
     "Nucleophile": "CYS",
     "Kinase": "BTK",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 293,
+    "Index": 294,
     "UniProt": "Q06187",
     "PDB": "8TU3",
     "Ligand_Chain": "A",
@@ -4391,11 +4406,11 @@
     "Nucleophile": "CYS",
     "Kinase": "BTK",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 294,
+    "Index": 295,
     "UniProt": "Q06187",
     "PDB": "8TU4",
     "Ligand_Chain": "A",
@@ -4406,11 +4421,11 @@
     "Nucleophile": "CYS",
     "Kinase": "BTK",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 295,
+    "Index": 296,
     "UniProt": "Q06187",
     "PDB": "8TU5",
     "Ligand_Chain": "A",
@@ -4421,11 +4436,11 @@
     "Nucleophile": "CYS",
     "Kinase": "BTK",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 296,
+    "Index": 297,
     "UniProt": "Q08881",
     "PDB": "3T9T",
     "Ligand_Chain": "A",
@@ -4436,11 +4451,11 @@
     "Nucleophile": "CYS",
     "Kinase": "ITK",
     "Organism": "HUMAN",
-    "Warhead Type": 2,
+    "Warhead_Type": 2,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 297,
+    "Index": 298,
     "UniProt": "Q08881",
     "PDB": "4HCU",
     "Ligand_Chain": "A",
@@ -4451,11 +4466,11 @@
     "Nucleophile": "CYS",
     "Kinase": "ITK",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 298,
+    "Index": 299,
     "UniProt": "Q08881",
     "PDB": "4HCV",
     "Ligand_Chain": "A",
@@ -4466,11 +4481,11 @@
     "Nucleophile": "CYS",
     "Kinase": "ITK",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 299,
+    "Index": 300,
     "UniProt": "Q08881",
     "PDB": "4KIO",
     "Ligand_Chain": "C",
@@ -4481,11 +4496,11 @@
     "Nucleophile": "CYS",
     "Kinase": "ITK",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 300,
+    "Index": 301,
     "UniProt": "Q14004",
     "PDB": "7NXJ",
     "Ligand_Chain": "A",
@@ -4496,11 +4511,11 @@
     "Nucleophile": "CYS",
     "Kinase": "CDK13",
     "Organism": "HUMAN",
-    "Warhead Type": 2,
+    "Warhead_Type": 2,
     "Nucleophile_Location": "C-terminal"
   },
   {
-    "Index": 301,
+    "Index": 302,
     "UniProt": "Q15303",
     "PDB": "2R4B",
     "Ligand_Chain": "B",
@@ -4511,11 +4526,11 @@
     "Nucleophile": "CYS",
     "Kinase": "ERBB4",
     "Organism": "HUMAN",
-    "Warhead Type": 3,
+    "Warhead_Type": 3,
     "Nucleophile_Location": "front"
   },
   {
-    "Index": 302,
+    "Index": 303,
     "UniProt": "Q16539",
     "PDB": "5O8U",
     "Ligand_Chain": "A",
@@ -4526,11 +4541,11 @@
     "Nucleophile": "CYS",
     "Kinase": "p38a",
     "Organism": "HUMAN",
-    "Warhead Type": 6,
+    "Warhead_Type": 6,
     "Nucleophile_Location": "G-helix"
   },
   {
-    "Index": 303,
+    "Index": 304,
     "UniProt": "Q16539",
     "PDB": "5O8V",
     "Ligand_Chain": "A",
@@ -4541,11 +4556,11 @@
     "Nucleophile": "CYS",
     "Kinase": "p38a",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "G-helix"
   },
   {
-    "Index": 304,
+    "Index": 305,
     "UniProt": "Q9NYL2",
     "PDB": "7YAW",
     "Ligand_Chain": "A",
@@ -4556,11 +4571,11 @@
     "Nucleophile": "CYS",
     "Kinase": "ZAK",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "beta1"
   },
   {
-    "Index": 305,
+    "Index": 306,
     "UniProt": "Q9NYL2",
     "PDB": "7YAZ",
     "Ligand_Chain": "A",
@@ -4571,11 +4586,11 @@
     "Nucleophile": "CYS",
     "Kinase": "ZAK",
     "Organism": "HUMAN",
-    "Warhead Type": 1,
+    "Warhead_Type": 1,
     "Nucleophile_Location": "beta1"
   },
   {
-    "Index": 306,
+    "Index": 307,
     "UniProt": "Q9NYV4",
     "PDB": "5ACB",
     "Ligand_Chain": "C",
@@ -4586,11 +4601,11 @@
     "Nucleophile": "CYS",
     "Kinase": "CDK12",
     "Organism": "HUMAN",
-    "Warhead Type": 2,
+    "Warhead_Type": 2,
     "Nucleophile_Location": "C-terminal"
   },
   {
-    "Index": 307,
+    "Index": 308,
     "UniProt": "Q9NYV4",
     "PDB": "7NXK",
     "Ligand_Chain": "A",
@@ -4601,7 +4616,202 @@
     "Nucleophile": "CYS",
     "Kinase": "CDK12",
     "Organism": "HUMAN",
-    "Warhead Type": 2,
+    "Warhead_Type": 2,
     "Nucleophile_Location": "C-terminal"
+  },
+  {
+    "Index": 309,
+    "UniProt": "P00523",
+    "PDB": "2HWO",
+    "Ligand_Chain": "A",
+    "Ligand_Index": 1345,
+    "Ligand": "RBS",
+    "Nucleophile_Chain": "A",
+    "Nucleophile_Index": 345,
+    "Nucleophile": "CYS",
+    "Kinase": "SRC",
+    "Organism": "CHICK",
+    "Warhead_Type": 1,
+    "Nucleophile_Location": "front"
+  },
+  {
+    "Index": 310,
+    "UniProt": "P00523",
+    "PDB": "2HWP",
+    "Ligand_Chain": "A",
+    "Ligand_Index": 1345,
+    "Ligand": "DJK",
+    "Nucleophile_Chain": "A",
+    "Nucleophile_Index": 345,
+    "Nucleophile": "CYS",
+    "Kinase": "SRC",
+    "Organism": "CHICK",
+    "Warhead_Type": 1,
+    "Nucleophile_Location": "front"
+  },
+  {
+    "Index": 311,
+    "UniProt": "P00523",
+    "PDB": "2QLQ",
+    "Ligand_Chain": "A",
+    "Ligand_Index": 1345,
+    "Ligand": "SR2",
+    "Nucleophile_Chain": "A",
+    "Nucleophile_Index": 345,
+    "Nucleophile": "CYS",
+    "Kinase": "SRC",
+    "Organism": "CHICK",
+    "Warhead_Type": 2,
+    "Nucleophile_Location": "front"
+  },
+  {
+    "Index": 312,
+    "UniProt": "P00523",
+    "PDB": "2QQ7",
+    "Ligand_Chain": "A",
+    "Ligand_Index": 1345,
+    "Ligand": "SR2",
+    "Nucleophile_Chain": "A",
+    "Nucleophile_Index": 345,
+    "Nucleophile": "CYS",
+    "Kinase": "SRC",
+    "Organism": "CHICK",
+    "Warhead_Type": 2,
+    "Nucleophile_Location": "front"
+  },
+  {
+    "Index": 313,
+    "UniProt": "P00523",
+    "PDB": "3LOK",
+    "Ligand_Chain": "A",
+    "Ligand_Index": 1345,
+    "Ligand": "DJK",
+    "Nucleophile_Chain": "A",
+    "Nucleophile_Index": 345,
+    "Nucleophile": "CYS",
+    "Kinase": "SRC",
+    "Organism": "CHICK",
+    "Warhead_Type": 1,
+    "Nucleophile_Location": "front"
+  },
+  {
+    "Index": 314,
+    "UniProt": "P00523",
+    "PDB": "3SVV",
+    "Ligand_Chain": "A",
+    "Ligand_Index": 600,
+    "Ligand": "VSP",
+    "Nucleophile_Chain": "A",
+    "Nucleophile_Index": 338,
+    "Nucleophile": "CYS",
+    "Kinase": "SRC",
+    "Organism": "CHICK",
+    "Warhead_Type": 7,
+    "Nucleophile_Location": "beta5"
+  },
+  {
+    "Index": 315,
+    "UniProt": "P00523",
+    "PDB": "5K9I",
+    "Ligand_Chain": "A",
+    "Ligand_Index": 601,
+    "Ligand": "O44",
+    "Nucleophile_Chain": "A",
+    "Nucleophile_Index": 295,
+    "Nucleophile": "LYS",
+    "Kinase": "SRC",
+    "Organism": "CHICK",
+    "Warhead_Type": 10,
+    "Nucleophile_Location": "beta3"
+  },
+  {
+    "Index": 316,
+    "UniProt": "P00523",
+    "PDB": "5SWH",
+    "Ligand_Chain": "A",
+    "Ligand_Index": 600,
+    "Ligand": "71D",
+    "Nucleophile_Chain": "A",
+    "Nucleophile_Index": 281,
+    "Nucleophile": "CYS",
+    "Kinase": "SRC",
+    "Organism": "CHICK",
+    "Warhead_Type": 5,
+    "Nucleophile_Location": "beta2"
+  },
+  {
+    "Index": 317,
+    "UniProt": "P00523",
+    "PDB": "5SYS",
+    "Ligand_Chain": "A",
+    "Ligand_Index": 600,
+    "Ligand": "72F",
+    "Nucleophile_Chain": "A",
+    "Nucleophile_Index": 281,
+    "Nucleophile": "CYS",
+    "Kinase": "SRC",
+    "Organism": "CHICK",
+    "Warhead_Type": 5,
+    "Nucleophile_Location": "beta2"
+  },
+  {
+    "Index": 318,
+    "UniProt": "P00523",
+    "PDB": "5TEH",
+    "Ligand_Chain": "A",
+    "Ligand_Index": 600,
+    "Ligand": "S56",
+    "Nucleophile_Chain": "A",
+    "Nucleophile_Index": 281,
+    "Nucleophile": "CYS",
+    "Kinase": "SRC",
+    "Organism": "CHICK",
+    "Warhead_Type": 5,
+    "Nucleophile_Location": "beta2"
+  },
+  {
+    "Index": 319,
+    "UniProt": "Q00944",
+    "PDB": "6GCR",
+    "Ligand_Chain": "A",
+    "Ligand_Index": 701,
+    "Ligand": "EUW",
+    "Nucleophile_Chain": "A",
+    "Nucleophile_Index": 427,
+    "Nucleophile": "CYS",
+    "Kinase": "FAK1",
+    "Organism": "CHICK",
+    "Warhead_Type": 1,
+    "Nucleophile_Location": "beta1"
+  },
+  {
+    "Index": 320,
+    "UniProt": "P00523",
+    "PDB": "6HVE",
+    "Ligand_Chain": "A",
+    "Ligand_Index": 601,
+    "Ligand": "GUW",
+    "Nucleophile_Chain": "A",
+    "Nucleophile_Index": 345,
+    "Nucleophile": "CYS",
+    "Kinase": "SRC",
+    "Organism": "CHICK",
+    "Warhead_Type": 1,
+    "Nucleophile_Location": "front"
+  },
+  {
+    "Index": 321,
+    "UniProt": "P00523",
+    "PDB": "6HVF",
+    "Ligand_Chain": "A",
+    "Ligand_Index": 601,
+    "Ligand": "GUT",
+    "Nucleophile_Chain": "A",
+    "Nucleophile_Index": 345,
+    "Nucleophile": "CYS",
+    "Kinase": "SRC",
+    "Organism": "CHICK",
+    "Warhead_Type": 1,
+    "Nucleophile_Location": "front"
   }
 ]
