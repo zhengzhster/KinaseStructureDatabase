@@ -532,7 +532,7 @@
     "Nucleophile": "CYS",
     "Kinase": "TAK1",
     "Organism": "HUMAN",
-    "Warhead_Type": 11,
+    "Warhead_Type": 8,
     "Nucleophile_Location": "dfg-1",
     "Affinity_type": "IC50",
     "Value": 25,
