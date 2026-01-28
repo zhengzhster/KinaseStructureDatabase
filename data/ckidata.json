@@ -1,6 +1,5 @@
 [
   {
-    "Index": 1,
     "UniProt": "O14733",
     "PDB": "5Z1D",
     "Ligand_Chain": "A",
@@ -12,10 +11,13 @@
     "Kinase": "MAP2K7",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 5,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 2,
     "UniProt": "O14733",
     "PDB": "6IB0",
     "Ligand_Chain": "A",
@@ -27,10 +29,13 @@
     "Kinase": "MAP2K7",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 40,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 3,
     "UniProt": "O14733",
     "PDB": "6IB2",
     "Ligand_Chain": "A",
@@ -42,10 +47,13 @@
     "Kinase": "MAP2K7",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 10,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.9b00102"
   },
   {
-    "Index": 4,
     "UniProt": "O14733",
     "PDB": "6QFT",
     "Ligand_Chain": "A",
@@ -57,10 +65,13 @@
     "Kinase": "MAP2K7",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 30,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.9b00472"
   },
   {
-    "Index": 5,
     "UniProt": "O14733",
     "PDB": "6QG4",
     "Ligand_Chain": "A",
@@ -72,10 +83,13 @@
     "Kinase": "MAP2K7",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 8.6,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.9b00472"
   },
   {
-    "Index": 6,
     "UniProt": "O14733",
     "PDB": "6QG7",
     "Ligand_Chain": "A",
@@ -87,10 +101,13 @@
     "Kinase": "MAP2K7",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 149,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.9b00472"
   },
   {
-    "Index": 7,
     "UniProt": "O14733",
     "PDB": "6QHO",
     "Ligand_Chain": "A",
@@ -102,10 +119,13 @@
     "Kinase": "MAP2K7",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 631,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.9b00472"
   },
   {
-    "Index": 8,
     "UniProt": "O14733",
     "PDB": "6QHR",
     "Ligand_Chain": "A",
@@ -117,25 +137,31 @@
     "Kinase": "MAP2K7",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 19,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.9b00472"
   },
   {
-    "Index": 9,
     "UniProt": "O14733",
     "PDB": "6YG2",
     "Ligand_Chain": "A",
     "Ligand_Index": 514,
-    "Ligand": "8E8",
+    "Ligand": 800000000,
     "Nucleophile_Chain": "A",
     "Nucleophile_Index": 218,
     "Nucleophile": "CYS",
     "Kinase": "MAP2K7",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 160,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1016/j.chembiol.2020.07.014"
   },
   {
-    "Index": 10,
     "UniProt": "O14733",
     "PDB": "6YG3",
     "Ligand_Chain": "A",
@@ -147,10 +173,13 @@
     "Kinase": "MAP2K7",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 80,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1016/j.chembiol.2020.07.014"
   },
   {
-    "Index": 11,
     "UniProt": "O14733",
     "PDB": "6YG6",
     "Ligand_Chain": "A",
@@ -162,10 +191,13 @@
     "Kinase": "MAP2K7",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 1510,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1016/j.chembiol.2020.07.014"
   },
   {
-    "Index": 12,
     "UniProt": "O14733",
     "PDB": "6YG7",
     "Ligand_Chain": "B",
@@ -177,10 +209,13 @@
     "Kinase": "MAP2K7",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 120,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1016/j.chembiol.2020.07.014"
   },
   {
-    "Index": 13,
     "UniProt": "O14733",
     "PDB": "7OVI",
     "Ligand_Chain": "A",
@@ -192,10 +227,13 @@
     "Kinase": "MAP2K7",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.1c02206"
   },
   {
-    "Index": 14,
     "UniProt": "O14733",
     "PDB": "7OVJ",
     "Ligand_Chain": "A",
@@ -207,10 +245,13 @@
     "Kinase": "MAP2K7",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "EC50",
+    "Value": 265,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.1c02206"
   },
   {
-    "Index": 15,
     "UniProt": "O14733",
     "PDB": "7OVK",
     "Ligand_Chain": "A",
@@ -222,10 +263,13 @@
     "Kinase": "MAP2K7",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "EC50",
+    "Value": ">900",
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.1c02206"
   },
   {
-    "Index": 16,
     "UniProt": "O14733",
     "PDB": "7OVL",
     "Ligand_Chain": "A",
@@ -237,10 +281,13 @@
     "Kinase": "MAP2K7",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "EC50",
+    "Value": ">10000",
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.1c02206"
   },
   {
-    "Index": 17,
     "UniProt": "O14733",
     "PDB": "7OVM",
     "Ligand_Chain": "A",
@@ -252,10 +299,13 @@
     "Kinase": "MAP2K7",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "EC50",
+    "Value": ">5000",
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.1c02206"
   },
   {
-    "Index": 18,
     "UniProt": "O14733",
     "PDB": "7OVN",
     "Ligand_Chain": "A",
@@ -267,10 +317,13 @@
     "Kinase": "MAP2K7",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "EC50",
+    "Value": "<3000",
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.1c02206"
   },
   {
-    "Index": 19,
     "UniProt": "O14965",
     "PDB": "5ORL",
     "Ligand_Chain": "A",
@@ -282,10 +335,13 @@
     "Kinase": "AURKA",
     "Organism": "HUMAN",
     "Warhead_Type": 4,
-    "Nucleophile_Location": "Catalytic-loop"
+    "Nucleophile_Location": "Catalytic-loop",
+    "Affinity_type": "IC50",
+    "Value": 18,
+    "Unit": "uM",
+    "Source": "https://doi.org/10.1021/acschembio.7b00537"
   },
   {
-    "Index": 20,
     "UniProt": "O14965",
     "PDB": "6VPL",
     "Ligand_Chain": "B",
@@ -297,10 +353,13 @@
     "Kinase": "AURKA",
     "Organism": "HUMAN",
     "Warhead_Type": 4,
-    "Nucleophile_Location": "G-helix"
+    "Nucleophile_Location": "G-helix",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/doi/10.1126/scisignal.abb6707"
   },
   {
-    "Index": 21,
     "UniProt": "O14965",
     "PDB": "6VPM",
     "Ligand_Chain": "B",
@@ -312,10 +371,13 @@
     "Kinase": "AURKA",
     "Organism": "HUMAN",
     "Warhead_Type": 4,
-    "Nucleophile_Location": "G-helix"
+    "Nucleophile_Location": "G-helix",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/doi/10.1126/scisignal.abb6707"
   },
   {
-    "Index": 22,
     "UniProt": "O14965",
     "PDB": "7FIC",
     "Ligand_Chain": "A",
@@ -327,10 +389,49 @@
     "Kinase": "AURKA",
     "Organism": "HUMAN",
     "Warhead_Type": 19,
-    "Nucleophile_Location": "beta3"
+    "Nucleophile_Location": "beta3",
+    "Affinity_type": "EC50",
+    "Value": "~300",
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1038/s41589-022-01019-1"
   },
   {
-    "Index": 23,
+    "UniProt": "O14965",
+    "PDB": "8JF4",
+    "Ligand_Chain": "B",
+    "Ligand_Index": 401,
+    "Ligand": "C0N",
+    "Nucleophile_Chain": "A",
+    "Nucleophile_Index": 162,
+    "Nucleophile": "LYS",
+    "Kinase": "AURKA",
+    "Organism": "HUMAN",
+    "Warhead_Type": 21,
+    "Nucleophile_Location": "beta3",
+    "Affinity_type": "GI50",
+    "Value": 26.8,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1002/anie.202316394"
+  },
+  {
+    "UniProt": "O14965",
+    "PDB": "8JG8",
+    "Ligand_Chain": "B",
+    "Ligand_Index": 401,
+    "Ligand": "C74",
+    "Nucleophile_Chain": "A",
+    "Nucleophile_Index": 162,
+    "Nucleophile": "LYS",
+    "Kinase": "AURKA",
+    "Organism": "HUMAN",
+    "Warhead_Type": 21,
+    "Nucleophile_Location": "beta3",
+    "Affinity_type": "GI50",
+    "Value": 1.98,
+    "Unit": "uM",
+    "Source": "https://doi.org/10.1002/anie.202316394"
+  },
+  {
     "UniProt": "O15530",
     "PDB": "3ORX",
     "Ligand_Chain": "A",
@@ -342,10 +443,13 @@
     "Kinase": "PDPK1",
     "Organism": "HUMAN",
     "Warhead_Type": 4,
-    "Nucleophile_Location": "beta4"
+    "Nucleophile_Location": "beta4",
+    "Affinity_type": "EC50",
+    "Value": 7.2,
+    "Unit": "uM",
+    "Source": "https://doi.org/10.1073/pnas.1102376108"
   },
   {
-    "Index": 24,
     "UniProt": "O15530",
     "PDB": "3ORZ",
     "Ligand_Chain": "A",
@@ -357,10 +461,13 @@
     "Kinase": "PDPK1",
     "Organism": "HUMAN",
     "Warhead_Type": 4,
-    "Nucleophile_Location": "beta4"
+    "Nucleophile_Location": "beta4",
+    "Affinity_type": "EC50",
+    "Value": 7.1,
+    "Unit": "uM",
+    "Source": "https://doi.org/10.1073/pnas.1102376108"
   },
   {
-    "Index": 25,
     "UniProt": "O15530",
     "PDB": "3OTU",
     "Ligand_Chain": "A",
@@ -372,10 +479,13 @@
     "Kinase": "PDPK1",
     "Organism": "HUMAN",
     "Warhead_Type": 4,
-    "Nucleophile_Location": "beta4"
+    "Nucleophile_Location": "beta4",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.1073/pnas.1102376108"
   },
   {
-    "Index": 26,
     "UniProt": "O15530",
     "PDB": "3PWY",
     "Ligand_Chain": "A",
@@ -387,10 +497,13 @@
     "Kinase": "PDPK1",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.1016/j.bmcl.2011.03.032"
   },
   {
-    "Index": 27,
     "UniProt": "O43318",
     "PDB": "4GS6",
     "Ligand_Chain": "A",
@@ -402,10 +515,13 @@
     "Kinase": "TAK1",
     "Organism": "HUMAN",
     "Warhead_Type": 6,
-    "Nucleophile_Location": "dfg-1"
+    "Nucleophile_Location": "dfg-1",
+    "Affinity_type": "IC50",
+    "Value": 8,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 28,
     "UniProt": "O43318",
     "PDB": "5E7R",
     "Ligand_Chain": "A",
@@ -417,10 +533,13 @@
     "Kinase": "TAK1",
     "Organism": "HUMAN",
     "Warhead_Type": 11,
-    "Nucleophile_Location": "dfg-1"
+    "Nucleophile_Location": "dfg-1",
+    "Affinity_type": "IC50",
+    "Value": 25,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 29,
     "UniProt": "O43318",
     "PDB": "5J7S",
     "Ligand_Chain": "A",
@@ -432,10 +551,13 @@
     "Kinase": "TAK1",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "dfg-1"
+    "Nucleophile_Location": "dfg-1",
+    "Affinity_type": "IC50",
+    "Value": 1630,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 30,
     "UniProt": "O43318",
     "PDB": "5J8I",
     "Ligand_Chain": "A",
@@ -447,10 +569,13 @@
     "Kinase": "TAK1",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "dfg-1"
+    "Nucleophile_Location": "dfg-1",
+    "Affinity_type": "IC50",
+    "Value": 5.1,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 31,
     "UniProt": "O43318",
     "PDB": "5JH6",
     "Ligand_Chain": "A",
@@ -462,10 +587,13 @@
     "Kinase": "TAK1",
     "Organism": "HUMAN",
     "Warhead_Type": 6,
-    "Nucleophile_Location": "dfg-1"
+    "Nucleophile_Location": "dfg-1",
+    "Affinity_type": "IC50",
+    "Value": 3.3,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 32,
     "UniProt": "O43318",
     "PDB": "5JK3",
     "Ligand_Chain": "A",
@@ -477,10 +605,13 @@
     "Kinase": "TAK1",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "dfg-1"
+    "Nucleophile_Location": "dfg-1",
+    "Affinity_type": "IC50",
+    "Value": 7.3,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 33,
     "UniProt": "O75582",
     "PDB": "7UP4",
     "Ligand_Chain": "A",
@@ -492,10 +623,13 @@
     "Kinase": "MSK1",
     "Organism": "HUMAN",
     "Warhead_Type": 15,
-    "Nucleophile_Location": "beta2"
+    "Nucleophile_Location": "beta2",
+    "Affinity_type": "IC50",
+    "Value": 32,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 34,
     "UniProt": "O75582",
     "PDB": "7UP5",
     "Ligand_Chain": "A",
@@ -507,10 +641,13 @@
     "Kinase": "MSK1",
     "Organism": "HUMAN",
     "Warhead_Type": 15,
-    "Nucleophile_Location": "beta2"
+    "Nucleophile_Location": "beta2",
+    "Affinity_type": "IC50",
+    "Value": 13,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 35,
     "UniProt": "O75582",
     "PDB": "7UP6",
     "Ligand_Chain": "A",
@@ -522,10 +659,13 @@
     "Kinase": "MSK1",
     "Organism": "HUMAN",
     "Warhead_Type": 5,
-    "Nucleophile_Location": "beta2"
+    "Nucleophile_Location": "beta2",
+    "Affinity_type": "pIC50",
+    "Value": 9.6,
+    "Unit": "",
+    "Source": "https://doi.org/10.1021/acsmedchemlett.2c00134"
   },
   {
-    "Index": 36,
     "UniProt": "O75582",
     "PDB": "7UP7",
     "Ligand_Chain": "A",
@@ -537,10 +677,13 @@
     "Kinase": "MSK1",
     "Organism": "HUMAN",
     "Warhead_Type": 5,
-    "Nucleophile_Location": "beta2"
+    "Nucleophile_Location": "beta2",
+    "Affinity_type": "pIC50",
+    "Value": 8.3,
+    "Unit": "",
+    "Source": "https://doi.org/10.1021/acsmedchemlett.2c00134"
   },
   {
-    "Index": 37,
     "UniProt": "O75582",
     "PDB": "7UP8",
     "Ligand_Chain": "A",
@@ -552,10 +695,13 @@
     "Kinase": "MSK1",
     "Organism": "HUMAN",
     "Warhead_Type": 15,
-    "Nucleophile_Location": "beta2"
+    "Nucleophile_Location": "beta2",
+    "Affinity_type": "IC50",
+    "Value": 32,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 38,
     "UniProt": "P00519",
     "PDB": "7CC2",
     "Ligand_Chain": "A",
@@ -567,10 +713,13 @@
     "Kinase": "ABL1",
     "Organism": "HUMAN",
     "Warhead_Type": 16,
-    "Nucleophile_Location": "beta3"
+    "Nucleophile_Location": "beta3",
+    "Affinity_type": "IC50",
+    "Value": 5,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1002/anie.202105383"
   },
   {
-    "Index": 39,
     "UniProt": "P00519",
     "PDB": "7DT2",
     "Ligand_Chain": "A",
@@ -582,10 +731,13 @@
     "Kinase": "ABL1",
     "Organism": "HUMAN",
     "Warhead_Type": 16,
-    "Nucleophile_Location": "beta3"
+    "Nucleophile_Location": "beta3",
+    "Affinity_type": "IC50",
+    "Value": 1.2,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1002/anie.202105383"
   },
   {
-    "Index": 40,
     "UniProt": "P00519",
     "PDB": "8H7F",
     "Ligand_Chain": "A",
@@ -597,10 +749,13 @@
     "Kinase": "ABL1",
     "Organism": "HUMAN",
     "Warhead_Type": 17,
-    "Nucleophile_Location": "beta3"
+    "Nucleophile_Location": "beta3",
+    "Affinity_type": "IC50",
+    "Value": 2.6,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/jacs.2c11595"
   },
   {
-    "Index": 41,
     "UniProt": "P00519",
     "PDB": "8H7H",
     "Ligand_Chain": "A",
@@ -612,10 +767,31 @@
     "Kinase": "ABL1",
     "Organism": "HUMAN",
     "Warhead_Type": 17,
-    "Nucleophile_Location": "beta3"
+    "Nucleophile_Location": "beta3",
+    "Affinity_type": "IC50",
+    "Value": 2.8,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/jacs.2c11595"
   },
   {
-    "Index": 42,
+    "UniProt": "P00519",
+    "PDB": "8I7T",
+    "Ligand_Chain": "D",
+    "Ligand_Index": 601,
+    "Ligand": "6I5",
+    "Nucleophile_Chain": "B",
+    "Nucleophile_Index": 271,
+    "Nucleophile": "LYS",
+    "Kinase": "ABL1",
+    "Organism": "HUMAN",
+    "Warhead_Type": 7,
+    "Nucleophile_Location": "beta3",
+    "Affinity_type": "IC50",
+    "Value": 43.1,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1016/j.jare.2024.09.008"
+  },
+  {
     "UniProt": "P00533",
     "PDB": "2J5F",
     "Ligand_Chain": "A",
@@ -627,10 +803,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 18,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 43,
     "UniProt": "P00533",
     "PDB": "2JIV",
     "Ligand_Chain": "A",
@@ -642,10 +821,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 2,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 5,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1158/0008-5472.CAN-03-2868"
   },
   {
-    "Index": 44,
     "UniProt": "P00533",
     "PDB": "3IKA",
     "Ligand_Chain": "A",
@@ -657,10 +839,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 10,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 45,
     "UniProt": "P00533",
     "PDB": "3W2P",
     "Ligand_Chain": "A",
@@ -672,10 +857,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 2,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 4.6,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/ml300327z"
   },
   {
-    "Index": 46,
     "UniProt": "P00533",
     "PDB": "3W2Q",
     "Ligand_Chain": "A",
@@ -687,10 +875,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 2,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 5,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1158/0008-5472.CAN-03-2868"
   },
   {
-    "Index": 47,
     "UniProt": "P00533",
     "PDB": "4G5J",
     "Ligand_Chain": "A",
@@ -702,10 +893,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 2,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 0.5,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 48,
     "UniProt": "P00533",
     "PDB": "4G5P",
     "Ligand_Chain": "A",
@@ -717,10 +911,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 2,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "EC50",
+    "Value": 1,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1124/jpet.112.197756"
   },
   {
-    "Index": 49,
     "UniProt": "P00533",
     "PDB": "4I24",
     "Ligand_Chain": "A",
@@ -732,10 +929,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 2,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 56,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 50,
     "UniProt": "P00533",
     "PDB": "4LI5",
     "Ligand_Chain": "A",
@@ -747,10 +947,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 550,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/jm400822z"
   },
   {
-    "Index": 51,
     "UniProt": "P00533",
     "PDB": "4LL0",
     "Ligand_Chain": "B",
@@ -762,10 +965,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 360,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 52,
     "UniProt": "P00533",
     "PDB": "4LQM",
     "Ligand_Chain": "A",
@@ -777,10 +983,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 130,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 53,
     "UniProt": "P00533",
     "PDB": "4LRM",
     "Ligand_Chain": "D",
@@ -792,10 +1001,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 0.1,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 54,
     "UniProt": "P00533",
     "PDB": "4R5S",
     "Ligand_Chain": "A",
@@ -807,10 +1019,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "EC50",
+    "Value": 231,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1073/pnas.1403438111"
   },
   {
-    "Index": 55,
     "UniProt": "P00533",
     "PDB": "4WD5",
     "Ligand_Chain": "A",
@@ -822,10 +1037,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.2210/pdb4WD5/pdb"
   },
   {
-    "Index": 56,
     "UniProt": "P00533",
     "PDB": "5FED",
     "Ligand_Chain": "A",
@@ -837,10 +1055,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 2,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 1,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.5b01985"
   },
   {
-    "Index": 57,
     "UniProt": "P00533",
     "PDB": "5FEE",
     "Ligand_Chain": "A",
@@ -852,10 +1073,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 14,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.5b01985"
   },
   {
-    "Index": 58,
     "UniProt": "P00533",
     "PDB": "5FEQ",
     "Ligand_Chain": "A",
@@ -867,10 +1091,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 2,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 2.1,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.5b01985"
   },
   {
-    "Index": 59,
     "UniProt": "P00533",
     "PDB": "5GMP",
     "Ligand_Chain": "A",
@@ -882,10 +1109,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 386,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 60,
     "UniProt": "P00533",
     "PDB": "5GNK",
     "Ligand_Chain": "A",
@@ -897,10 +1127,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "GI50",
+    "Value": 37,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.6b01907"
   },
   {
-    "Index": 61,
     "UniProt": "P00533",
     "PDB": "5GTY",
     "Ligand_Chain": "A",
@@ -912,10 +1145,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 71.4,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.18632/oncotarget.15443"
   },
   {
-    "Index": 62,
     "UniProt": "P00533",
     "PDB": "5GTZ",
     "Ligand_Chain": "A",
@@ -927,10 +1163,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.2210/pdb5GTZ/pdb"
   },
   {
-    "Index": 63,
     "UniProt": "P00533",
     "PDB": "5HG5",
     "Ligand_Chain": "A",
@@ -942,10 +1181,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 4,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.5b01633"
   },
   {
-    "Index": 64,
     "UniProt": "P00533",
     "PDB": "5HG7",
     "Ligand_Chain": "A",
@@ -957,10 +1199,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 13,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.5b01633"
   },
   {
-    "Index": 65,
     "UniProt": "P00533",
     "PDB": "5HG8",
     "Ligand_Chain": "A",
@@ -972,10 +1217,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 13,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.5b01633"
   },
   {
-    "Index": 66,
     "UniProt": "P00533",
     "PDB": "5HG9",
     "Ligand_Chain": "A",
@@ -987,10 +1235,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 47,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.5b01633"
   },
   {
-    "Index": 67,
     "UniProt": "P00533",
     "PDB": "5J9Y",
     "Ligand_Chain": "A",
@@ -1002,10 +1253,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 60,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 68,
     "UniProt": "P00533",
     "PDB": "5J9Z",
     "Ligand_Chain": "A",
@@ -1017,10 +1271,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 58,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 69,
     "UniProt": "P00533",
     "PDB": "5UG8",
     "Ligand_Chain": "A",
@@ -1032,10 +1289,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 7,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.6b01894"
   },
   {
-    "Index": 70,
     "UniProt": "P00533",
     "PDB": "5UG9",
     "Ligand_Chain": "A",
@@ -1047,10 +1307,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 5,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.6b01894"
   },
   {
-    "Index": 71,
     "UniProt": "P00533",
     "PDB": "5UGC",
     "Ligand_Chain": "A",
@@ -1062,10 +1325,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 12,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.6b01894"
   },
   {
-    "Index": 72,
     "UniProt": "P00533",
     "PDB": "5UWD",
     "Ligand_Chain": "A",
@@ -1077,10 +1343,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": "~360",
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1016/j.chembiol.2017.08.017"
   },
   {
-    "Index": 73,
     "UniProt": "P00533",
     "PDB": "5XDK",
     "Ligand_Chain": "A",
@@ -1092,10 +1361,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 187,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 74,
     "UniProt": "P00533",
     "PDB": "5XDL",
     "Ligand_Chain": "A",
@@ -1107,10 +1379,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 2,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 75,
     "UniProt": "P00533",
     "PDB": "5Y25",
     "Ligand_Chain": "A",
@@ -1122,10 +1397,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 11,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 190,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1038/s41589-018-0204-3"
   },
   {
-    "Index": 76,
     "UniProt": "P00533",
     "PDB": "5Y9T",
     "Ligand_Chain": "A",
@@ -1137,25 +1415,31 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 8,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 77,
     "UniProt": "P00533",
     "PDB": "5YU9",
     "Ligand_Chain": "A",
     "Ligand_Index": 1101,
-    "Ligand": "1E8",
+    "Ligand": 100000000,
     "Nucleophile_Chain": "A",
     "Nucleophile_Index": 797,
     "Nucleophile": "CYS",
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 96,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 78,
     "UniProt": "P00533",
     "PDB": "6D8E",
     "Ligand_Chain": "A",
@@ -1167,10 +1451,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 21,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1002/anie.201805187"
   },
   {
-    "Index": 79,
     "UniProt": "P00533",
     "PDB": "6JWL",
     "Ligand_Chain": "A",
@@ -1182,10 +1469,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 3,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 80,
     "UniProt": "P00533",
     "PDB": "6JX0",
     "Ligand_Chain": "A",
@@ -1197,10 +1487,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "EC50",
+    "Value": 18,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 81,
     "UniProt": "P00533",
     "PDB": "6JX4",
     "Ligand_Chain": "A",
@@ -1212,10 +1505,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 19,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 82,
     "UniProt": "P00533",
     "PDB": "6JXT",
     "Ligand_Chain": "A",
@@ -1227,10 +1523,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 11,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 83,
     "UniProt": "P00533",
     "PDB": "6JZ0",
     "Ligand_Chain": "A",
@@ -1242,10 +1541,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 2,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 15,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 84,
     "UniProt": "P00533",
     "PDB": "6TFU",
     "Ligand_Chain": "A",
@@ -1257,10 +1559,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 12,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.0c00870"
   },
   {
-    "Index": 85,
     "UniProt": "P00533",
     "PDB": "6TFV",
     "Ligand_Chain": "A",
@@ -1272,10 +1577,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 1.9,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.0c00870"
   },
   {
-    "Index": 86,
     "UniProt": "P00533",
     "PDB": "6TFW",
     "Ligand_Chain": "A",
@@ -1287,10 +1595,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 15,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.0c00870"
   },
   {
-    "Index": 87,
     "UniProt": "P00533",
     "PDB": "6TFY",
     "Ligand_Chain": "A",
@@ -1302,10 +1613,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 9.3,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.0c00870"
   },
   {
-    "Index": 88,
     "UniProt": "P00533",
     "PDB": "6TFZ",
     "Ligand_Chain": "A",
@@ -1317,10 +1631,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 14,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.0c00870"
   },
   {
-    "Index": 89,
     "UniProt": "P00533",
     "PDB": "6TG0",
     "Ligand_Chain": "A",
@@ -1332,10 +1649,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 15,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.0c00870"
   },
   {
-    "Index": 90,
     "UniProt": "P00533",
     "PDB": "6TG1",
     "Ligand_Chain": "A",
@@ -1347,10 +1667,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 23,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.0c00870"
   },
   {
-    "Index": 91,
     "UniProt": "P00533",
     "PDB": "6V66",
     "Ligand_Chain": "C",
@@ -1362,10 +1685,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 1,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.0c00200"
   },
   {
-    "Index": 92,
     "UniProt": "P00533",
     "PDB": "6V6K",
     "Ligand_Chain": "D",
@@ -1377,10 +1703,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": "<1",
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.0c00200"
   },
   {
-    "Index": 93,
     "UniProt": "P00533",
     "PDB": "6V6O",
     "Ligand_Chain": "D",
@@ -1392,10 +1721,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": "<0.5",
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.0c00200"
   },
   {
-    "Index": 94,
     "UniProt": "P00533",
     "PDB": "6VH4",
     "Ligand_Chain": "A",
@@ -1407,10 +1739,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 8,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.0c00200"
   },
   {
-    "Index": 95,
     "UniProt": "P00533",
     "PDB": "6VHP",
     "Ligand_Chain": "A",
@@ -1422,10 +1757,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 35,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.0c00200"
   },
   {
-    "Index": 96,
     "UniProt": "P00533",
     "PDB": "6Z4B",
     "Ligand_Chain": "A",
@@ -1437,10 +1775,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 460,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 97,
     "UniProt": "P00533",
     "PDB": "6Z4D",
     "Ligand_Chain": "A",
@@ -1452,10 +1793,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 24,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 98,
     "UniProt": "P00533",
     "PDB": "7A2A",
     "Ligand_Chain": "A",
@@ -1467,10 +1811,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 24,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 99,
     "UniProt": "P00533",
     "PDB": "7A6I",
     "Ligand_Chain": "A",
@@ -1482,10 +1829,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 7,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.1c02080"
   },
   {
-    "Index": 100,
     "UniProt": "P00533",
     "PDB": "7A6J",
     "Ligand_Chain": "A",
@@ -1497,10 +1847,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 7,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.1c02080"
   },
   {
-    "Index": 101,
     "UniProt": "P00533",
     "PDB": "7A6K",
     "Ligand_Chain": "A",
@@ -1512,10 +1865,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 21,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1158/2159-8290.CD-20-1683"
   },
   {
-    "Index": 102,
     "UniProt": "P00533",
     "PDB": "7B85",
     "Ligand_Chain": "A",
@@ -1527,10 +1883,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 21,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1158/2159-8290.CD-20-1683"
   },
   {
-    "Index": 103,
     "UniProt": "P00533",
     "PDB": "7LGS",
     "Ligand_Chain": "A",
@@ -1542,10 +1901,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 575,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1158/2159-8290.CD-20-1683"
   },
   {
-    "Index": 104,
     "UniProt": "P00533",
     "PDB": "7OXB",
     "Ligand_Chain": "A",
@@ -1557,10 +1919,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 32,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 105,
     "UniProt": "P00533",
     "PDB": "7T4I",
     "Ligand_Chain": "A",
@@ -1572,10 +1937,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 31,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1016/j.bmcl.2022.129084"
   },
   {
-    "Index": 106,
     "UniProt": "P00533",
     "PDB": "7T4J",
     "Ligand_Chain": "A",
@@ -1587,10 +1955,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 4,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1016/j.bmcl.2022.129084"
   },
   {
-    "Index": 107,
     "UniProt": "P00533",
     "PDB": "8EME",
     "Ligand_Chain": "B",
@@ -1602,10 +1973,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "beta4"
+    "Nucleophile_Location": "beta4",
+    "Affinity_type": "IC50",
+    "Value": 471,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acscentsci.3c01245"
   },
   {
-    "Index": 108,
     "UniProt": "P00533",
     "PDB": "8EME",
     "Ligand_Chain": "B",
@@ -1617,10 +1991,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 471,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acscentsci.3c01245"
   },
   {
-    "Index": 109,
     "UniProt": "P00533",
     "PDB": "8GK5",
     "Ligand_Chain": "A",
@@ -1632,10 +2009,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.2210/pdb8GK5/pdb"
   },
   {
-    "Index": 110,
     "UniProt": "P00533",
     "PDB": "8HV1",
     "Ligand_Chain": "A",
@@ -1647,10 +2027,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 18,
-    "Nucleophile_Location": "beta4"
+    "Nucleophile_Location": "beta4",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.1039/D3MD00439B"
   },
   {
-    "Index": 111,
     "UniProt": "P00533",
     "PDB": "8HV2",
     "Ligand_Chain": "A",
@@ -1662,10 +2045,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "beta4"
+    "Nucleophile_Location": "beta4",
+    "Affinity_type": "IC50",
+    "Value": ">500",
+    "Unit": "uM",
+    "Source": "https://doi.org/10.1039/D3MD00439B"
   },
   {
-    "Index": 112,
     "UniProt": "P00533",
     "PDB": "8HV3",
     "Ligand_Chain": "A",
@@ -1677,10 +2063,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "beta4"
+    "Nucleophile_Location": "beta4",
+    "Affinity_type": "IC50",
+    "Value": ">500",
+    "Unit": "uM",
+    "Source": "https://doi.org/10.1039/D3MD00439B"
   },
   {
-    "Index": 113,
     "UniProt": "P00533",
     "PDB": "8HV4",
     "Ligand_Chain": "A",
@@ -1692,10 +2081,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "beta4"
+    "Nucleophile_Location": "beta4",
+    "Affinity_type": "IC50",
+    "Value": ">500",
+    "Unit": "uM",
+    "Source": "https://doi.org/10.1039/D3MD00439B"
   },
   {
-    "Index": 114,
     "UniProt": "P00533",
     "PDB": "8HV6",
     "Ligand_Chain": "A",
@@ -1707,10 +2099,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "beta4"
+    "Nucleophile_Location": "beta4",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.1039/D3MD00439B"
   },
   {
-    "Index": 115,
     "UniProt": "P00533",
     "PDB": "8HV7",
     "Ligand_Chain": "A",
@@ -1722,10 +2117,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "beta4"
+    "Nucleophile_Location": "beta4",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.1039/D3MD00439B"
   },
   {
-    "Index": 116,
     "UniProt": "P00533",
     "PDB": "8HV8",
     "Ligand_Chain": "A",
@@ -1737,10 +2135,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "beta4"
+    "Nucleophile_Location": "beta4",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.1039/D3MD00439B"
   },
   {
-    "Index": 117,
     "UniProt": "P00533",
     "PDB": "8HV9",
     "Ligand_Chain": "A",
@@ -1752,10 +2153,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "beta4"
+    "Nucleophile_Location": "beta4",
+    "Affinity_type": "IC50",
+    "Value": 32,
+    "Unit": "uM",
+    "Source": "https://doi.org/10.1039/D3MD00439B"
   },
   {
-    "Index": 118,
     "UniProt": "P00533",
     "PDB": "8HVA",
     "Ligand_Chain": "A",
@@ -1767,10 +2171,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "beta4"
+    "Nucleophile_Location": "beta4",
+    "Affinity_type": "IC50",
+    "Value": 0.9,
+    "Unit": "uM",
+    "Source": "https://doi.org/10.1039/D3MD00439B"
   },
   {
-    "Index": 119,
     "UniProt": "P00533",
     "PDB": "8TJL",
     "Ligand_Chain": "A",
@@ -1782,10 +2189,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 242,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.3c01891"
   },
   {
-    "Index": 120,
     "UniProt": "P00533",
     "PDB": "9EWT",
     "Ligand_Chain": "A",
@@ -1797,10 +2207,13 @@
     "Kinase": "EGFR",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 0.19,
+    "Unit": "uM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.4c01792"
   },
   {
-    "Index": 121,
     "UniProt": "P04626",
     "PDB": "7PCD",
     "Ligand_Chain": "A",
@@ -1812,10 +2225,13 @@
     "Kinase": "HER2",
     "Organism": "HUMAN",
     "Warhead_Type": 2,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 20,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1038/s43018-022-00412-y"
   },
   {
-    "Index": 122,
     "UniProt": "P04626",
     "PDB": "8U8X",
     "Ligand_Chain": "A",
@@ -1827,10 +2243,13 @@
     "Kinase": "HER2",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 63,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.4c00978"
   },
   {
-    "Index": 123,
     "UniProt": "P10721",
     "PDB": "6XVB",
     "Ligand_Chain": "A",
@@ -1842,10 +2261,13 @@
     "Kinase": "KIT",
     "Organism": "HUMAN",
     "Warhead_Type": 14,
-    "Nucleophile_Location": "Catalytic-loop"
+    "Nucleophile_Location": "Catalytic-loop",
+    "Affinity_type": "IC50",
+    "Value": 2.1,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/jacs.9b13391"
   },
   {
-    "Index": 124,
     "UniProt": "P11362",
     "PDB": "5O49",
     "Ligand_Chain": "A",
@@ -1857,10 +2279,13 @@
     "Kinase": "FGFR1",
     "Organism": "HUMAN",
     "Warhead_Type": 10,
-    "Nucleophile_Location": "beta3"
+    "Nucleophile_Location": "beta3",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.1039/c7ob02028g"
   },
   {
-    "Index": 125,
     "UniProt": "P11362",
     "PDB": "5O4A",
     "Ligand_Chain": "B",
@@ -1872,10 +2297,13 @@
     "Kinase": "FGFR1",
     "Organism": "HUMAN",
     "Warhead_Type": 10,
-    "Nucleophile_Location": "beta3"
+    "Nucleophile_Location": "beta3",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.1039/c7ob02028g"
   },
   {
-    "Index": 126,
     "UniProt": "P11362",
     "PDB": "5U8L",
     "Ligand_Chain": "A",
@@ -1887,10 +2315,13 @@
     "Kinase": "FGFR1",
     "Organism": "HUMAN",
     "Warhead_Type": 10,
-    "Nucleophile_Location": "beta3"
+    "Nucleophile_Location": "beta3",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.1021/jacs.6b08536"
   },
   {
-    "Index": 127,
     "UniProt": "P11362",
     "PDB": "5VND",
     "Ligand_Chain": "A",
@@ -1902,10 +2333,13 @@
     "Kinase": "FGFR1",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "gk+2"
+    "Nucleophile_Location": "gk+2",
+    "Affinity_type": "IC50",
+    "Value": "<1.2",
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1158/0008-5472.CAN-17-1865"
   },
   {
-    "Index": 128,
     "UniProt": "P11362",
     "PDB": "6MZW",
     "Ligand_Chain": "A",
@@ -1917,10 +2351,13 @@
     "Kinase": "FGFR1",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "p-loop"
+    "Nucleophile_Location": "p-loop",
+    "Affinity_type": "IC50",
+    "Value": 1.8,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 129,
     "UniProt": "P11362",
     "PDB": "6NVL",
     "Ligand_Chain": "A",
@@ -1932,10 +2369,13 @@
     "Kinase": "FGFR1",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "p-loop"
+    "Nucleophile_Location": "p-loop",
+    "Affinity_type": "IC50",
+    "Value": 11.1,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acsmedchemlett.9b00196"
   },
   {
-    "Index": 130,
     "UniProt": "P11362",
     "PDB": "6P69",
     "Ligand_Chain": "A",
@@ -1947,10 +2387,13 @@
     "Kinase": "FGFR1",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "gk+2"
+    "Nucleophile_Location": "gk+2",
+    "Affinity_type": "IC50",
+    "Value": 1020,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 131,
     "UniProt": "P11362",
     "PDB": "8XLO",
     "Ligand_Chain": "A",
@@ -1962,10 +2405,13 @@
     "Kinase": "FGFR1",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "p-loop"
+    "Nucleophile_Location": "p-loop",
+    "Affinity_type": "IC50",
+    "Value": 420,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1016/j.ejmech.2024.116281"
   },
   {
-    "Index": 132,
     "UniProt": "P11362",
     "PDB": "8XZ7",
     "Ligand_Chain": "A",
@@ -1977,10 +2423,13 @@
     "Kinase": "FGFR1",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "p-loop"
+    "Nucleophile_Location": "p-loop",
+    "Affinity_type": "IC50",
+    "Value": 46,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1016/j.ejmech.2024.116558"
   },
   {
-    "Index": 133,
     "UniProt": "P11362",
     "PDB": "8Y22",
     "Ligand_Chain": "A",
@@ -1992,10 +2441,13 @@
     "Kinase": "FGFR1",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "p-loop"
+    "Nucleophile_Location": "p-loop",
+    "Affinity_type": "IC50",
+    "Value": 23,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1016/j.ejmech.2024.116558"
   },
   {
-    "Index": 134,
     "UniProt": "P12931",
     "PDB": "6ATE",
     "Ligand_Chain": "A",
@@ -2007,10 +2459,13 @@
     "Kinase": "SRC",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "p-loop"
+    "Nucleophile_Location": "p-loop",
+    "Affinity_type": "IC50",
+    "Value": 0.4,
+    "Unit": "uM",
+    "Source": "https://doi.org/10.1016/j.chembiol.2019.02.021"
   },
   {
-    "Index": 135,
     "UniProt": "P12931",
     "PDB": "6E6E",
     "Ligand_Chain": "A",
@@ -2022,10 +2477,31 @@
     "Kinase": "SRC",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "p-loop"
+    "Nucleophile_Location": "p-loop",
+    "Affinity_type": "IC50",
+    "Value": 3,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 136,
+    "UniProt": "P12931",
+    "PDB": "8JF3",
+    "Ligand_Chain": "C",
+    "Ligand_Index": 601,
+    "Ligand": "C0N",
+    "Nucleophile_Chain": "A",
+    "Nucleophile_Index": 298,
+    "Nucleophile": "LYS",
+    "Kinase": "SRC",
+    "Organism": "HUMAN",
+    "Warhead_Type": 21,
+    "Nucleophile_Location": "beta3",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.1002/anie.202316394"
+  },
+  {
     "UniProt": "P12931",
     "PDB": "8JN9",
     "Ligand_Chain": "A",
@@ -2037,10 +2513,13 @@
     "Kinase": "SRC",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "p-loop"
+    "Nucleophile_Location": "p-loop",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.2210/pdb8JN9/pdb"
   },
   {
-    "Index": 137,
     "UniProt": "P18654",
     "PDB": "4M8T",
     "Ligand_Chain": "A",
@@ -2052,10 +2531,13 @@
     "Kinase": "RSK2",
     "Organism": "MOUSE",
     "Warhead_Type": 5,
-    "Nucleophile_Location": "beta2"
+    "Nucleophile_Location": "beta2",
+    "Affinity_type": "IC50",
+    "Value": 370,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1038/nchembio.1666"
   },
   {
-    "Index": 138,
     "UniProt": "P18654",
     "PDB": "4MAO",
     "Ligand_Chain": "A",
@@ -2067,10 +2549,13 @@
     "Kinase": "RSK2",
     "Organism": "MOUSE",
     "Warhead_Type": 5,
-    "Nucleophile_Location": "beta2"
+    "Nucleophile_Location": "beta2",
+    "Affinity_type": "IC50",
+    "Value": 47,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/ja505194w"
   },
   {
-    "Index": 139,
     "UniProt": "P21802",
     "PDB": "7KIA",
     "Ligand_Chain": "A",
@@ -2082,10 +2567,13 @@
     "Kinase": "FGFR2",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "p-loop"
+    "Nucleophile_Location": "p-loop",
+    "Affinity_type": "IC50",
+    "Value": 49,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acsmedchemlett.0c00517"
   },
   {
-    "Index": 140,
     "UniProt": "P21802",
     "PDB": "7KIE",
     "Ligand_Chain": "A",
@@ -2097,10 +2585,13 @@
     "Kinase": "FGFR2",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "p-loop"
+    "Nucleophile_Location": "p-loop",
+    "Affinity_type": "IC50",
+    "Value": 1.3,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acsmedchemlett.0c00517"
   },
   {
-    "Index": 141,
     "UniProt": "P21802",
     "PDB": "8STG",
     "Ligand_Chain": "A",
@@ -2112,10 +2603,13 @@
     "Kinase": "FGFR2",
     "Organism": "HUMAN",
     "Warhead_Type": 2,
-    "Nucleophile_Location": "p-loop"
+    "Nucleophile_Location": "p-loop",
+    "Affinity_type": "IC50",
+    "Value": 3,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1158/2159-8290.CD-23-0475"
   },
   {
-    "Index": 142,
     "UniProt": "P21802",
     "PDB": "8SWE",
     "Ligand_Chain": "A",
@@ -2127,10 +2621,13 @@
     "Kinase": "FGFR2",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "p-loop"
+    "Nucleophile_Location": "p-loop",
+    "Affinity_type": "IC50",
+    "Value": 10,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1073/pnas.2317756121"
   },
   {
-    "Index": 143,
     "UniProt": "P21802",
     "PDB": "8U1F",
     "Ligand_Chain": "A",
@@ -2142,10 +2639,13 @@
     "Kinase": "FGFR2",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "p-loop"
+    "Nucleophile_Location": "p-loop",
+    "Affinity_type": "IC50",
+    "Value": 7,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1073/pnas.2317756121"
   },
   {
-    "Index": 144,
     "UniProt": "P21802",
     "PDB": "8W38",
     "Ligand_Chain": "A",
@@ -2157,10 +2657,13 @@
     "Kinase": "FGFR2",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "p-loop"
+    "Nucleophile_Location": "p-loop",
+    "Affinity_type": "IC50",
+    "Value": 0.11,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1016/j.annonc.2024.12.011"
   },
   {
-    "Index": 145,
     "UniProt": "P22455",
     "PDB": "4QQ5",
     "Ligand_Chain": "A",
@@ -2172,10 +2675,13 @@
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "p-loop"
+    "Nucleophile_Location": "p-loop",
+    "Affinity_type": "IC50",
+    "Value": 32,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/cb500674s"
   },
   {
-    "Index": 146,
     "UniProt": "P22455",
     "PDB": "4QQC",
     "Ligand_Chain": "A",
@@ -2187,10 +2693,13 @@
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "p-loop"
+    "Nucleophile_Location": "p-loop",
+    "Affinity_type": "IC50",
+    "Value": 32,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1073/pnas.1403438111"
   },
   {
-    "Index": 147,
     "UniProt": "P22455",
     "PDB": "4R6V",
     "Ligand_Chain": "A",
@@ -2202,10 +2711,13 @@
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "p-loop"
+    "Nucleophile_Location": "p-loop",
+    "Affinity_type": "IC50",
+    "Value": 22,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1073/pnas.1403438111"
   },
   {
-    "Index": 148,
     "UniProt": "P22455",
     "PDB": "4XCU",
     "Ligand_Chain": "A",
@@ -2217,10 +2729,13 @@
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "gk+2"
+    "Nucleophile_Location": "gk+2",
+    "Affinity_type": "IC50",
+    "Value": 3,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1158/2159-8290.CD-14-1029"
   },
   {
-    "Index": 149,
     "UniProt": "P22455",
     "PDB": "5NUD",
     "Ligand_Chain": "A",
@@ -2232,10 +2747,13 @@
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
     "Warhead_Type": 9,
-    "Nucleophile_Location": "gk+2"
+    "Nucleophile_Location": "gk+2",
+    "Affinity_type": "IC50",
+    "Value": 52,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1039/c7md00213k"
   },
   {
-    "Index": 150,
     "UniProt": "P22455",
     "PDB": "5NWZ",
     "Ligand_Chain": "A",
@@ -2247,10 +2765,13 @@
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "p-loop"
+    "Nucleophile_Location": "p-loop",
+    "Affinity_type": "IC50",
+    "Value": 1.5,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1039/c7md00213k"
   },
   {
-    "Index": 151,
     "UniProt": "P22455",
     "PDB": "6IUO",
     "Ligand_Chain": "A",
@@ -2262,10 +2783,13 @@
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "p-loop"
+    "Nucleophile_Location": "p-loop",
+    "Affinity_type": "IC50",
+    "Value": 23.1,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.9b00510"
   },
   {
-    "Index": 152,
     "UniProt": "P22455",
     "PDB": "6IUP",
     "Ligand_Chain": "A",
@@ -2277,10 +2801,13 @@
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "p-loop"
+    "Nucleophile_Location": "p-loop",
+    "Affinity_type": "IC50",
+    "Value": 23,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 153,
     "UniProt": "P22455",
     "PDB": "6JPE",
     "Ligand_Chain": "A",
@@ -2292,10 +2819,13 @@
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "gk+2"
+    "Nucleophile_Location": "gk+2",
+    "Affinity_type": "IC50",
+    "Value": 0.4,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 154,
     "UniProt": "P22455",
     "PDB": "6JPJ",
     "Ligand_Chain": "A",
@@ -2307,10 +2837,13 @@
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
     "Warhead_Type": 8,
-    "Nucleophile_Location": "gk+2"
+    "Nucleophile_Location": "gk+2",
+    "Affinity_type": "IC50",
+    "Value": 1.3,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 155,
     "UniProt": "P22455",
     "PDB": "6NVG",
     "Ligand_Chain": "A",
@@ -2322,10 +2855,13 @@
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "gk+2"
+    "Nucleophile_Location": "gk+2",
+    "Affinity_type": "IC50",
+    "Value": 8.5,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acsmedchemlett.9b00196"
   },
   {
-    "Index": 156,
     "UniProt": "P22455",
     "PDB": "6NVH",
     "Ligand_Chain": "A",
@@ -2337,10 +2873,13 @@
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "gk+2"
+    "Nucleophile_Location": "gk+2",
+    "Affinity_type": "IC50",
+    "Value": 11.1,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acsmedchemlett.9b00196"
   },
   {
-    "Index": 157,
     "UniProt": "P22455",
     "PDB": "6NVI",
     "Ligand_Chain": "A",
@@ -2352,10 +2891,13 @@
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "gk+2"
+    "Nucleophile_Location": "gk+2",
+    "Affinity_type": "IC50",
+    "Value": 2.6,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acsmedchemlett.9b00196"
   },
   {
-    "Index": 158,
     "UniProt": "P22455",
     "PDB": "6NVJ",
     "Ligand_Chain": "A",
@@ -2367,10 +2909,13 @@
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "gk+2"
+    "Nucleophile_Location": "gk+2",
+    "Affinity_type": "IC50",
+    "Value": 5.3,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acsmedchemlett.9b00196"
   },
   {
-    "Index": 159,
     "UniProt": "P22455",
     "PDB": "6NVK",
     "Ligand_Chain": "A",
@@ -2382,10 +2927,13 @@
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "gk+2"
+    "Nucleophile_Location": "gk+2",
+    "Affinity_type": "IC50",
+    "Value": 5,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acsmedchemlett.9b00196"
   },
   {
-    "Index": 160,
     "UniProt": "P22455",
     "PDB": "6V9C",
     "Ligand_Chain": "A",
@@ -2397,10 +2945,13 @@
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "gk+2"
+    "Nucleophile_Location": "gk+2",
+    "Affinity_type": "IC50",
+    "Value": 6.5,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 161,
     "UniProt": "P22455",
     "PDB": "6YI8",
     "Ligand_Chain": "A",
@@ -2412,10 +2963,13 @@
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
     "Warhead_Type": 8,
-    "Nucleophile_Location": "gk+2"
+    "Nucleophile_Location": "gk+2",
+    "Affinity_type": "IC50",
+    "Value": 9,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 162,
     "UniProt": "P22455",
     "PDB": "7DTZ",
     "Ligand_Chain": "A",
@@ -2427,10 +2981,13 @@
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
     "Warhead_Type": 2,
-    "Nucleophile_Location": "gk+2"
+    "Nucleophile_Location": "gk+2",
+    "Affinity_type": "IC50",
+    "Value": 45,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 163,
     "UniProt": "P22455",
     "PDB": "7F3M",
     "Ligand_Chain": "A",
@@ -2442,10 +2999,13 @@
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "p-loop"
+    "Nucleophile_Location": "p-loop",
+    "Affinity_type": "IC50",
+    "Value": 19,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 164,
     "UniProt": "P22455",
     "PDB": "7V29",
     "Ligand_Chain": "A",
@@ -2457,10 +3017,13 @@
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "p-loop"
+    "Nucleophile_Location": "p-loop",
+    "Affinity_type": "IC50",
+    "Value": 38,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1038/s42004-022-00657-9"
   },
   {
-    "Index": 165,
     "UniProt": "P22455",
     "PDB": "7V29",
     "Ligand_Chain": "A",
@@ -2472,10 +3035,13 @@
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "gk+2"
+    "Nucleophile_Location": "gk+2",
+    "Affinity_type": "IC50",
+    "Value": 38,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1038/s42004-022-00657-9"
   },
   {
-    "Index": 166,
     "UniProt": "P22455",
     "PDB": "7WCT",
     "Ligand_Chain": "A",
@@ -2487,10 +3053,13 @@
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "gk+2"
+    "Nucleophile_Location": "gk+2",
+    "Affinity_type": "IC50",
+    "Value": 0.5,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.2c00096"
   },
   {
-    "Index": 167,
     "UniProt": "P22455",
     "PDB": "7WCW",
     "Ligand_Chain": "A",
@@ -2502,10 +3071,13 @@
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "gk+2"
+    "Nucleophile_Location": "gk+2",
+    "Affinity_type": "IC50",
+    "Value": 0.25,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.2c00096"
   },
   {
-    "Index": 168,
     "UniProt": "P22455",
     "PDB": "7WCX",
     "Ligand_Chain": "A",
@@ -2517,10 +3089,13 @@
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "gk+2"
+    "Nucleophile_Location": "gk+2",
+    "Affinity_type": "IC50",
+    "Value": 1.6,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.2c00096"
   },
   {
-    "Index": 169,
     "UniProt": "P22455",
     "PDB": "7YBO",
     "Ligand_Chain": "A",
@@ -2532,10 +3107,13 @@
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
     "Warhead_Type": 8,
-    "Nucleophile_Location": "gk+2"
+    "Nucleophile_Location": "gk+2",
+    "Affinity_type": "IC50",
+    "Value": 27,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 170,
     "UniProt": "P22455",
     "PDB": "7YBP",
     "Ligand_Chain": "A",
@@ -2547,10 +3125,13 @@
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
     "Warhead_Type": 8,
-    "Nucleophile_Location": "gk+2"
+    "Nucleophile_Location": "gk+2",
+    "Affinity_type": "IC50",
+    "Value": 27,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 171,
     "UniProt": "P22455",
     "PDB": "7YBX",
     "Ligand_Chain": "A",
@@ -2562,10 +3143,13 @@
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
     "Warhead_Type": 8,
-    "Nucleophile_Location": "gk+2"
+    "Nucleophile_Location": "gk+2",
+    "Affinity_type": "IC50",
+    "Value": 16,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 172,
     "UniProt": "P22455",
     "PDB": "7YC1",
     "Ligand_Chain": "A",
@@ -2577,10 +3161,13 @@
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
     "Warhead_Type": 8,
-    "Nucleophile_Location": "gk+2"
+    "Nucleophile_Location": "gk+2",
+    "Affinity_type": "IC50",
+    "Value": 11,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 173,
     "UniProt": "P22455",
     "PDB": "7YC3",
     "Ligand_Chain": "A",
@@ -2592,10 +3179,13 @@
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
     "Warhead_Type": 8,
-    "Nucleophile_Location": "gk+2"
+    "Nucleophile_Location": "gk+2",
+    "Affinity_type": "IC50",
+    "Value": 18,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 174,
     "UniProt": "P22455",
     "PDB": "8KH6",
     "Ligand_Chain": "A",
@@ -2607,10 +3197,13 @@
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
     "Warhead_Type": 8,
-    "Nucleophile_Location": "gk+2"
+    "Nucleophile_Location": "gk+2",
+    "Affinity_type": "IC50",
+    "Value": 26.1,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.3c01810"
   },
   {
-    "Index": 175,
     "UniProt": "P22455",
     "PDB": "8KH7",
     "Ligand_Chain": "A",
@@ -2622,10 +3215,13 @@
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
     "Warhead_Type": 8,
-    "Nucleophile_Location": "gk+2"
+    "Nucleophile_Location": "gk+2",
+    "Affinity_type": "IC50",
+    "Value": 16.3,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.3c01810"
   },
   {
-    "Index": 176,
     "UniProt": "P22455",
     "PDB": "8KH8",
     "Ligand_Chain": "A",
@@ -2637,10 +3233,13 @@
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
     "Warhead_Type": 8,
-    "Nucleophile_Location": "gk+2"
+    "Nucleophile_Location": "gk+2",
+    "Affinity_type": "IC50",
+    "Value": 12.6,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.3c01810"
   },
   {
-    "Index": 177,
     "UniProt": "P22455",
     "PDB": "8KH9",
     "Ligand_Chain": "A",
@@ -2652,10 +3251,13 @@
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
     "Warhead_Type": 8,
-    "Nucleophile_Location": "gk+2"
+    "Nucleophile_Location": "gk+2",
+    "Affinity_type": "IC50",
+    "Value": 57.3,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.3c01810"
   },
   {
-    "Index": 178,
     "UniProt": "P22455",
     "PDB": "8W5C",
     "Ligand_Chain": "A",
@@ -2667,10 +3269,13 @@
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
     "Warhead_Type": 8,
-    "Nucleophile_Location": "gk+2"
+    "Nucleophile_Location": "gk+2",
+    "Affinity_type": "IC50",
+    "Value": 34,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.3c01810"
   },
   {
-    "Index": 179,
     "UniProt": "P22455",
     "PDB": "8XLQ",
     "Ligand_Chain": "A",
@@ -2682,10 +3287,13 @@
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "p-loop"
+    "Nucleophile_Location": "p-loop",
+    "Affinity_type": "IC50",
+    "Value": 7,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1016/j.ejmech.2024.116281"
   },
   {
-    "Index": 180,
     "UniProt": "P22455",
     "PDB": "8XLQ",
     "Ligand_Chain": "A",
@@ -2697,10 +3305,13 @@
     "Kinase": "FGFR4",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "gk+2"
+    "Nucleophile_Location": "gk+2",
+    "Affinity_type": "IC50",
+    "Value": 7,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1016/j.ejmech.2024.116281"
   },
   {
-    "Index": 181,
     "UniProt": "P22607",
     "PDB": "8UDT",
     "Ligand_Chain": "A",
@@ -2712,10 +3323,13 @@
     "Kinase": "FGFR3",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "p-loop"
+    "Nucleophile_Location": "p-loop",
+    "Affinity_type": "IC50",
+    "Value": 9.3,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.3c01819"
   },
   {
-    "Index": 182,
     "UniProt": "P22607",
     "PDB": "8UDU",
     "Ligand_Chain": "A",
@@ -2727,10 +3341,13 @@
     "Kinase": "FGFR3",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "p-loop"
+    "Nucleophile_Location": "p-loop",
+    "Affinity_type": "IC50",
+    "Value": 7.6,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.3c01819"
   },
   {
-    "Index": 183,
     "UniProt": "P22607",
     "PDB": "8UDV",
     "Ligand_Chain": "A",
@@ -2742,10 +3359,13 @@
     "Kinase": "FGFR3",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "p-loop"
+    "Nucleophile_Location": "p-loop",
+    "Affinity_type": "IC50",
+    "Value": 9.1,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.3c01819"
   },
   {
-    "Index": 184,
     "UniProt": "P24941",
     "PDB": "5CYI",
     "Ligand_Chain": "A",
@@ -2757,10 +3377,13 @@
     "Kinase": "CDK2",
     "Organism": "HUMAN",
     "Warhead_Type": 7,
-    "Nucleophile_Location": "front+2"
+    "Nucleophile_Location": "front+2",
+    "Affinity_type": "IC50",
+    "Value": 160,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 185,
     "UniProt": "P24941",
     "PDB": "5OO0",
     "Ligand_Chain": "A",
@@ -2772,10 +3395,13 @@
     "Kinase": "CDK2",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "G-helix"
+    "Nucleophile_Location": "G-helix",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.1002/anie.201711825"
   },
   {
-    "Index": 186,
     "UniProt": "P24941",
     "PDB": "5OO1",
     "Ligand_Chain": "A",
@@ -2787,10 +3413,13 @@
     "Kinase": "CDK2",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "beta5"
+    "Nucleophile_Location": "beta5",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.2210/pdb5OO1/pdb"
   },
   {
-    "Index": 187,
     "UniProt": "P24941",
     "PDB": "5OO3",
     "Ligand_Chain": "A",
@@ -2802,10 +3431,13 @@
     "Kinase": "CDK2",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "beta5"
+    "Nucleophile_Location": "beta5",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.2210/pdb5OO1/pdb"
   },
   {
-    "Index": 188,
     "UniProt": "P24941",
     "PDB": "5OSJ",
     "Ligand_Chain": "A",
@@ -2817,10 +3449,13 @@
     "Kinase": "CDK2",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "G-helix"
+    "Nucleophile_Location": "G-helix",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.1002/anie.201711825"
   },
   {
-    "Index": 189,
     "UniProt": "P24941",
     "PDB": "5OSM",
     "Ligand_Chain": "A",
@@ -2832,10 +3467,13 @@
     "Kinase": "CDK2",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "beta5"
+    "Nucleophile_Location": "beta5",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.1002/anie.201711825"
   },
   {
-    "Index": 190,
     "UniProt": "P24941",
     "PDB": "6YL1",
     "Ligand_Chain": "A",
@@ -2847,10 +3485,13 @@
     "Kinase": "CDK2",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "beta5"
+    "Nucleophile_Location": "beta5",
+    "Affinity_type": "Ki",
+    "Value": 102,
+    "Unit": "uM",
+    "Source": "https://doi.org/10.1002/cbic.202000457"
   },
   {
-    "Index": 191,
     "UniProt": "P27361",
     "PDB": "6GES",
     "Ligand_Chain": "A",
@@ -2862,10 +3503,13 @@
     "Kinase": "MAPK3",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "dfg-1"
+    "Nucleophile_Location": "dfg-1",
+    "Affinity_type": "IC50",
+    "Value": 1090,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 192,
     "UniProt": "P28482",
     "PDB": "4ZZM",
     "Ligand_Chain": "A",
@@ -2877,10 +3521,13 @@
     "Kinase": "ERK2",
     "Organism": "HUMAN",
     "Warhead_Type": 7,
-    "Nucleophile_Location": "dfg-1"
+    "Nucleophile_Location": "dfg-1",
+    "Affinity_type": "IC50",
+    "Value": 10000,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 193,
     "UniProt": "P28482",
     "PDB": "4ZZO",
     "Ligand_Chain": "A",
@@ -2892,10 +3539,13 @@
     "Kinase": "ERK2",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "dfg-1"
+    "Nucleophile_Location": "dfg-1",
+    "Affinity_type": "IC50",
+    "Value": 480,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 194,
     "UniProt": "P28482",
     "PDB": "5LCJ",
     "Ligand_Chain": "A",
@@ -2907,10 +3557,13 @@
     "Kinase": "ERK2",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "dfg-1"
+    "Nucleophile_Location": "dfg-1",
+    "Affinity_type": "IC50",
+    "Value": 0.23,
+    "Unit": "uM",
+    "Source": "https://doi.org/10.1039/c6mb00367b"
   },
   {
-    "Index": 195,
     "UniProt": "P28482",
     "PDB": "5LCK",
     "Ligand_Chain": "A",
@@ -2922,10 +3575,13 @@
     "Kinase": "ERK2",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "dfg-1"
+    "Nucleophile_Location": "dfg-1",
+    "Affinity_type": "IC50",
+    "Value": 8,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1039/c6mb00367b"
   },
   {
-    "Index": 196,
     "UniProt": "P28482",
     "PDB": "6G54",
     "Ligand_Chain": "A",
@@ -2937,10 +3593,13 @@
     "Kinase": "ERK2",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "dfg-1"
+    "Nucleophile_Location": "dfg-1",
+    "Affinity_type": "IC50",
+    "Value": 1320,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1016/j.chembiol.2019.02.021"
   },
   {
-    "Index": 197,
     "UniProt": "P28482",
     "PDB": "8AO2",
     "Ligand_Chain": "A",
@@ -2952,10 +3611,13 @@
     "Kinase": "ERK2",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "dfg-1"
+    "Nucleophile_Location": "dfg-1",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.2c01044"
   },
   {
-    "Index": 198,
     "UniProt": "P28482",
     "PDB": "8AO3",
     "Ligand_Chain": "A",
@@ -2967,10 +3629,13 @@
     "Kinase": "ERK2",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "dfg-1"
+    "Nucleophile_Location": "dfg-1",
+    "Affinity_type": "IC50",
+    "Value": 120,
+    "Unit": "uM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.2c01044"
   },
   {
-    "Index": 199,
     "UniProt": "P28482",
     "PDB": "8AO4",
     "Ligand_Chain": "A",
@@ -2982,10 +3647,13 @@
     "Kinase": "ERK2",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "dfg-1"
+    "Nucleophile_Location": "dfg-1",
+    "Affinity_type": "IC50",
+    "Value": 3.4,
+    "Unit": "uM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.2c01044"
   },
   {
-    "Index": 200,
     "UniProt": "P28482",
     "PDB": "8AO5",
     "Ligand_Chain": "A",
@@ -2997,10 +3665,13 @@
     "Kinase": "ERK2",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "dfg-1"
+    "Nucleophile_Location": "dfg-1",
+    "Affinity_type": "IC50",
+    "Value": 80,
+    "Unit": "uM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.2c01044"
   },
   {
-    "Index": 201,
     "UniProt": "P28482",
     "PDB": "8AO7",
     "Ligand_Chain": "A",
@@ -3012,10 +3683,13 @@
     "Kinase": "ERK2",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "dfg-1"
+    "Nucleophile_Location": "dfg-1",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.2c01044"
   },
   {
-    "Index": 202,
     "UniProt": "P28482",
     "PDB": "8AO8",
     "Ligand_Chain": "A",
@@ -3027,10 +3701,13 @@
     "Kinase": "ERK2",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "dfg-1"
+    "Nucleophile_Location": "dfg-1",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.2c01044"
   },
   {
-    "Index": 203,
     "UniProt": "P28482",
     "PDB": "8AO9",
     "Ligand_Chain": "A",
@@ -3042,10 +3719,13 @@
     "Kinase": "ERK2",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "dfg-1"
+    "Nucleophile_Location": "dfg-1",
+    "Affinity_type": "IC50",
+    "Value": 29,
+    "Unit": "uM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.2c01044"
   },
   {
-    "Index": 204,
     "UniProt": "P28482",
     "PDB": "8AOA",
     "Ligand_Chain": "A",
@@ -3057,10 +3737,13 @@
     "Kinase": "ERK2",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "dfg-1"
+    "Nucleophile_Location": "dfg-1",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.2c01044"
   },
   {
-    "Index": 205,
     "UniProt": "P28482",
     "PDB": "8AOB",
     "Ligand_Chain": "A",
@@ -3072,10 +3755,13 @@
     "Kinase": "ERK2",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "dfg-1"
+    "Nucleophile_Location": "dfg-1",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.2c01044"
   },
   {
-    "Index": 206,
     "UniProt": "P28482",
     "PDB": "8AOC",
     "Ligand_Chain": "A",
@@ -3087,10 +3773,13 @@
     "Kinase": "ERK2",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "dfg-1"
+    "Nucleophile_Location": "dfg-1",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.2c01044"
   },
   {
-    "Index": 207,
     "UniProt": "P28482",
     "PDB": "8AOD",
     "Ligand_Chain": "A",
@@ -3102,10 +3791,13 @@
     "Kinase": "ERK2",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "dfg-1"
+    "Nucleophile_Location": "dfg-1",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.2c01044"
   },
   {
-    "Index": 208,
     "UniProt": "P28482",
     "PDB": "8AOE",
     "Ligand_Chain": "A",
@@ -3117,10 +3809,13 @@
     "Kinase": "ERK2",
     "Organism": "HUMAN",
     "Warhead_Type": 7,
-    "Nucleophile_Location": "dfg-1"
+    "Nucleophile_Location": "dfg-1",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.2c01044"
   },
   {
-    "Index": 209,
     "UniProt": "P28482",
     "PDB": "8AOF",
     "Ligand_Chain": "A",
@@ -3132,10 +3827,13 @@
     "Kinase": "ERK2",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "dfg-1"
+    "Nucleophile_Location": "dfg-1",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.2c01044"
   },
   {
-    "Index": 210,
     "UniProt": "P28482",
     "PDB": "8AOG",
     "Ligand_Chain": "A",
@@ -3147,10 +3845,13 @@
     "Kinase": "ERK2",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "dfg-1"
+    "Nucleophile_Location": "dfg-1",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.2c01044"
   },
   {
-    "Index": 211,
     "UniProt": "P28482",
     "PDB": "8AOH",
     "Ligand_Chain": "A",
@@ -3162,10 +3863,13 @@
     "Kinase": "ERK2",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "dfg-1"
+    "Nucleophile_Location": "dfg-1",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.2c01044"
   },
   {
-    "Index": 212,
     "UniProt": "P28482",
     "PDB": "8AOI",
     "Ligand_Chain": "A",
@@ -3177,10 +3881,13 @@
     "Kinase": "ERK2",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "dfg-1"
+    "Nucleophile_Location": "dfg-1",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.2c01044"
   },
   {
-    "Index": 213,
     "UniProt": "P28482",
     "PDB": "8AOJ",
     "Ligand_Chain": "A",
@@ -3192,10 +3899,13 @@
     "Kinase": "ERK2",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "dfg-1"
+    "Nucleophile_Location": "dfg-1",
+    "Affinity_type": "IC50",
+    "Value": 7.8,
+    "Unit": "uM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.2c01044"
   },
   {
-    "Index": 214,
     "UniProt": "P31749",
     "PDB": "6HHF",
     "Ligand_Chain": "A",
@@ -3207,10 +3917,13 @@
     "Kinase": "AKT1",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "dfg+1"
+    "Nucleophile_Location": "dfg+1",
+    "Affinity_type": "IC50",
+    "Value": 7.5,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 215,
     "UniProt": "P31749",
     "PDB": "6HHG",
     "Ligand_Chain": "A",
@@ -3222,10 +3935,13 @@
     "Kinase": "AKT1",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "A-loop"
+    "Nucleophile_Location": "A-loop",
+    "Affinity_type": "IC50",
+    "Value": 2063,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1039/c8sc05212c"
   },
   {
-    "Index": 216,
     "UniProt": "P31749",
     "PDB": "6HHH",
     "Ligand_Chain": "A",
@@ -3237,10 +3953,13 @@
     "Kinase": "AKT1",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "dfg+1"
+    "Nucleophile_Location": "dfg+1",
+    "Affinity_type": "IC50",
+    "Value": 3614,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1039/c8sc05212c"
   },
   {
-    "Index": 217,
     "UniProt": "P31749",
     "PDB": "6HHI",
     "Ligand_Chain": "A",
@@ -3252,10 +3971,13 @@
     "Kinase": "AKT1",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "dfg+1"
+    "Nucleophile_Location": "dfg+1",
+    "Affinity_type": "Kd",
+    "Value": 79,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 218,
     "UniProt": "P31749",
     "PDB": "6HHJ",
     "Ligand_Chain": "A",
@@ -3267,10 +3989,13 @@
     "Kinase": "AKT1",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "A-loop"
+    "Nucleophile_Location": "A-loop",
+    "Affinity_type": "IC50",
+    "Value": 230,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1039/c8sc05212c"
   },
   {
-    "Index": 219,
     "UniProt": "P31749",
     "PDB": "6S9W",
     "Ligand_Chain": "A",
@@ -3282,10 +4007,13 @@
     "Kinase": "AKT1",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "A-loop"
+    "Nucleophile_Location": "A-loop",
+    "Affinity_type": "Ki",
+    "Value": 59,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1002/anie.201909857"
   },
   {
-    "Index": 220,
     "UniProt": "P31749",
     "PDB": "6S9X",
     "Ligand_Chain": "A",
@@ -3297,10 +4025,13 @@
     "Kinase": "AKT1",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "A-loop"
+    "Nucleophile_Location": "A-loop",
+    "Affinity_type": "Ki",
+    "Value": 381,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1002/anie.201909857"
   },
   {
-    "Index": 221,
     "UniProt": "P31749",
     "PDB": "7NH4",
     "Ligand_Chain": "A",
@@ -3312,10 +4043,13 @@
     "Kinase": "AKT1",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "A-loop"
+    "Nucleophile_Location": "A-loop",
+    "Affinity_type": "IC50",
+    "Value": 186,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1038/s41467-021-25512-8"
   },
   {
-    "Index": 222,
     "UniProt": "P31749",
     "PDB": "7NH5",
     "Ligand_Chain": "A",
@@ -3327,10 +4061,13 @@
     "Kinase": "AKT1",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "dfg+1"
+    "Nucleophile_Location": "dfg+1",
+    "Affinity_type": "IC50",
+    "Value": 112,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1038/s41467-021-25512-8"
   },
   {
-    "Index": 223,
     "UniProt": "P31749",
     "PDB": "7NH5",
     "Ligand_Chain": "A",
@@ -3342,10 +4079,13 @@
     "Kinase": "AKT1",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "A-loop"
+    "Nucleophile_Location": "A-loop",
+    "Affinity_type": "IC50",
+    "Value": 112,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1038/s41467-021-25512-8"
   },
   {
-    "Index": 224,
     "UniProt": "P33981",
     "PDB": "7LQD",
     "Ligand_Chain": "A",
@@ -3357,10 +4097,13 @@
     "Kinase": "TTK",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "gk+2"
+    "Nucleophile_Location": "gk+2",
+    "Affinity_type": "IC50",
+    "Value": 9.1,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 225,
     "UniProt": "P35968",
     "PDB": "6XVK",
     "Ligand_Chain": "A",
@@ -3372,10 +4115,13 @@
     "Kinase": "VEGFR2",
     "Organism": "HUMAN",
     "Warhead_Type": 13,
-    "Nucleophile_Location": "A-loop"
+    "Nucleophile_Location": "A-loop",
+    "Affinity_type": "IC50",
+    "Value": 0.538,
+    "Unit": "uM",
+    "Source": "https://doi.org/10.1021/jacs.9b13391"
   },
   {
-    "Index": 226,
     "UniProt": "P35991",
     "PDB": "6MNY",
     "Ligand_Chain": "A",
@@ -3387,10 +4133,13 @@
     "Kinase": "BTK",
     "Organism": "MOUSE",
     "Warhead_Type": 12,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 17.3,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 227,
     "UniProt": "P35991",
     "PDB": "8FD9",
     "Ligand_Chain": "A",
@@ -3402,10 +4151,13 @@
     "Kinase": "BTK",
     "Organism": "MOUSE",
     "Warhead_Type": 2,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 3.1,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 228,
     "UniProt": "P35991",
     "PDB": "8FF0",
     "Ligand_Chain": "A",
@@ -3417,10 +4169,13 @@
     "Kinase": "BTK",
     "Organism": "MOUSE",
     "Warhead_Type": 2,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 6.8,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1371/journal.pone.0290872"
   },
   {
-    "Index": 229,
     "UniProt": "P36888",
     "PDB": "5X02",
     "Ligand_Chain": "A",
@@ -3432,10 +4187,13 @@
     "Kinase": "FLT3",
     "Organism": "HUMAN",
     "Warhead_Type": 2,
-    "Nucleophile_Location": "gk+2"
+    "Nucleophile_Location": "gk+2",
+    "Affinity_type": "IC50",
+    "Value": 0.16,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 230,
     "UniProt": "P45983",
     "PDB": "8PT8",
     "Ligand_Chain": "A",
@@ -3447,10 +4205,13 @@
     "Kinase": "JNK1",
     "Organism": "HUMAN",
     "Warhead_Type": 2,
-    "Nucleophile_Location": "front+2"
+    "Nucleophile_Location": "front+2",
+    "Affinity_type": "EC50",
+    "Value": 1060,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1038/s41467-024-52573-2"
   },
   {
-    "Index": 231,
     "UniProt": "P45983",
     "PDB": "8PT9",
     "Ligand_Chain": "A",
@@ -3462,10 +4223,13 @@
     "Kinase": "JNK1",
     "Organism": "HUMAN",
     "Warhead_Type": 2,
-    "Nucleophile_Location": "front+2"
+    "Nucleophile_Location": "front+2",
+    "Affinity_type": "EC50",
+    "Value": 3.3,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1038/s41467-024-52573-2"
   },
   {
-    "Index": 232,
     "UniProt": "P45983",
     "PDB": "8PTA",
     "Ligand_Chain": "A",
@@ -3477,10 +4241,13 @@
     "Kinase": "JNK1",
     "Organism": "HUMAN",
     "Warhead_Type": 2,
-    "Nucleophile_Location": "front+2"
+    "Nucleophile_Location": "front+2",
+    "Affinity_type": "EC50",
+    "Value": 11.5,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1038/s41467-024-52573-2"
   },
   {
-    "Index": 233,
     "UniProt": "P45983",
     "PDB": "8X5M",
     "Ligand_Chain": "A",
@@ -3492,10 +4259,13 @@
     "Kinase": "JNK1",
     "Organism": "HUMAN",
     "Warhead_Type": 2,
-    "Nucleophile_Location": "front+2"
+    "Nucleophile_Location": "front+2",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.2210/pdb8X5M/pdb"
   },
   {
-    "Index": 234,
     "UniProt": "P45984",
     "PDB": "8ELC",
     "Ligand_Chain": "A",
@@ -3507,10 +4277,13 @@
     "Kinase": "JNK2",
     "Organism": "HUMAN",
     "Warhead_Type": 2,
-    "Nucleophile_Location": "front+2"
+    "Nucleophile_Location": "front+2",
+    "Affinity_type": "IC50",
+    "Value": 5,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.2c01834"
   },
   {
-    "Index": 235,
     "UniProt": "P49841",
     "PDB": "6H0U",
     "Ligand_Chain": "A",
@@ -3522,10 +4295,13 @@
     "Kinase": "GSK3B",
     "Organism": "HUMAN",
     "Warhead_Type": 5,
-    "Nucleophile_Location": "dfg-1"
+    "Nucleophile_Location": "dfg-1",
+    "Affinity_type": "IC50",
+    "Value": 6530,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 236,
     "UniProt": "P50613",
     "PDB": "6XD3",
     "Ligand_Chain": "J",
@@ -3537,10 +4313,13 @@
     "Kinase": "CDK7",
     "Organism": "HUMAN",
     "Warhead_Type": 2,
-    "Nucleophile_Location": "C-terminal"
+    "Nucleophile_Location": "C-terminal",
+    "Affinity_type": "IC50",
+    "Value": 194,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 237,
     "UniProt": "P50613",
     "PDB": "8R9S",
     "Ligand_Chain": "A",
@@ -3552,10 +4331,13 @@
     "Kinase": "CDK7",
     "Organism": "HUMAN",
     "Warhead_Type": 2,
-    "Nucleophile_Location": "C-terminal"
+    "Nucleophile_Location": "C-terminal",
+    "Affinity_type": "IC50",
+    "Value": 92.8,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1007/s10555-020-09885-8"
   },
   {
-    "Index": 238,
     "UniProt": "P51812",
     "PDB": "4D9U",
     "Ligand_Chain": "A",
@@ -3567,10 +4349,13 @@
     "Kinase": "RSK2",
     "Organism": "HUMAN",
     "Warhead_Type": 5,
-    "Nucleophile_Location": "beta2"
+    "Nucleophile_Location": "beta2",
+    "Affinity_type": "IC50",
+    "Value": 7,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1038/nchembio.925"
   },
   {
-    "Index": 239,
     "UniProt": "P51812",
     "PDB": "4JG6",
     "Ligand_Chain": "A",
@@ -3582,10 +4367,13 @@
     "Kinase": "RSK2",
     "Organism": "HUMAN",
     "Warhead_Type": 5,
-    "Nucleophile_Location": "beta2"
+    "Nucleophile_Location": "beta2",
+    "Affinity_type": "IC50",
+    "Value": 360,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/ja401221b"
   },
   {
-    "Index": 240,
     "UniProt": "P51812",
     "PDB": "4JG7",
     "Ligand_Chain": "A",
@@ -3597,10 +4385,13 @@
     "Kinase": "RSK2",
     "Organism": "HUMAN",
     "Warhead_Type": 5,
-    "Nucleophile_Location": "beta2"
+    "Nucleophile_Location": "beta2",
+    "Affinity_type": "IC50",
+    "Value": 120,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/ja401221b"
   },
   {
-    "Index": 241,
     "UniProt": "P51812",
     "PDB": "4JG8",
     "Ligand_Chain": "A",
@@ -3612,10 +4403,13 @@
     "Kinase": "RSK2",
     "Organism": "HUMAN",
     "Warhead_Type": 5,
-    "Nucleophile_Location": "beta2"
+    "Nucleophile_Location": "beta2",
+    "Affinity_type": "IC50",
+    "Value": 12,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/ja401221b"
   },
   {
-    "Index": 242,
     "UniProt": "P51813",
     "PDB": "6I99",
     "Ligand_Chain": "A",
@@ -3627,10 +4421,13 @@
     "Kinase": "BMX",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 7.5,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1039/D0CB00033G"
   },
   {
-    "Index": 243,
     "UniProt": "P51813",
     "PDB": "8X2A",
     "Ligand_Chain": "A",
@@ -3642,10 +4439,13 @@
     "Kinase": "BMX",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.2210/pdb8X2A/pdb"
   },
   {
-    "Index": 244,
     "UniProt": "P51955",
     "PDB": "6SGD",
     "Ligand_Chain": "A",
@@ -3657,10 +4457,13 @@
     "Kinase": "NEK2",
     "Organism": "HUMAN",
     "Warhead_Type": 13,
-    "Nucleophile_Location": "beta2"
+    "Nucleophile_Location": "beta2",
+    "Affinity_type": "IC50",
+    "Value": 140,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1039/d0md00074d"
   },
   {
-    "Index": 245,
     "UniProt": "P51955",
     "PDB": "6SGH",
     "Ligand_Chain": "A",
@@ -3672,10 +4475,13 @@
     "Kinase": "NEK2",
     "Organism": "HUMAN",
     "Warhead_Type": 13,
-    "Nucleophile_Location": "beta2"
+    "Nucleophile_Location": "beta2",
+    "Affinity_type": "IC50",
+    "Value": 62,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1039/d0md00074d"
   },
   {
-    "Index": 246,
     "UniProt": "P52333",
     "PDB": "4QPS",
     "Ligand_Chain": "A",
@@ -3687,10 +4493,13 @@
     "Kinase": "JAK3",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 1.8,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1039/d0md00074d"
   },
   {
-    "Index": 247,
     "UniProt": "P52333",
     "PDB": "4V0G",
     "Ligand_Chain": "A",
@@ -3702,10 +4511,13 @@
     "Kinase": "JAK3",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.2210/pdb4V0G/pdb"
   },
   {
-    "Index": 248,
     "UniProt": "P52333",
     "PDB": "4Z16",
     "Ligand_Chain": "A",
@@ -3717,10 +4529,13 @@
     "Kinase": "JAK3",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 4.8,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 249,
     "UniProt": "P52333",
     "PDB": "5LWM",
     "Ligand_Chain": "A",
@@ -3732,10 +4547,13 @@
     "Kinase": "JAK3",
     "Organism": "HUMAN",
     "Warhead_Type": 5,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 9,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 250,
     "UniProt": "P52333",
     "PDB": "5LWN",
     "Ligand_Chain": "A",
@@ -3747,10 +4565,13 @@
     "Kinase": "JAK3",
     "Organism": "HUMAN",
     "Warhead_Type": 5,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 154,
+    "Unit": "pM",
+    "Source": "https://doi.org/10.1016/j.chembiol.2016.10.008"
   },
   {
-    "Index": 251,
     "UniProt": "P52333",
     "PDB": "5TOZ",
     "Ligand_Chain": "A",
@@ -3762,10 +4583,13 @@
     "Kinase": "JAK3",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 0.346,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acschembio.6b00677"
   },
   {
-    "Index": 252,
     "UniProt": "P52333",
     "PDB": "5TTS",
     "Ligand_Chain": "A",
@@ -3777,10 +4601,13 @@
     "Kinase": "JAK3",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 56,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.6b01694"
   },
   {
-    "Index": 253,
     "UniProt": "P52333",
     "PDB": "5TTU",
     "Ligand_Chain": "A",
@@ -3792,10 +4619,13 @@
     "Kinase": "JAK3",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 47,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.6b01694"
   },
   {
-    "Index": 254,
     "UniProt": "P52333",
     "PDB": "5TTV",
     "Ligand_Chain": "A",
@@ -3807,10 +4637,13 @@
     "Kinase": "JAK3",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 29,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.6b01694"
   },
   {
-    "Index": 255,
     "UniProt": "P52333",
     "PDB": "5WFJ",
     "Ligand_Chain": "A",
@@ -3822,10 +4655,13 @@
     "Kinase": "JAK3",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 1.3,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1016/j.bmcl.2017.09.023"
   },
   {
-    "Index": 256,
     "UniProt": "P52333",
     "PDB": "6DA4",
     "Ligand_Chain": "A",
@@ -3837,10 +4673,13 @@
     "Kinase": "JAK3",
     "Organism": "HUMAN",
     "Warhead_Type": 12,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 456,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.8b01308"
   },
   {
-    "Index": 257,
     "UniProt": "P52333",
     "PDB": "6DB4",
     "Ligand_Chain": "A",
@@ -3852,10 +4691,13 @@
     "Kinase": "JAK3",
     "Organism": "HUMAN",
     "Warhead_Type": 12,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 49,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.8b01308"
   },
   {
-    "Index": 258,
     "UniProt": "P52333",
     "PDB": "6DUD",
     "Ligand_Chain": "A",
@@ -3867,10 +4709,13 @@
     "Kinase": "JAK3",
     "Organism": "HUMAN",
     "Warhead_Type": 12,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 256,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.8b01308"
   },
   {
-    "Index": 259,
     "UniProt": "P52333",
     "PDB": "7APF",
     "Ligand_Chain": "A",
@@ -3882,10 +4727,13 @@
     "Kinase": "JAK3",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 283,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.3390/ijms21239269"
   },
   {
-    "Index": 260,
     "UniProt": "P52333",
     "PDB": "7APG",
     "Ligand_Chain": "A",
@@ -3897,10 +4745,13 @@
     "Kinase": "JAK3",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 15,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.3390/ijms21239269"
   },
   {
-    "Index": 261,
     "UniProt": "P52564",
     "PDB": "8P7J",
     "Ligand_Chain": "A",
@@ -3912,10 +4763,13 @@
     "Kinase": "MP2K6",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "dfg-1"
+    "Nucleophile_Location": "dfg-1",
+    "Affinity_type": "EC50",
+    "Value": 0.27,
+    "Unit": "uM",
+    "Source": "https://doi.org/10.1002/anie.202419736"
   },
   {
-    "Index": 262,
     "UniProt": "P52564",
     "PDB": "8PM3",
     "Ligand_Chain": "A",
@@ -3927,10 +4781,13 @@
     "Kinase": "MP2K6",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "dfg-1"
+    "Nucleophile_Location": "dfg-1",
+    "Affinity_type": "EC50",
+    "Value": 5.43,
+    "Unit": "uM",
+    "Source": "https://doi.org/10.1002/anie.202419736"
   },
   {
-    "Index": 263,
     "UniProt": "P53779",
     "PDB": "3V6R",
     "Ligand_Chain": "A",
@@ -3942,10 +4799,13 @@
     "Kinase": "JNK3",
     "Organism": "HUMAN",
     "Warhead_Type": 2,
-    "Nucleophile_Location": "front+2"
+    "Nucleophile_Location": "front+2",
+    "Affinity_type": "IC50",
+    "Value": 709,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1016/j.chembiol.2011.11.010"
   },
   {
-    "Index": 264,
     "UniProt": "P53779",
     "PDB": "3V6S",
     "Ligand_Chain": "B",
@@ -3957,10 +4817,13 @@
     "Kinase": "JNK3",
     "Organism": "HUMAN",
     "Warhead_Type": 2,
-    "Nucleophile_Location": "front+2"
+    "Nucleophile_Location": "front+2",
+    "Affinity_type": "IC50",
+    "Value": 0.75,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1016/j.chembiol.2011.11.010"
   },
   {
-    "Index": 265,
     "UniProt": "P53779",
     "PDB": "7ORE",
     "Ligand_Chain": "A",
@@ -3972,10 +4835,13 @@
     "Kinase": "JNK3",
     "Organism": "HUMAN",
     "Warhead_Type": 2,
-    "Nucleophile_Location": "front+2"
+    "Nucleophile_Location": "front+2",
+    "Affinity_type": "IC50",
+    "Value": 507,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1002/anie.202103767"
   },
   {
-    "Index": 266,
     "UniProt": "P53779",
     "PDB": "7ORF",
     "Ligand_Chain": "A",
@@ -3987,10 +4853,13 @@
     "Kinase": "JNK3",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front+2"
+    "Nucleophile_Location": "front+2",
+    "Affinity_type": "IC50",
+    "Value": 23,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 267,
     "UniProt": "P54753",
     "PDB": "5L6O",
     "Ligand_Chain": "A",
@@ -4002,10 +4871,13 @@
     "Kinase": "EPHB3",
     "Organism": "HUMAN",
     "Warhead_Type": 8,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 6,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/jacs.6b05483"
   },
   {
-    "Index": 268,
     "UniProt": "P54753",
     "PDB": "5L6P",
     "Ligand_Chain": "A",
@@ -4017,10 +4889,13 @@
     "Kinase": "EPHB3",
     "Organism": "HUMAN",
     "Warhead_Type": 8,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 55,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/jacs.6b05483"
   },
   {
-    "Index": 269,
     "UniProt": "P54762",
     "PDB": "5MJB",
     "Ligand_Chain": "A",
@@ -4032,10 +4907,13 @@
     "Kinase": "EPHB1",
     "Organism": "HUMAN",
     "Warhead_Type": 8,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 3,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acschembio.6b01083"
   },
   {
-    "Index": 270,
     "UniProt": "Q02750",
     "PDB": "5HZE",
     "Ligand_Chain": "A",
@@ -4047,10 +4925,13 @@
     "Kinase": "MAP2K1",
     "Organism": "HUMAN",
     "Warhead_Type": 6,
-    "Nucleophile_Location": "dfg-1"
+    "Nucleophile_Location": "dfg-1",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.2210/pdb5HZE/pdb"
   },
   {
-    "Index": 271,
     "UniProt": "Q06187",
     "PDB": "4YHF",
     "Ligand_Chain": "A",
@@ -4062,10 +4943,13 @@
     "Kinase": "BTK",
     "Organism": "HUMAN",
     "Warhead_Type": 5,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 4.6,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1038/nchembio.1817"
   },
   {
-    "Index": 272,
     "UniProt": "Q06187",
     "PDB": "5J87",
     "Ligand_Chain": "A",
@@ -4077,25 +4961,31 @@
     "Kinase": "BTK",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 7,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 273,
     "UniProt": "Q06187",
     "PDB": "5P9J",
     "Ligand_Chain": "A",
     "Ligand_Index": 701,
-    "Ligand": "8E8",
+    "Ligand": 800000000,
     "Nucleophile_Chain": "A",
     "Nucleophile_Index": 481,
     "Nucleophile": "CYS",
     "Kinase": "BTK",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 22.86,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1124/mol.116.107037"
   },
   {
-    "Index": 274,
     "UniProt": "Q06187",
     "PDB": "5P9K",
     "Ligand_Chain": "A",
@@ -4107,10 +4997,13 @@
     "Kinase": "BTK",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 3.63,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1124/mol.116.107037"
   },
   {
-    "Index": 275,
     "UniProt": "Q06187",
     "PDB": "5P9L",
     "Ligand_Chain": "A",
@@ -4122,10 +5015,13 @@
     "Kinase": "BTK",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 6.83,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1124/mol.116.107037"
   },
   {
-    "Index": 276,
     "UniProt": "Q06187",
     "PDB": "5P9M",
     "Ligand_Chain": "A",
@@ -4137,10 +5033,13 @@
     "Kinase": "BTK",
     "Organism": "HUMAN",
     "Warhead_Type": 2,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 27.08,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1124/mol.116.107037"
   },
   {
-    "Index": 277,
     "UniProt": "Q06187",
     "PDB": "5XYZ",
     "Ligand_Chain": "A",
@@ -4152,10 +5051,13 @@
     "Kinase": "BTK",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 1.92,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.7b01075"
   },
   {
-    "Index": 278,
     "UniProt": "Q06187",
     "PDB": "6DI1",
     "Ligand_Chain": "A",
@@ -4167,10 +5069,13 @@
     "Kinase": "BTK",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 180,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1016/j.bmcl.2018.09.033"
   },
   {
-    "Index": 279,
     "UniProt": "Q06187",
     "PDB": "6DI3",
     "Ligand_Chain": "A",
@@ -4182,10 +5087,13 @@
     "Kinase": "BTK",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 25,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 280,
     "UniProt": "Q06187",
     "PDB": "6DI5",
     "Ligand_Chain": "A",
@@ -4197,10 +5105,13 @@
     "Kinase": "BTK",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 0.7,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1016/j.bmcl.2018.07.008"
   },
   {
-    "Index": 281,
     "UniProt": "Q06187",
     "PDB": "6DI9",
     "Ligand_Chain": "A",
@@ -4212,10 +5123,13 @@
     "Kinase": "BTK",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 7.5,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 282,
     "UniProt": "Q06187",
     "PDB": "6J6M",
     "Ligand_Chain": "A",
@@ -4227,10 +5141,13 @@
     "Kinase": "BTK",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 0.3,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.9b00687"
   },
   {
-    "Index": 283,
     "UniProt": "Q06187",
     "PDB": "6N9P",
     "Ligand_Chain": "A",
@@ -4242,10 +5159,13 @@
     "Kinase": "BTK",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 4,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1002/cmdc.201800714"
   },
   {
-    "Index": 284,
     "UniProt": "Q06187",
     "PDB": "6O8I",
     "Ligand_Chain": "A",
@@ -4257,10 +5177,13 @@
     "Kinase": "BTK",
     "Organism": "HUMAN",
     "Warhead_Type": 2,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 0.1,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.9b00167"
   },
   {
-    "Index": 285,
     "UniProt": "Q06187",
     "PDB": "6OMU",
     "Ligand_Chain": "A",
@@ -4272,10 +5195,13 @@
     "Kinase": "BTK",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 22,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 286,
     "UniProt": "Q06187",
     "PDB": "6TFP",
     "Ligand_Chain": "A",
@@ -4287,10 +5213,13 @@
     "Kinase": "BTK",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 1300,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 287,
     "UniProt": "Q06187",
     "PDB": "7L5P",
     "Ligand_Chain": "A",
@@ -4302,10 +5231,13 @@
     "Kinase": "BTK",
     "Organism": "HUMAN",
     "Warhead_Type": 5,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 1.3,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 288,
     "UniProt": "Q06187",
     "PDB": "7N5Y",
     "Ligand_Chain": "A",
@@ -4317,10 +5249,13 @@
     "Kinase": "BTK",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "pIC50",
+    "Value": ">8.7",
+    "Unit": "",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.1c01026"
   },
   {
-    "Index": 289,
     "UniProt": "Q06187",
     "PDB": "7R60",
     "Ligand_Chain": "A",
@@ -4332,10 +5267,13 @@
     "Kinase": "BTK",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 400,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1002/cmdc.202100453"
   },
   {
-    "Index": 290,
     "UniProt": "Q06187",
     "PDB": "7R61",
     "Ligand_Chain": "A",
@@ -4347,10 +5285,13 @@
     "Kinase": "BTK",
     "Organism": "HUMAN",
     "Warhead_Type": 12,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 44,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1002/cmdc.202100453"
   },
   {
-    "Index": 291,
     "UniProt": "Q06187",
     "PDB": "7YC9",
     "Ligand_Chain": "A",
@@ -4362,10 +5303,13 @@
     "Kinase": "BTK",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 0.57,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.2c01938"
   },
   {
-    "Index": 292,
     "UniProt": "Q06187",
     "PDB": "8DSO",
     "Ligand_Chain": "B",
@@ -4377,10 +5321,13 @@
     "Kinase": "BTK",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "DC50",
+    "Value": 57.2,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1038/s41467-023-36738-z"
   },
   {
-    "Index": 293,
     "UniProt": "Q06187",
     "PDB": "8E2M",
     "Ligand_Chain": "A",
@@ -4392,10 +5339,13 @@
     "Kinase": "BTK",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 0.558,
+    "Unit": "uM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.2c01026"
   },
   {
-    "Index": 294,
     "UniProt": "Q06187",
     "PDB": "8TU3",
     "Ligand_Chain": "A",
@@ -4407,10 +5357,13 @@
     "Kinase": "BTK",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 0.333,
+    "Unit": "uM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.4c00220"
   },
   {
-    "Index": 295,
     "UniProt": "Q06187",
     "PDB": "8TU4",
     "Ligand_Chain": "A",
@@ -4422,10 +5375,13 @@
     "Kinase": "BTK",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 0.079,
+    "Unit": "uM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.4c00220"
   },
   {
-    "Index": 296,
     "UniProt": "Q06187",
     "PDB": "8TU5",
     "Ligand_Chain": "A",
@@ -4437,10 +5393,13 @@
     "Kinase": "BTK",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 0.036,
+    "Unit": "uM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.4c00220"
   },
   {
-    "Index": 297,
     "UniProt": "Q08881",
     "PDB": "3T9T",
     "Ligand_Chain": "A",
@@ -4452,10 +5411,13 @@
     "Kinase": "ITK",
     "Organism": "HUMAN",
     "Warhead_Type": 2,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 1.93,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1016/j.bmcl.2011.09.008"
   },
   {
-    "Index": 298,
     "UniProt": "Q08881",
     "PDB": "4HCU",
     "Ligand_Chain": "A",
@@ -4467,10 +5429,13 @@
     "Kinase": "ITK",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 10,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/jm301190s"
   },
   {
-    "Index": 299,
     "UniProt": "Q08881",
     "PDB": "4HCV",
     "Ligand_Chain": "A",
@@ -4482,10 +5447,13 @@
     "Kinase": "ITK",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 400,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/jm301190s"
   },
   {
-    "Index": 300,
     "UniProt": "Q08881",
     "PDB": "4KIO",
     "Ligand_Chain": "C",
@@ -4497,10 +5465,13 @@
     "Kinase": "ITK",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 500,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 301,
     "UniProt": "Q14004",
     "PDB": "7NXJ",
     "Ligand_Chain": "A",
@@ -4512,10 +5483,13 @@
     "Kinase": "CDK13",
     "Organism": "HUMAN",
     "Warhead_Type": 2,
-    "Nucleophile_Location": "C-terminal"
+    "Nucleophile_Location": "C-terminal",
+    "Affinity_type": "IC50",
+    "Value": 657.1,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1016/j.ejmech.2021.113481"
   },
   {
-    "Index": 302,
     "UniProt": "Q15303",
     "PDB": "2R4B",
     "Ligand_Chain": "B",
@@ -4527,10 +5501,13 @@
     "Kinase": "ERBB4",
     "Organism": "HUMAN",
     "Warhead_Type": 3,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 66,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1073/pnas.0708281105"
   },
   {
-    "Index": 303,
     "UniProt": "Q16539",
     "PDB": "5O8U",
     "Ligand_Chain": "A",
@@ -4542,10 +5519,13 @@
     "Kinase": "p38a",
     "Organism": "HUMAN",
     "Warhead_Type": 6,
-    "Nucleophile_Location": "G-helix"
+    "Nucleophile_Location": "G-helix",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.1002/anie.201706345"
   },
   {
-    "Index": 304,
     "UniProt": "Q16539",
     "PDB": "5O8V",
     "Ligand_Chain": "A",
@@ -4557,10 +5537,13 @@
     "Kinase": "p38a",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "G-helix"
+    "Nucleophile_Location": "G-helix",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.1002/anie.201706345"
   },
   {
-    "Index": 305,
     "UniProt": "Q9NYL2",
     "PDB": "7YAW",
     "Ligand_Chain": "A",
@@ -4572,10 +5555,13 @@
     "Kinase": "ZAK",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "beta1"
+    "Nucleophile_Location": "beta1",
+    "Affinity_type": "IC50",
+    "Value": 9.1,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.3c00088"
   },
   {
-    "Index": 306,
     "UniProt": "Q9NYL2",
     "PDB": "7YAZ",
     "Ligand_Chain": "A",
@@ -4587,10 +5573,13 @@
     "Kinase": "ZAK",
     "Organism": "HUMAN",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "beta1"
+    "Nucleophile_Location": "beta1",
+    "Affinity_type": "IC50",
+    "Value": 11.5,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acs.jmedchem.3c00088"
   },
   {
-    "Index": 307,
     "UniProt": "Q9NYV4",
     "PDB": "5ACB",
     "Ligand_Chain": "C",
@@ -4602,10 +5591,13 @@
     "Kinase": "CDK12",
     "Organism": "HUMAN",
     "Warhead_Type": 2,
-    "Nucleophile_Location": "C-terminal"
+    "Nucleophile_Location": "C-terminal",
+    "Affinity_type": "IC50",
+    "Value": 158,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1038/nchembio.2166"
   },
   {
-    "Index": 308,
     "UniProt": "Q9NYV4",
     "PDB": "7NXK",
     "Ligand_Chain": "A",
@@ -4617,10 +5609,13 @@
     "Kinase": "CDK12",
     "Organism": "HUMAN",
     "Warhead_Type": 2,
-    "Nucleophile_Location": "C-terminal"
+    "Nucleophile_Location": "C-terminal",
+    "Affinity_type": "IC50",
+    "Value": 156,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 309,
     "UniProt": "P00523",
     "PDB": "2HWO",
     "Ligand_Chain": "A",
@@ -4632,10 +5627,13 @@
     "Kinase": "SRC",
     "Organism": "CHICK",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 126,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1038/nchembio866"
   },
   {
-    "Index": 310,
     "UniProt": "P00523",
     "PDB": "2HWP",
     "Ligand_Chain": "A",
@@ -4647,10 +5645,13 @@
     "Kinase": "SRC",
     "Organism": "CHICK",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 73,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1038/nchembio866"
   },
   {
-    "Index": 311,
     "UniProt": "P00523",
     "PDB": "2QLQ",
     "Ligand_Chain": "A",
@@ -4662,10 +5663,13 @@
     "Kinase": "SRC",
     "Organism": "CHICK",
     "Warhead_Type": 2,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 236,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 312,
     "UniProt": "P00523",
     "PDB": "2QQ7",
     "Ligand_Chain": "A",
@@ -4677,10 +5681,13 @@
     "Kinase": "SRC",
     "Organism": "CHICK",
     "Warhead_Type": 2,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 5710,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 313,
     "UniProt": "P00523",
     "PDB": "3LOK",
     "Ligand_Chain": "A",
@@ -4692,10 +5699,13 @@
     "Kinase": "SRC",
     "Organism": "CHICK",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "IC50",
+    "Value": 340,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 314,
     "UniProt": "P00523",
     "PDB": "3SVV",
     "Ligand_Chain": "A",
@@ -4707,10 +5717,13 @@
     "Kinase": "SRC",
     "Organism": "CHICK",
     "Warhead_Type": 7,
-    "Nucleophile_Location": "beta5"
+    "Nucleophile_Location": "beta5",
+    "Affinity_type": "IC50",
+    "Value": 3497,
+    "Unit": "nM",
+    "Source": "BindingDB"
   },
   {
-    "Index": 315,
     "UniProt": "P00523",
     "PDB": "5K9I",
     "Ligand_Chain": "A",
@@ -4722,10 +5735,13 @@
     "Kinase": "SRC",
     "Organism": "CHICK",
     "Warhead_Type": 10,
-    "Nucleophile_Location": "beta3"
+    "Nucleophile_Location": "beta3",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.1021/jacs.6b08536"
   },
   {
-    "Index": 316,
     "UniProt": "P00523",
     "PDB": "5SWH",
     "Ligand_Chain": "A",
@@ -4737,10 +5753,13 @@
     "Kinase": "SRC",
     "Organism": "CHICK",
     "Warhead_Type": 5,
-    "Nucleophile_Location": "beta2"
+    "Nucleophile_Location": "beta2",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.2210/pdb5SWH/pdb"
   },
   {
-    "Index": 317,
     "UniProt": "P00523",
     "PDB": "5SYS",
     "Ligand_Chain": "A",
@@ -4752,10 +5771,13 @@
     "Kinase": "SRC",
     "Organism": "CHICK",
     "Warhead_Type": 5,
-    "Nucleophile_Location": "beta2"
+    "Nucleophile_Location": "beta2",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.2210/pdb5SYS/pdb"
   },
   {
-    "Index": 318,
     "UniProt": "P00523",
     "PDB": "5TEH",
     "Ligand_Chain": "A",
@@ -4767,10 +5789,13 @@
     "Kinase": "SRC",
     "Organism": "CHICK",
     "Warhead_Type": 5,
-    "Nucleophile_Location": "beta2"
+    "Nucleophile_Location": "beta2",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.2210/pdb5TEH/pdb"
   },
   {
-    "Index": 319,
     "UniProt": "Q00944",
     "PDB": "6GCR",
     "Ligand_Chain": "A",
@@ -4782,10 +5807,13 @@
     "Kinase": "FAK1",
     "Organism": "CHICK",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "beta1"
+    "Nucleophile_Location": "beta1",
+    "Affinity_type": "IC50",
+    "Value": 0.6,
+    "Unit": "nM",
+    "Source": "https://doi.org/10.1021/acschembio.8b00250"
   },
   {
-    "Index": 320,
     "UniProt": "P00523",
     "PDB": "6HVE",
     "Ligand_Chain": "A",
@@ -4797,10 +5825,13 @@
     "Kinase": "SRC",
     "Organism": "CHICK",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.1039/c9sc03445e"
   },
   {
-    "Index": 321,
     "UniProt": "P00523",
     "PDB": "6HVF",
     "Ligand_Chain": "A",
@@ -4812,6 +5843,10 @@
     "Kinase": "SRC",
     "Organism": "CHICK",
     "Warhead_Type": 1,
-    "Nucleophile_Location": "front"
+    "Nucleophile_Location": "front",
+    "Affinity_type": "",
+    "Value": "",
+    "Unit": "",
+    "Source": "https://doi.org/10.1039/c9sc03445e"
   }
 ]
